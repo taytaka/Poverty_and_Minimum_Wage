@@ -1,0 +1,1735 @@
+year,state,crime_rate
+1986,Maryland,833.0
+1987,Maryland,767.8
+1988,Maryland,806.8
+1989,Maryland,855.4
+1990,Maryland,919.0
+1991,Maryland,956.2
+1992,Maryland,1000.1
+1993,Maryland,997.8
+1994,Maryland,948.0
+1995,Maryland,986.9
+1996,Maryland,931.2
+1997,Maryland,846.6
+1998,Maryland,796.6
+1999,Maryland,743.4
+2000,Maryland,786.6
+2001,Maryland,781.4
+2002,Maryland,770.8
+2003,Maryland,703.5
+2004,Maryland,700.6
+2005,Maryland,704.3
+2006,Maryland,678.6
+2007,Maryland,641.9
+2008,Maryland,628.2
+2009,Maryland,590.0
+2010,Maryland,546.3
+2011,Maryland,493.5
+2012,Maryland,477.3
+2013,Maryland,475.4
+2014,Maryland,448.0
+2015,Maryland,470.1
+2016,Maryland,481.7
+2017,Maryland,503.3
+2018,Maryland,469.4
+2019,Maryland,454.1
+1986,Nebraska,262.6
+1987,Nebraska,251.2
+1988,Nebraska,273.2
+1989,Nebraska,279.5
+1990,Nebraska,330.0
+1991,Nebraska,334.6
+1992,Nebraska,348.6
+1993,Nebraska,377.8
+1994,Nebraska,389.5
+1995,Nebraska,382.0
+1996,Nebraska,434.7
+1997,Nebraska,438.4
+1998,Nebraska,451.4
+1999,Nebraska,430.2
+2000,Nebraska,327.6
+2001,Nebraska,303.1
+2002,Nebraska,314.2
+2003,Nebraska,293.8
+2004,Nebraska,308.6
+2005,Nebraska,287.3
+2006,Nebraska,293.9
+2007,Nebraska,311.3
+2008,Nebraska,312.3
+2009,Nebraska,289.4
+2010,Nebraska,278.3
+2011,Nebraska,253.6
+2012,Nebraska,258.8
+2013,Nebraska,264.8
+2014,Nebraska,276.2
+2015,Nebraska,272.8
+2016,Nebraska,296.8
+2017,Nebraska,311.8
+2018,Nebraska,289.9
+2019,Nebraska,300.9
+1986,Mississippi,274.1
+1987,Mississippi,269.8
+1988,Mississippi,325.2
+1989,Mississippi,311.2
+1990,Mississippi,340.3
+1991,Mississippi,389.1
+1992,Mississippi,411.7
+1993,Mississippi,433.9
+1994,Mississippi,493.7
+1995,Mississippi,502.8
+1996,Mississippi,488.3
+1997,Mississippi,469.0
+1998,Mississippi,410.7
+1999,Mississippi,349.3
+2000,Mississippi,360.9
+2001,Mississippi,349.9
+2002,Mississippi,343.9
+2003,Mississippi,323.9
+2004,Mississippi,295.4
+2005,Mississippi,279.6
+2006,Mississippi,311.8
+2007,Mississippi,291.3
+2008,Mississippi,304.3
+2009,Mississippi,286.3
+2010,Mississippi,269.3
+2011,Mississippi,269.0
+2012,Mississippi,260.1
+2013,Mississippi,277.5
+2014,Mississippi,278.3
+2015,Mississippi,274.0
+2016,Mississippi,281.7
+2017,Mississippi,256.2
+2018,Mississippi,266.0
+2019,Mississippi,277.9
+1986,Massachusetts,556.9
+1987,Massachusetts,564.6
+1988,Massachusetts,619.6
+1989,Massachusetts,675.0
+1990,Massachusetts,736.3
+1991,Massachusetts,736.1
+1992,Massachusetts,779.0
+1993,Massachusetts,804.9
+1994,Massachusetts,707.6
+1995,Massachusetts,687.2
+1996,Massachusetts,642.2
+1997,Massachusetts,644.2
+1998,Massachusetts,621.3
+1999,Massachusetts,551.0
+2000,Massachusetts,476.1
+2001,Massachusetts,477.8
+2002,Massachusetts,484.9
+2003,Massachusetts,473.1
+2004,Massachusetts,460.2
+2005,Massachusetts,460.8
+2006,Massachusetts,500.5
+2007,Massachusetts,441.7
+2008,Massachusetts,463.8
+2009,Massachusetts,462.6
+2010,Massachusetts,468.9
+2011,Massachusetts,427.3
+2012,Massachusetts,407.0
+2013,Massachusetts,406.4
+2014,Massachusetts,395.1
+2015,Massachusetts,389.9
+2016,Massachusetts,380.7
+2017,Massachusetts,354.3
+2018,Massachusetts,340.3
+2019,Massachusetts,327.6
+1986,Oklahoma,436.4
+1987,Oklahoma,417.6
+1988,Oklahoma,434.5
+1989,Oklahoma,491.5
+1990,Oklahoma,547.5
+1991,Oklahoma,583.7
+1992,Oklahoma,622.8
+1993,Oklahoma,634.8
+1994,Oklahoma,651.5
+1995,Oklahoma,664.1
+1996,Oklahoma,597.1
+1997,Oklahoma,559.5
+1998,Oklahoma,539.4
+1999,Oklahoma,508.2
+2000,Oklahoma,497.8
+2001,Oklahoma,510.9
+2002,Oklahoma,504.0
+2003,Oklahoma,506.4
+2004,Oklahoma,500.5
+2005,Oklahoma,509.2
+2006,Oklahoma,500.2
+2007,Oklahoma,504.1
+2008,Oklahoma,531.5
+2009,Oklahoma,503.4
+2010,Oklahoma,481.4
+2011,Oklahoma,457.5
+2012,Oklahoma,474.4
+2013,Oklahoma,446.1
+2014,Oklahoma,413.8
+2015,Oklahoma,428.6
+2016,Oklahoma,455.3
+2017,Oklahoma,457.4
+2018,Oklahoma,474.6
+2019,Oklahoma,431.8
+1986,Nevada,718.9
+1987,Nevada,695.7
+1988,Nevada,780.7
+1989,Nevada,625.3
+1990,Nevada,600.9
+1991,Nevada,677.0
+1992,Nevada,696.8
+1993,Nevada,875.2
+1994,Nevada,1001.9
+1995,Nevada,945.2
+1996,Nevada,811.3
+1997,Nevada,798.7
+1998,Nevada,643.6
+1999,Nevada,569.9
+2000,Nevada,524.2
+2001,Nevada,589.2
+2002,Nevada,639.3
+2003,Nevada,616.0
+2004,Nevada,616.4
+2005,Nevada,607.5
+2006,Nevada,748.8
+2007,Nevada,754.9
+2008,Nevada,729.7
+2009,Nevada,705.2
+2010,Nevada,663.0
+2011,Nevada,568.1
+2012,Nevada,608.6
+2013,Nevada,605.0
+2014,Nevada,635.7
+2015,Nevada,697.6
+2016,Nevada,677.9
+2017,Nevada,560.6
+2018,Nevada,552.1
+2019,Nevada,493.8
+1986,New Mexico,725.6
+1987,New Mexico,628.5
+1988,New Mexico,658.1
+1989,New Mexico,703.9
+1990,New Mexico,780.2
+1991,New Mexico,834.8
+1992,New Mexico,934.9
+1993,New Mexico,929.7
+1994,New Mexico,889.2
+1995,New Mexico,819.2
+1996,New Mexico,840.6
+1997,New Mexico,853.3
+1998,New Mexico,961.4
+1999,New Mexico,834.6
+2000,New Mexico,757.9
+2001,New Mexico,780.4
+2002,New Mexico,740.7
+2003,New Mexico,667.3
+2004,New Mexico,687.4
+2005,New Mexico,646.3
+2006,New Mexico,654.7
+2007,New Mexico,675.7
+2008,New Mexico,653.5
+2009,New Mexico,632.4
+2010,New Mexico,588.0
+2011,New Mexico,572.7
+2012,New Mexico,559.6
+2013,New Mexico,622.5
+2014,New Mexico,597.7
+2015,New Mexico,657.2
+2016,New Mexico,699.4
+2017,New Mexico,778.6
+2018,New Mexico,842.8
+2019,New Mexico,832.2
+1986,Iowa,235.1
+1987,Iowa,231.2
+1988,Iowa,256.8
+1989,Iowa,266.3
+1990,Iowa,299.7
+1991,Iowa,303.3
+1992,Iowa,278.0
+1993,Iowa,325.5
+1994,Iowa,315.1
+1995,Iowa,354.4
+1996,Iowa,272.5
+1997,Iowa,310.0
+1998,Iowa,311.5
+1999,Iowa,280.0
+2000,Iowa,266.4
+2001,Iowa,268.2
+2002,Iowa,285.7
+2003,Iowa,277.9
+2004,Iowa,287.8
+2005,Iowa,293.3
+2006,Iowa,285.7
+2007,Iowa,300.2
+2008,Iowa,288.1
+2009,Iowa,282.1
+2010,Iowa,268.5
+2011,Iowa,257.3
+2012,Iowa,265.6
+2013,Iowa,273.0
+2014,Iowa,272.8
+2015,Iowa,276.1
+2016,Iowa,292.9
+2017,Iowa,287.5
+2018,Iowa,263.7
+2019,Iowa,266.6
+1986,Kansas,368.8
+1987,Kansas,360.7
+1988,Kansas,365.2
+1989,Kansas,400.8
+1990,Kansas,447.7
+1991,Kansas,499.6
+1992,Kansas,510.8
+1993,Kansas,496.4
+1994,Kansas,443.0
+1995,Kansas,420.7
+1996,Kansas,413.8
+1997,Kansas,429.7
+1998,Kansas,417.3
+1999,Kansas,382.8
+2000,Kansas,389.4
+2001,Kansas,403.7
+2002,Kansas,377.2
+2003,Kansas,397.5
+2004,Kansas,377.9
+2005,Kansas,389.4
+2006,Kansas,432.7
+2007,Kansas,458.6
+2008,Kansas,412.3
+2009,Kansas,406.6
+2010,Kansas,370.8
+2011,Kansas,355.7
+2012,Kansas,356.7
+2013,Kansas,342.8
+2014,Kansas,352.6
+2015,Kansas,395.0
+2016,Kansas,401.2
+2017,Kansas,400.4
+2018,Kansas,441.8
+2019,Kansas,410.8
+1986,Oregon,549.7
+1987,Oregon,539.5
+1988,Oregon,545.7
+1989,Oregon,518.6
+1990,Oregon,506.8
+1991,Oregon,506.3
+1992,Oregon,510.2
+1993,Oregon,503.1
+1994,Oregon,520.6
+1995,Oregon,522.4
+1996,Oregon,463.1
+1997,Oregon,444.4
+1998,Oregon,419.8
+1999,Oregon,374.9
+2000,Oregon,350.7
+2001,Oregon,306.6
+2002,Oregon,292.5
+2003,Oregon,294.8
+2004,Oregon,298.6
+2005,Oregon,287.0
+2006,Oregon,284.6
+2007,Oregon,293.9
+2008,Oregon,261.4
+2009,Oregon,260.6
+2010,Oregon,251.4
+2011,Oregon,249.3
+2012,Oregon,247.1
+2013,Oregon,242.8
+2014,Oregon,259.2
+2015,Oregon,265.4
+2016,Oregon,268.8
+2017,Oregon,280.4
+2018,Oregon,290.4
+2019,Oregon,284.4
+1986,Illinois,810.3
+1987,Illinois,796.2
+1988,Illinois,810.4
+1989,Illinois,845.9
+1990,Illinois,967.4
+1991,Illinois,1039.2
+1992,Illinois,977.3
+1993,Illinois,959.7
+1994,Illinois,960.9
+1995,Illinois,996.1
+1996,Illinois,890.4
+1997,Illinois,861.4
+1998,Illinois,807.7
+1999,Illinois,689.5
+2000,Illinois,653.8
+2001,Illinois,633.1
+2002,Illinois,601.9
+2003,Illinois,556.4
+2004,Illinois,545.7
+2005,Illinois,552.2
+2006,Illinois,541.6
+2007,Illinois,533.2
+2008,Illinois,525.4
+2009,Illinois,497.2
+2010,Illinois,444.9
+2011,Illinois,424.0
+2012,Illinois,416.2
+2013,Illinois,403.1
+2014,Illinois,370.9
+2015,Illinois,387.5
+2016,Illinois,436.7
+2017,Illinois,436.2
+2018,Illinois,411.4
+2019,Illinois,406.9
+1986,Maine,147.0
+1987,Maine,152.1
+1988,Maine,157.4
+1989,Maine,137.2
+1990,Maine,143.2
+1991,Maine,132.1
+1992,Maine,130.9
+1993,Maine,125.7
+1994,Maine,129.9
+1995,Maine,131.4
+1996,Maine,124.9
+1997,Maine,120.8
+1998,Maine,125.9
+1999,Maine,112.0
+2000,Maine,109.6
+2001,Maine,111.7
+2002,Maine,107.8
+2003,Maine,108.6
+2004,Maine,103.7
+2005,Maine,112.5
+2006,Maine,116.0
+2007,Maine,118.8
+2008,Maine,119.4
+2009,Maine,119.9
+2010,Maine,122.1
+2011,Maine,123.3
+2012,Maine,122.4
+2013,Maine,132.5
+2014,Maine,127.6
+2015,Maine,129.8
+2016,Maine,124.0
+2017,Maine,120.6
+2018,Maine,112.0
+2019,Maine,115.2
+1986,Wyoming,293.1
+1987,Wyoming,283.1
+1988,Wyoming,314.0
+1989,Wyoming,258.3
+1990,Wyoming,301.4
+1991,Wyoming,310.2
+1992,Wyoming,319.5
+1993,Wyoming,286.2
+1994,Wyoming,272.5
+1995,Wyoming,254.2
+1996,Wyoming,249.7
+1997,Wyoming,255.2
+1998,Wyoming,247.6
+1999,Wyoming,232.5
+2000,Wyoming,266.5
+2001,Wyoming,257.6
+2002,Wyoming,273.4
+2003,Wyoming,261.7
+2004,Wyoming,229.9
+2005,Wyoming,230.3
+2006,Wyoming,253.8
+2007,Wyoming,257.1
+2008,Wyoming,249.7
+2009,Wyoming,219.7
+2010,Wyoming,197.9
+2011,Wyoming,219.4
+2012,Wyoming,201.3
+2013,Wyoming,207.8
+2014,Wyoming,195.4
+2015,Wyoming,221.6
+2016,Wyoming,244.7
+2017,Wyoming,234.6
+2018,Wyoming,213.8
+2019,Wyoming,217.4
+1986,New Hampshire,139.5
+1987,New Hampshire,149.6
+1988,New Hampshire,147.9
+1989,New Hampshire,168.5
+1990,New Hampshire,131.5
+1991,New Hampshire,119.3
+1992,New Hampshire,125.7
+1993,New Hampshire,137.8
+1994,New Hampshire,116.8
+1995,New Hampshire,114.5
+1996,New Hampshire,118.2
+1997,New Hampshire,113.2
+1998,New Hampshire,107.2
+1999,New Hampshire,96.5
+2000,New Hampshire,175.4
+2001,New Hampshire,170.2
+2002,New Hampshire,161.3
+2003,New Hampshire,150.3
+2004,New Hampshire,169.5
+2005,New Hampshire,134.8
+2006,New Hampshire,135.8
+2007,New Hampshire,144.1
+2008,New Hampshire,156.1
+2009,New Hampshire,160.4
+2010,New Hampshire,167.4
+2011,New Hampshire,217.3
+2012,New Hampshire,215.0
+2013,New Hampshire,223.2
+2014,New Hampshire,197.7
+2015,New Hampshire,202.4
+2016,New Hampshire,199.8
+2017,New Hampshire,195.7
+2018,New Hampshire,177.6
+2019,New Hampshire,152.5
+1986,New York,985.9
+1987,New York,1008.1
+1988,New York,1097.3
+1989,New York,1131.2
+1990,New York,1180.9
+1991,New York,1163.9
+1992,New York,1122.1
+1993,New York,1073.5
+1994,New York,965.6
+1995,New York,841.9
+1996,New York,727.0
+1997,New York,688.6
+1998,New York,637.8
+1999,New York,588.8
+2000,New York,553.9
+2001,New York,513.6
+2002,New York,496.6
+2003,New York,465.8
+2004,New York,440.4
+2005,New York,444.4
+2006,New York,435.2
+2007,New York,414.4
+2008,New York,397.9
+2009,New York,384.4
+2010,New York,394.4
+2011,New York,397.2
+2012,New York,406.3
+2013,New York,393.8
+2014,New York,384.7
+2015,New York,380.4
+2016,New York,374.6
+2017,New York,361.1
+2018,New York,350.8
+2019,New York,358.6
+1986,Idaho,222.5
+1987,Idaho,214.2
+1988,Idaho,234.7
+1989,Idaho,254.6
+1990,Idaho,275.7
+1991,Idaho,290.3
+1992,Idaho,281.4
+1993,Idaho,281.8
+1994,Idaho,285.8
+1995,Idaho,322.0
+1996,Idaho,267.2
+1997,Idaho,256.8
+1998,Idaho,282.2
+1999,Idaho,244.9
+2000,Idaho,252.5
+2001,Idaho,243.1
+2002,Idaho,254.6
+2003,Idaho,245.9
+2004,Idaho,247.4
+2005,Idaho,256.8
+2006,Idaho,250.0
+2007,Idaho,256.2
+2008,Idaho,241.5
+2009,Idaho,246.2
+2010,Idaho,220.5
+2011,Idaho,202.2
+2012,Idaho,209.8
+2013,Idaho,215.2
+2014,Idaho,210.4
+2015,Idaho,217.4
+2016,Idaho,230.7
+2017,Idaho,239.2
+2018,Idaho,239.7
+2019,Idaho,223.8
+1986,Colorado,523.6
+1987,Colorado,467.5
+1988,Colorado,472.6
+1989,Colorado,471.4
+1990,Colorado,526.0
+1991,Colorado,559.3
+1992,Colorado,578.8
+1993,Colorado,567.3
+1994,Colorado,509.6
+1995,Colorado,440.2
+1996,Colorado,404.5
+1997,Colorado,363.2
+1998,Colorado,377.9
+1999,Colorado,340.5
+2000,Colorado,334.0
+2001,Colorado,349.6
+2002,Colorado,352.9
+2003,Colorado,346.5
+2004,Colorado,372.0
+2005,Colorado,396.7
+2006,Colorado,395.4
+2007,Colorado,351.8
+2008,Colorado,353.9
+2009,Colorado,338.8
+2010,Colorado,323.7
+2011,Colorado,314.4
+2012,Colorado,307.4
+2013,Colorado,305.4
+2014,Colorado,307.8
+2015,Colorado,318.4
+2016,Colorado,344.1
+2017,Colorado,372.2
+2018,Colorado,401.5
+2019,Colorado,381.0
+1986,North Dakota,51.3
+1987,North Dakota,56.8
+1988,North Dakota,59.1
+1989,North Dakota,63.2
+1990,North Dakota,73.9
+1991,North Dakota,65.4
+1992,North Dakota,83.3
+1993,North Dakota,82.2
+1994,North Dakota,81.8
+1995,North Dakota,86.7
+1996,North Dakota,84.0
+1997,North Dakota,87.2
+1998,North Dakota,89.3
+1999,North Dakota,66.9
+2000,North Dakota,81.4
+2001,North Dakota,79.3
+2002,North Dakota,78.2
+2003,North Dakota,80.2
+2004,North Dakota,87.7
+2005,North Dakota,111.3
+2006,North Dakota,197.4
+2007,North Dakota,209.9
+2008,North Dakota,224.6
+2009,North Dakota,266.4
+2010,North Dakota,229.5
+2011,North Dakota,248.1
+2012,North Dakota,245.7
+2013,North Dakota,273.4
+2014,North Dakota,270.4
+2015,North Dakota,257.5
+2016,North Dakota,252.1
+2017,North Dakota,282.5
+2018,North Dakota,284.1
+2019,North Dakota,284.6
+1986,Arkansas,394.8
+1987,Arkansas,412.0
+1988,Arkansas,422.7
+1989,Arkansas,473.7
+1990,Arkansas,532.2
+1991,Arkansas,593.3
+1992,Arkansas,576.5
+1993,Arkansas,593.3
+1994,Arkansas,595.1
+1995,Arkansas,553.2
+1996,Arkansas,524.3
+1997,Arkansas,526.9
+1998,Arkansas,490.2
+1999,Arkansas,425.2
+2000,Arkansas,445.3
+2001,Arkansas,452.4
+2002,Arkansas,425.0
+2003,Arkansas,456.4
+2004,Arkansas,502.3
+2005,Arkansas,528.5
+2006,Arkansas,552.8
+2007,Arkansas,537.1
+2008,Arkansas,513.0
+2009,Arkansas,515.8
+2010,Arkansas,503.5
+2011,Arkansas,482.3
+2012,Arkansas,469.6
+2013,Arkansas,463.2
+2014,Arkansas,480.2
+2015,Arkansas,529.5
+2016,Arkansas,554.3
+2017,Arkansas,566.0
+2018,Arkansas,561.6
+2019,Arkansas,584.6
+1986,Hawaii,245.2
+1987,Hawaii,263.3
+1988,Hawaii,257.1
+1989,Hawaii,270.1
+1990,Hawaii,280.9
+1991,Hawaii,241.8
+1992,Hawaii,258.4
+1993,Hawaii,261.2
+1994,Hawaii,262.2
+1995,Hawaii,295.6
+1996,Hawaii,280.6
+1997,Hawaii,277.9
+1998,Hawaii,246.9
+1999,Hawaii,234.9
+2000,Hawaii,243.8
+2001,Hawaii,254.0
+2002,Hawaii,262.9
+2003,Hawaii,272.3
+2004,Hawaii,254.6
+2005,Hawaii,255.5
+2006,Hawaii,280.7
+2007,Hawaii,276.1
+2008,Hawaii,272.5
+2009,Hawaii,274.1
+2010,Hawaii,264.3
+2011,Hawaii,251.4
+2012,Hawaii,243.0
+2013,Hawaii,254.4
+2014,Hawaii,236.7
+2015,Hawaii,293.4
+2016,Hawaii,241.6
+2017,Hawaii,251.2
+2018,Hawaii,255.0
+2019,Hawaii,285.5
+1986,Florida,1036.5
+1987,Florida,1024.4
+1988,Florida,1117.7
+1989,Florida,1109.4
+1990,Florida,1244.3
+1991,Florida,1184.3
+1992,Florida,1207.2
+1993,Florida,1206.0
+1994,Florida,1146.8
+1995,Florida,1071.0
+1996,Florida,1051.0
+1997,Florida,1023.6
+1998,Florida,938.7
+1999,Florida,854.0
+2000,Florida,812.0
+2001,Florida,798.3
+2002,Florida,771.2
+2003,Florida,731.1
+2004,Florida,711.8
+2005,Florida,708.9
+2006,Florida,716.4
+2007,Florida,722.6
+2008,Florida,688.9
+2009,Florida,612.5
+2010,Florida,541.3
+2011,Florida,514.6
+2012,Florida,487.0
+2013,Florida,469.3
+2014,Florida,458.9
+2015,Florida,462.5
+2016,Florida,429.4
+2017,Florida,408.1
+2018,Florida,385.9
+2019,Florida,378.4
+1986,Indiana,307.7
+1987,Indiana,328.5
+1988,Indiana,380.0
+1989,Indiana,406.5
+1990,Indiana,473.9
+1991,Indiana,505.3
+1992,Indiana,508.5
+1993,Indiana,489.1
+1994,Indiana,525.1
+1995,Indiana,524.7
+1996,Indiana,537.0
+1997,Indiana,514.6
+1998,Indiana,431.0
+1999,Indiana,374.6
+2000,Indiana,349.1
+2001,Indiana,371.1
+2002,Indiana,357.3
+2003,Indiana,352.3
+2004,Indiana,325.9
+2005,Indiana,324.0
+2006,Indiana,321.6
+2007,Indiana,335.8
+2008,Indiana,337.6
+2009,Indiana,334.0
+2010,Indiana,323.3
+2011,Indiana,331.8
+2012,Indiana,344.8
+2013,Indiana,359.6
+2014,Indiana,365.3
+2015,Indiana,383.7
+2016,Indiana,399.7
+2017,Indiana,395.0
+2018,Indiana,373.5
+2019,Indiana,370.8
+1986,Rhode Island,335.5
+1987,Rhode Island,359.7
+1988,Rhode Island,396.7
+1989,Rhode Island,378.0
+1990,Rhode Island,431.9
+1991,Rhode Island,462.0
+1992,Rhode Island,394.5
+1993,Rhode Island,401.7
+1994,Rhode Island,375.5
+1995,Rhode Island,368.0
+1996,Rhode Island,347.2
+1997,Rhode Island,333.5
+1998,Rhode Island,312.1
+1999,Rhode Island,286.6
+2000,Rhode Island,297.7
+2001,Rhode Island,309.3
+2002,Rhode Island,285.6
+2003,Rhode Island,285.7
+2004,Rhode Island,247.5
+2005,Rhode Island,252.4
+2006,Rhode Island,230.4
+2007,Rhode Island,229.1
+2008,Rhode Island,252.8
+2009,Rhode Island,254.3
+2010,Rhode Island,257.4
+2011,Rhode Island,246.1
+2012,Rhode Island,253.0
+2013,Rhode Island,257.3
+2014,Rhode Island,219.9
+2015,Rhode Island,243.0
+2016,Rhode Island,239.1
+2017,Rhode Island,234.2
+2018,Rhode Island,219.8
+2019,Rhode Island,221.1
+1986,California,920.5
+1987,California,918.0
+1988,California,929.8
+1989,California,977.7
+1990,California,1045.2
+1991,California,1089.9
+1992,California,1119.7
+1993,California,1077.8
+1994,California,1013.0
+1995,California,966.0
+1996,California,862.7
+1997,California,798.3
+1998,California,703.7
+1999,California,627.2
+2000,California,621.6
+2001,California,615.2
+2002,California,595.4
+2003,California,579.6
+2004,California,527.8
+2005,California,526.0
+2006,California,533.5
+2007,California,524.1
+2008,California,504.2
+2009,California,473.3
+2010,California,439.6
+2011,California,411.2
+2012,California,423.5
+2013,California,402.6
+2014,California,396.4
+2015,California,428.0
+2016,California,444.8
+2017,California,453.3
+2018,California,447.5
+2019,California,441.2
+1986,Wisconsin,257.9
+1987,Wisconsin,249.9
+1988,Wisconsin,214.4
+1989,Wisconsin,222.6
+1990,Wisconsin,264.7
+1991,Wisconsin,277.0
+1992,Wisconsin,275.7
+1993,Wisconsin,264.4
+1994,Wisconsin,270.5
+1995,Wisconsin,281.1
+1996,Wisconsin,252.7
+1997,Wisconsin,270.6
+1998,Wisconsin,249.0
+1999,Wisconsin,245.8
+2000,Wisconsin,236.8
+2001,Wisconsin,231.0
+2002,Wisconsin,225.0
+2003,Wisconsin,221.1
+2004,Wisconsin,209.8
+2005,Wisconsin,241.8
+2006,Wisconsin,286.1
+2007,Wisconsin,291.5
+2008,Wisconsin,275.5
+2009,Wisconsin,259.1
+2010,Wisconsin,248.9
+2011,Wisconsin,249.9
+2012,Wisconsin,283.9
+2013,Wisconsin,280.7
+2014,Wisconsin,291.1
+2015,Wisconsin,304.3
+2016,Wisconsin,306.9
+2017,Wisconsin,321.8
+2018,Wisconsin,299.0
+2019,Wisconsin,293.2
+1986,Connecticut,425.8
+1987,Connecticut,419.0
+1988,Connecticut,455.4
+1989,Connecticut,511.8
+1990,Connecticut,553.7
+1991,Connecticut,539.7
+1992,Connecticut,495.3
+1993,Connecticut,456.2
+1994,Connecticut,455.5
+1995,Connecticut,405.9
+1996,Connecticut,412.0
+1997,Connecticut,390.9
+1998,Connecticut,366.3
+1999,Connecticut,345.6
+2000,Connecticut,324.7
+2001,Connecticut,334.6
+2002,Connecticut,312.5
+2003,Connecticut,316.8
+2004,Connecticut,289.0
+2005,Connecticut,272.6
+2006,Connecticut,299.7
+2007,Connecticut,301.1
+2008,Connecticut,306.7
+2009,Connecticut,300.9
+2010,Connecticut,282.0
+2011,Connecticut,275.7
+2012,Connecticut,283.5
+2013,Connecticut,262.2
+2014,Connecticut,238.5
+2015,Connecticut,221.4
+2016,Connecticut,227.7
+2017,Connecticut,229.2
+2018,Connecticut,209.6
+2019,Connecticut,183.6
+1986,Minnesota,284.6
+1987,Minnesota,285.4
+1988,Minnesota,290.1
+1989,Minnesota,288.3
+1990,Minnesota,306.1
+1991,Minnesota,316.0
+1992,Minnesota,338.0
+1993,Minnesota,353.9
+1994,Minnesota,359.0
+1995,Minnesota,356.1
+1996,Minnesota,338.8
+1997,Minnesota,337.8
+1998,Minnesota,310.2
+1999,Minnesota,274.0
+2000,Minnesota,280.8
+2001,Minnesota,263.7
+2002,Minnesota,267.2
+2003,Minnesota,262.9
+2004,Minnesota,269.8
+2005,Minnesota,297.3
+2006,Minnesota,310.5
+2007,Minnesota,289.6
+2008,Minnesota,265.4
+2009,Minnesota,244.5
+2010,Minnesota,235.7
+2011,Minnesota,230.5
+2012,Minnesota,230.9
+2013,Minnesota,234.4
+2014,Minnesota,229.1
+2015,Minnesota,242.9
+2016,Minnesota,241.9
+2017,Minnesota,239.7
+2018,Minnesota,221.2
+2019,Minnesota,236.4
+1986,Missouri,578.6
+1987,Missouri,544.6
+1988,Missouri,552.5
+1989,Missouri,632.6
+1990,Missouri,715.3
+1991,Missouri,763.0
+1992,Missouri,740.4
+1993,Missouri,744.4
+1994,Missouri,743.5
+1995,Missouri,663.8
+1996,Missouri,590.9
+1997,Missouri,577.4
+1998,Missouri,555.7
+1999,Missouri,500.2
+2000,Missouri,490.0
+2001,Missouri,540.5
+2002,Missouri,539.0
+2003,Missouri,490.8
+2004,Missouri,490.1
+2005,Missouri,525.7
+2006,Missouri,545.9
+2007,Missouri,560.7
+2008,Missouri,502.4
+2009,Missouri,492.9
+2010,Missouri,457.7
+2011,Missouri,447.5
+2012,Missouri,451.3
+2013,Missouri,433.7
+2014,Missouri,443.3
+2015,Missouri,498.5
+2016,Missouri,520.8
+2017,Missouri,531.2
+2018,Missouri,501.4
+2019,Missouri,495.0
+1986,Washington,437.0
+1987,Washington,439.5
+1988,Washington,466.4
+1989,Washington,471.7
+1990,Washington,501.6
+1991,Washington,522.6
+1992,Washington,534.5
+1993,Washington,514.6
+1994,Washington,511.3
+1995,Washington,484.3
+1996,Washington,431.2
+1997,Washington,440.7
+1998,Washington,428.5
+1999,Washington,377.3
+2000,Washington,369.7
+2001,Washington,354.7
+2002,Washington,345.5
+2003,Washington,346.9
+2004,Washington,343.6
+2005,Washington,345.6
+2006,Washington,348.7
+2007,Washington,336.5
+2008,Washington,334.2
+2009,Washington,336.3
+2010,Washington,313.5
+2011,Washington,295.3
+2012,Washington,298.1
+2013,Washington,290.0
+2014,Washington,285.8
+2015,Washington,286.4
+2016,Washington,303.5
+2017,Washington,302.8
+2018,Washington,315.3
+2019,Washington,293.9
+1986,Tennessee,539.6
+1987,Tennessee,533.5
+1988,Tennessee,532.7
+1989,Tennessee,548.9
+1990,Tennessee,670.4
+1991,Tennessee,725.9
+1992,Tennessee,746.2
+1993,Tennessee,765.8
+1994,Tennessee,747.9
+1995,Tennessee,771.5
+1996,Tennessee,774.0
+1997,Tennessee,789.7
+1998,Tennessee,715.0
+1999,Tennessee,695.0
+2000,Tennessee,707.2
+2001,Tennessee,744.0
+2002,Tennessee,717.8
+2003,Tennessee,691.3
+2004,Tennessee,697.6
+2005,Tennessee,757.3
+2006,Tennessee,762.5
+2007,Tennessee,755.0
+2008,Tennessee,722.7
+2009,Tennessee,666.0
+2010,Tennessee,612.0
+2011,Tennessee,607.8
+2012,Tennessee,638.5
+2013,Tennessee,585.8
+2014,Tennessee,610.7
+2015,Tennessee,618.9
+2016,Tennessee,638.5
+2017,Tennessee,655.0
+2018,Tennessee,630.4
+2019,Tennessee,595.2
+1986,Delaware,427.0
+1987,Delaware,430.7
+1988,Delaware,451.7
+1989,Delaware,556.5
+1990,Delaware,655.2
+1991,Delaware,714.3
+1992,Delaware,621.2
+1993,Delaware,685.9
+1994,Delaware,644.3
+1995,Delaware,725.0
+1996,Delaware,668.3
+1997,Delaware,785.9
+1998,Delaware,762.4
+1999,Delaware,734.4
+2000,Delaware,684.4
+2001,Delaware,611.1
+2002,Delaware,600.0
+2003,Delaware,675.3
+2004,Delaware,615.0
+2005,Delaware,633.4
+2006,Delaware,701.0
+2007,Delaware,705.4
+2008,Delaware,708.6
+2009,Delaware,645.4
+2010,Delaware,623.3
+2011,Delaware,566.4
+2012,Delaware,550.5
+2013,Delaware,500.7
+2014,Delaware,488.1
+2015,Delaware,504.2
+2016,Delaware,510.0
+2017,Delaware,457.3
+2018,Delaware,422.5
+2019,Delaware,422.6
+1986,Texas,658.9
+1987,Texas,631.1
+1988,Texas,652.6
+1989,Texas,658.5
+1990,Texas,761.4
+1991,Texas,840.1
+1992,Texas,806.3
+1993,Texas,762.1
+1994,Texas,706.5
+1995,Texas,663.9
+1996,Texas,644.4
+1997,Texas,602.5
+1998,Texas,564.6
+1999,Texas,560.3
+2000,Texas,545.1
+2001,Texas,571.6
+2002,Texas,579.7
+2003,Texas,553.1
+2004,Texas,540.9
+2005,Texas,528.1
+2006,Texas,517.3
+2007,Texas,510.4
+2008,Texas,508.0
+2009,Texas,491.0
+2010,Texas,448.4
+2011,Texas,408.6
+2012,Texas,408.6
+2013,Texas,410.3
+2014,Texas,406.7
+2015,Texas,412.7
+2016,Texas,433.8
+2017,Texas,437.8
+2018,Texas,412.9
+2019,Texas,418.9
+1986,Alabama,558.0
+1987,Alabama,559.2
+1988,Alabama,558.6
+1989,Alabama,590.8
+1990,Alabama,708.6
+1991,Alabama,844.2
+1992,Alabama,871.7
+1993,Alabama,780.4
+1994,Alabama,683.7
+1995,Alabama,632.4
+1996,Alabama,565.4
+1997,Alabama,564.5
+1998,Alabama,512.1
+1999,Alabama,490.2
+2000,Alabama,486.2
+2001,Alabama,438.2
+2002,Alabama,445.0
+2003,Alabama,429.2
+2004,Alabama,427.0
+2005,Alabama,432.6
+2006,Alabama,425.2
+2007,Alabama,448.9
+2008,Alabama,452.8
+2009,Alabama,450.1
+2010,Alabama,383.7
+2011,Alabama,419.8
+2012,Alabama,450.3
+2013,Alabama,431.0
+2014,Alabama,427.7
+2015,Alabama,473.0
+2016,Alabama,532.4
+2017,Alabama,522.4
+2018,Alabama,523.1
+2019,Alabama,510.8
+1986,Pennsylvania,358.6
+1987,Pennsylvania,369.4
+1988,Pennsylvania,362.0
+1989,Pennsylvania,378.6
+1990,Pennsylvania,431.0
+1991,Pennsylvania,450.0
+1992,Pennsylvania,427.0
+1993,Pennsylvania,417.5
+1994,Pennsylvania,426.7
+1995,Pennsylvania,427.3
+1996,Pennsylvania,480.3
+1997,Pennsylvania,442.1
+1998,Pennsylvania,420.5
+1999,Pennsylvania,420.5
+2000,Pennsylvania,420.0
+2001,Pennsylvania,409.9
+2002,Pennsylvania,402.1
+2003,Pennsylvania,397.8
+2004,Pennsylvania,411.5
+2005,Pennsylvania,425.3
+2006,Pennsylvania,442.3
+2007,Pennsylvania,416.7
+2008,Pennsylvania,410.0
+2009,Pennsylvania,382.3
+2010,Pennsylvania,366.5
+2011,Pennsylvania,362.4
+2012,Pennsylvania,355.5
+2013,Pennsylvania,335.1
+2014,Pennsylvania,315.0
+2015,Pennsylvania,315.4
+2016,Pennsylvania,315.9
+2017,Pennsylvania,313.0
+2018,Pennsylvania,305.4
+2019,Pennsylvania,306.4
+1986,Ohio,420.9
+1987,Ohio,421.3
+1988,Ohio,452.0
+1989,Ohio,468.6
+1990,Ohio,506.2
+1991,Ohio,561.8
+1992,Ohio,525.9
+1993,Ohio,504.1
+1994,Ohio,485.8
+1995,Ohio,482.5
+1996,Ohio,428.7
+1997,Ohio,435.4
+1998,Ohio,362.5
+1999,Ohio,316.4
+2000,Ohio,334.1
+2001,Ohio,351.4
+2002,Ohio,351.7
+2003,Ohio,333.9
+2004,Ohio,338.7
+2005,Ohio,350.1
+2006,Ohio,361.5
+2007,Ohio,355.4
+2008,Ohio,352.0
+2009,Ohio,331.9
+2010,Ohio,314.7
+2011,Ohio,305.2
+2012,Ohio,301.5
+2013,Ohio,291.4
+2014,Ohio,285.7
+2015,Ohio,296.2
+2016,Ohio,307.7
+2017,Ohio,296.8
+2018,Ohio,294.8
+2019,Ohio,293.2
+1986,Michigan,803.9
+1987,Michigan,780.1
+1988,Michigan,741.7
+1989,Michigan,709.2
+1990,Michigan,790.4
+1991,Michigan,803.1
+1992,Michigan,770.1
+1993,Michigan,791.5
+1994,Michigan,766.1
+1995,Michigan,687.8
+1996,Michigan,635.3
+1997,Michigan,590.0
+1998,Michigan,620.8
+1999,Michigan,574.9
+2000,Michigan,555.0
+2001,Michigan,553.9
+2002,Michigan,540.7
+2003,Michigan,511.3
+2004,Michigan,492.2
+2005,Michigan,553.8
+2006,Michigan,564.4
+2007,Michigan,533.8
+2008,Michigan,514.9
+2009,Michigan,499.8
+2010,Michigan,493.0
+2011,Michigan,442.8
+2012,Michigan,455.0
+2013,Michigan,452.2
+2014,Michigan,429.1
+2015,Michigan,420.6
+2016,Michigan,460.9
+2017,Michigan,449.9
+2018,Michigan,452.5
+2019,Michigan,437.4
+1986,South Carolina,674.6
+1987,South Carolina,664.9
+1988,South Carolina,741.2
+1989,South Carolina,813.7
+1990,South Carolina,976.6
+1991,South Carolina,972.5
+1992,South Carolina,944.5
+1993,South Carolina,1023.4
+1994,South Carolina,1030.5
+1995,South Carolina,981.9
+1996,South Carolina,996.9
+1997,South Carolina,990.3
+1998,South Carolina,903.2
+1999,South Carolina,847.2
+2000,South Carolina,828.1
+2001,South Carolina,815.2
+2002,South Carolina,822.7
+2003,South Carolina,806.4
+2004,South Carolina,789.9
+2005,South Carolina,767.4
+2006,South Carolina,771.1
+2007,South Carolina,785.7
+2008,South Carolina,731.0
+2009,South Carolina,675.2
+2010,South Carolina,602.2
+2011,South Carolina,596.9
+2012,South Carolina,560.5
+2013,South Carolina,508.5
+2014,South Carolina,497.8
+2015,South Carolina,499.5
+2016,South Carolina,506.8
+2017,South Carolina,506.1
+2018,South Carolina,500.8
+2019,South Carolina,511.3
+1986,South Dakota,124.7
+1987,South Dakota,119.7
+1988,South Dakota,113.7
+1989,South Dakota,135.5
+1990,South Dakota,162.8
+1991,South Dakota,182.2
+1992,South Dakota,194.5
+1993,South Dakota,208.4
+1994,South Dakota,227.6
+1995,South Dakota,207.5
+1996,South Dakota,177.2
+1997,South Dakota,197.4
+1998,South Dakota,154.3
+1999,South Dakota,167.4
+2000,South Dakota,166.8
+2001,South Dakota,154.4
+2002,South Dakota,177.5
+2003,South Dakota,173.7
+2004,South Dakota,171.2
+2005,South Dakota,179.0
+2006,South Dakota,264.9
+2007,South Dakota,241.9
+2008,South Dakota,276.9
+2009,South Dakota,218.7
+2010,South Dakota,268.9
+2011,South Dakota,255.6
+2012,South Dakota,323.8
+2013,South Dakota,323.2
+2014,South Dakota,328.3
+2015,South Dakota,384.9
+2016,South Dakota,422.0
+2017,South Dakota,429.8
+2018,South Dakota,396.4
+2019,South Dakota,399.0
+1986,Louisiana,758.2
+1987,Louisiana,693.0
+1988,Louisiana,717.4
+1989,Louisiana,781.8
+1990,Louisiana,898.4
+1991,Louisiana,951.0
+1992,Louisiana,984.6
+1993,Louisiana,1061.7
+1994,Louisiana,981.9
+1995,Louisiana,1007.4
+1996,Louisiana,929.1
+1997,Louisiana,855.9
+1998,Louisiana,779.5
+1999,Louisiana,732.7
+2000,Louisiana,681.1
+2001,Louisiana,686.3
+2002,Louisiana,663.3
+2003,Louisiana,636.9
+2004,Louisiana,640.0
+2005,Louisiana,596.6
+2006,Louisiana,721.2
+2007,Louisiana,740.4
+2008,Louisiana,671.4
+2009,Louisiana,642.9
+2010,Louisiana,555.3
+2011,Louisiana,554.6
+2012,Louisiana,496.3
+2013,Louisiana,521.2
+2014,Louisiana,515.9
+2015,Louisiana,539.8
+2016,Louisiana,565.0
+2017,Louisiana,556.3
+2018,Louisiana,543.3
+2019,Louisiana,549.3
+1986,Virginia,306.0
+1987,Virginia,295.0
+1988,Virginia,299.2
+1989,Virginia,312.5
+1990,Virginia,350.6
+1991,Virginia,373.2
+1992,Virginia,374.9
+1993,Virginia,372.2
+1994,Virginia,357.7
+1995,Virginia,361.5
+1996,Virginia,341.3
+1997,Virginia,345.2
+1998,Virginia,325.7
+1999,Virginia,314.7
+2000,Virginia,281.7
+2001,Virginia,291.0
+2002,Virginia,291.7
+2003,Virginia,278.2
+2004,Virginia,275.5
+2005,Virginia,283.4
+2006,Virginia,283.7
+2007,Virginia,272.8
+2008,Virginia,257.8
+2009,Virginia,230.8
+2010,Virginia,214.2
+2011,Virginia,197.6
+2012,Virginia,191.5
+2013,Virginia,197.8
+2014,Virginia,198.4
+2015,Virginia,199.6
+2016,Virginia,219.8
+2017,Virginia,210.4
+2018,Virginia,204.2
+2019,Virginia,208.0
+1986,Arizona,658.3
+1987,Arizona,612.6
+1988,Arizona,610.1
+1989,Arizona,599.6
+1990,Arizona,652.4
+1991,Arizona,670.7
+1992,Arizona,670.8
+1993,Arizona,715.0
+1994,Arizona,703.1
+1995,Arizona,713.5
+1996,Arizona,631.5
+1997,Arizona,623.7
+1998,Arizona,577.9
+1999,Arizona,551.1
+2000,Arizona,531.7
+2001,Arizona,540.3
+2002,Arizona,554.5
+2003,Arizona,513.3
+2004,Arizona,504.4
+2005,Arizona,512.0
+2006,Arizona,542.6
+2007,Arizona,518.0
+2008,Arizona,485.6
+2009,Arizona,426.5
+2010,Arizona,413.6
+2011,Arizona,414.2
+2012,Arizona,428.6
+2013,Arizona,415.6
+2014,Arizona,392.7
+2015,Arizona,410.2
+2016,Arizona,471.0
+2017,Arizona,505.7
+2018,Arizona,475.7
+2019,Arizona,455.3
+1986,Montana,157.4
+1987,Montana,151.2
+1988,Montana,123.0
+1989,Montana,116.0
+1990,Montana,159.3
+1991,Montana,139.9
+1992,Montana,169.9
+1993,Montana,177.5
+1994,Montana,177.1
+1995,Montana,171.4
+1996,Montana,161.0
+1997,Montana,132.1
+1998,Montana,204.2
+1999,Montana,236.8
+2000,Montana,311.1
+2001,Montana,352.0
+2002,Montana,351.2
+2003,Montana,365.0
+2004,Montana,293.8
+2005,Montana,281.8
+2006,Montana,377.3
+2007,Montana,379.8
+2008,Montana,311.4
+2009,Montana,287.0
+2010,Montana,275.8
+2011,Montana,276.1
+2012,Montana,278.8
+2013,Montana,288.1
+2014,Montana,328.5
+2015,Montana,353.4
+2016,Montana,374.1
+2017,Montana,373.9
+2018,Montana,380.9
+2019,Montana,404.9
+1986,Alaska,570.4
+1987,Alaska,455.4
+1988,Alaska,522.8
+1989,Alaska,497.7
+1990,Alaska,524.5
+1991,Alaska,613.9
+1992,Alaska,660.5
+1993,Alaska,760.8
+1994,Alaska,766.3
+1995,Alaska,770.9
+1996,Alaska,727.7
+1997,Alaska,701.1
+1998,Alaska,653.9
+1999,Alaska,630.8
+2000,Alaska,566.9
+2001,Alaska,589.5
+2002,Alaska,565.4
+2003,Alaska,598.0
+2004,Alaska,632.3
+2005,Alaska,632.3
+2006,Alaska,688.0
+2007,Alaska,661.3
+2008,Alaska,652.1
+2009,Alaska,633.4
+2010,Alaska,635.3
+2011,Alaska,610.1
+2012,Alaska,604.1
+2013,Alaska,638.7
+2014,Alaska,635.5
+2015,Alaska,730.8
+2016,Alaska,804.6
+2017,Alaska,856.7
+2018,Alaska,891.7
+2019,Alaska,867.1
+1986,New Jersey,572.5
+1987,New Jersey,541.0
+1988,New Jersey,582.8
+1989,New Jersey,609.0
+1990,New Jersey,647.6
+1991,New Jersey,634.8
+1992,New Jersey,625.8
+1993,New Jersey,626.9
+1994,New Jersey,614.2
+1995,New Jersey,599.8
+1996,New Jersey,531.5
+1997,New Jersey,492.6
+1998,New Jersey,440.2
+1999,New Jersey,411.9
+2000,New Jersey,383.8
+2001,New Jersey,388.8
+2002,New Jersey,376.1
+2003,New Jersey,364.3
+2004,New Jersey,356.3
+2005,New Jersey,355.3
+2006,New Jersey,350.2
+2007,New Jersey,328.6
+2008,New Jersey,326.5
+2009,New Jersey,311.4
+2010,New Jersey,307.5
+2011,New Jersey,307.9
+2012,New Jersey,290.1
+2013,New Jersey,288.9
+2014,New Jersey,260.9
+2015,New Jersey,256.0
+2016,New Jersey,243.5
+2017,New Jersey,231.8
+2018,New Jersey,208.6
+2019,New Jersey,206.9
+1986,Utah,266.7
+1987,Utah,229.8
+1988,Utah,243.1
+1989,Utah,258.8
+1990,Utah,283.9
+1991,Utah,286.8
+1992,Utah,290.5
+1993,Utah,301.0
+1994,Utah,304.5
+1995,Utah,328.8
+1996,Utah,331.9
+1997,Utah,334.0
+1998,Utah,314.2
+1999,Utah,275.6
+2000,Utah,255.7
+2001,Utah,233.2
+2002,Utah,236.7
+2003,Utah,250.4
+2004,Utah,233.3
+2005,Utah,225.4
+2006,Utah,226.3
+2007,Utah,239.9
+2008,Utah,225.3
+2009,Utah,215.4
+2010,Utah,213.5
+2011,Utah,197.1
+2012,Utah,208.0
+2013,Utah,228.9
+2014,Utah,219.5
+2015,Utah,238.7
+2016,Utah,243.3
+2017,Utah,242.2
+2018,Utah,239.4
+2019,Utah,235.6
+1986,Georgia,587.6
+1987,Georgia,576.5
+1988,Georgia,665.3
+1989,Georgia,735.8
+1990,Georgia,756.3
+1991,Georgia,738.2
+1992,Georgia,733.2
+1993,Georgia,723.1
+1994,Georgia,667.7
+1995,Georgia,657.1
+1996,Georgia,638.7
+1997,Georgia,606.6
+1998,Georgia,572.7
+1999,Georgia,533.9
+2000,Georgia,504.7
+2001,Georgia,495.7
+2002,Georgia,459.6
+2003,Georgia,454.5
+2004,Georgia,451.0
+2005,Georgia,445.9
+2006,Georgia,477.9
+2007,Georgia,491.5
+2008,Georgia,488.9
+2009,Georgia,428.0
+2010,Georgia,402.3
+2011,Georgia,374.6
+2012,Georgia,380.0
+2013,Georgia,375.4
+2014,Georgia,385.8
+2015,Georgia,381.3
+2016,Georgia,390.4
+2017,Georgia,356.5
+2018,Georgia,338.9
+2019,Georgia,340.7
+1986,Kentucky,334.4
+1987,Kentucky,337.8
+1988,Kentucky,330.1
+1989,Kentucky,356.9
+1990,Kentucky,390.4
+1991,Kentucky,438.0
+1992,Kentucky,535.5
+1993,Kentucky,462.7
+1994,Kentucky,444.0
+1995,Kentucky,364.7
+1996,Kentucky,320.5
+1997,Kentucky,316.9
+1998,Kentucky,328.0
+1999,Kentucky,308.3
+2000,Kentucky,294.5
+2001,Kentucky,258.3
+2002,Kentucky,271.4
+2003,Kentucky,248.5
+2004,Kentucky,245.1
+2005,Kentucky,266.8
+2006,Kentucky,270.1
+2007,Kentucky,290.7
+2008,Kentucky,297.2
+2009,Kentucky,255.0
+2010,Kentucky,243.9
+2011,Kentucky,239.6
+2012,Kentucky,224.9
+2013,Kentucky,210.9
+2014,Kentucky,215.2
+2015,Kentucky,223.5
+2016,Kentucky,235.6
+2017,Kentucky,231.1
+2018,Kentucky,217.9
+2019,Kentucky,217.1
+1986,District of Columbia,1505.3
+1987,District of Columbia,1610.3
+1988,District of Columbia,1921.6
+1989,District of Columbia,2141.9
+1990,District of Columbia,2458.2
+1991,District of Columbia,2453.3
+1992,District of Columbia,2832.8
+1993,District of Columbia,2921.8
+1994,District of Columbia,2662.6
+1995,District of Columbia,2661.4
+1996,District of Columbia,2469.8
+1997,District of Columbia,2024.2
+1998,District of Columbia,1718.5
+1999,District of Columbia,1627.7
+2000,District of Columbia,1507.9
+2001,District of Columbia,1602.4
+2002,District of Columbia,1637.9
+2003,District of Columbia,1624.9
+2004,District of Columbia,1369.4
+2005,District of Columbia,1380.0
+2006,District of Columbia,1508.4
+2007,District of Columbia,1415.1
+2008,District of Columbia,1437.7
+2009,District of Columbia,1348.9
+2010,District of Columbia,1326.8
+2011,District of Columbia,1200.8
+2012,District of Columbia,1241.8
+2013,District of Columbia,1296.4
+2014,District of Columbia,1242.6
+2015,District of Columbia,1273.6
+2016,District of Columbia,1203.5
+2017,District of Columbia,1002.7
+2018,District of Columbia,997.1
+2019,District of Columbia,1049.0
+1986,North Carolina,475.9
+1987,North Carolina,484.0
+1988,North Carolina,501.9
+1989,North Carolina,546.4
+1990,North Carolina,623.5
+1991,North Carolina,658.4
+1992,North Carolina,681.0
+1993,North Carolina,679.3
+1994,North Carolina,655.0
+1995,North Carolina,646.4
+1996,North Carolina,588.1
+1997,North Carolina,607.0
+1998,North Carolina,579.4
+1999,North Carolina,542.1
+2000,North Carolina,497.6
+2001,North Carolina,493.1
+2002,North Carolina,471.0
+2003,North Carolina,454.1
+2004,North Carolina,447.8
+2005,North Carolina,468.7
+2006,North Carolina,475.2
+2007,North Carolina,466.1
+2008,North Carolina,467.6
+2009,North Carolina,404.5
+2010,North Carolina,362.7
+2011,North Carolina,346.3
+2012,North Carolina,353.5
+2013,North Carolina,341.0
+2014,North Carolina,329.1
+2015,North Carolina,346.1
+2016,North Carolina,371.8
+2017,North Carolina,370.4
+2018,North Carolina,356.2
+2019,North Carolina,371.8
+1986,National,620.1
+1987,National,612.5
+1988,National,640.6
+1989,National,666.9
+1990,National,729.6
+1991,National,758.2
+1992,National,757.7
+1993,National,747.1
+1994,National,713.6
+1995,National,684.5
+1996,National,636.6
+1997,National,611.0
+1998,National,567.6
+1999,National,523.0
+2000,National,506.5
+2001,National,504.5
+2002,National,494.4
+2003,National,475.8
+2004,National,463.2
+2005,National,469.0
+2006,National,479.3
+2007,National,471.8
+2008,National,458.6
+2009,National,431.9
+2010,National,404.5
+2011,National,387.1
+2012,National,387.8
+2013,National,369.1
+2014,National,361.6
+2015,National,373.7
+2016,National,397.5
+2017,National,394.9
+2018,National,383.4
+2019,National,379.4
+1986,West Virginia,164.5
+1987,West Virginia,137.3
+1988,West Virginia,131.4
+1989,West Virginia,146.7
+1990,West Virginia,169.3
+1991,West Virginia,191.0
+1992,West Virginia,211.5
+1993,West Virginia,208.4
+1994,West Virginia,215.8
+1995,West Virginia,210.2
+1996,West Virginia,210.1
+1997,West Virginia,218.7
+1998,West Virginia,248.6
+1999,West Virginia,350.7
+2000,West Virginia,316.5
+2001,West Virginia,279.6
+2002,West Virginia,233.9
+2003,West Virginia,255.4
+2004,West Virginia,281.9
+2005,West Virginia,273.9
+2006,West Virginia,281.2
+2007,West Virginia,276.8
+2008,West Virginia,275.9
+2009,West Virginia,305.2
+2010,West Virginia,301.2
+2011,West Virginia,296.3
+2012,West Virginia,320.1
+2013,West Virginia,305.2
+2014,West Virginia,316.4
+2015,West Virginia,347.5
+2016,West Virginia,362.7
+2017,West Virginia,361.2
+2018,West Virginia,299.9
+2019,West Virginia,316.6
