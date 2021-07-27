@@ -56,3 +56,22 @@ CREATE TABLE economic_features (
 	avg_wage_index DECIMAL,
 	poverty_rate DECIMAL
 );
+
+CREATE TABLE economic_features_full (
+	"year" INT,
+	"state" VARCHAR,
+	population_million DECIMAL,
+	education_million DECIMAL,
+	welfare_million DECIMAL,
+	crime_rate DECIMAL,
+	unemployment_rate DECIMAL,
+	divorce_rate_per_1000_people DECIMAL,
+	homeownership_rate DECIMAL,
+	minimum_wage_effective DECIMAL,
+	CPI_Average DECIMAL,
+	avg_wage_index DECIMAL,
+	poverty_rate DECIMAL
+);
+
+SELECT * FROM economic_features_full;
+
