@@ -1,44 +1,44 @@
 year,state,crime_rate
-1970 ,National,363.5 
-1971 ,National,396.0 
-1972 ,National,401.0 
-1973 ,National,417.4 
-1974 ,National,461.1 
-1975 ,National,487.8 
-1976 ,National,467.8 
-1977 ,National,475.9 
-1978 ,National,497.8 
-1979 ,National,548.9 
-1980 ,National,596.6 
-1981 ,National,594.3 
-1982 ,National,571.1 
-1983 ,National,537.7 
-1984 ,National,539.2 
-1985 ,National,556.6 
-1986 ,National,620.1 
-1987 ,National,609.7 
-1988 ,National,637.2 
-1989 ,National,663.1 
-1990 ,National,731.8 
-1991 ,National,758.1 
-1992 ,National,757.5 
-1993 ,National,746.8 
-1994 ,National,713.6 
-1995 ,National,684.5 
-1996 ,National,636.6 
-1997 ,National,611.0 
-1998 ,National,566.4 
-1999 ,National,523
-2000 ,National,506.5 
+1970,National,363.5
+1971,National,396
+1972,National,401
+1973,National,417.4
+1974,National,461.1
+1975,National,487.8
+1976,National,467.8
+1977,National,475.9
+1978,National,497.8
+1979,National,548.9
+1980,National,596.6
+1981,National,594.3
+1982,National,571.1
+1983,National,537.7
+1984,National,539.2
+1985,National,556.6
+1986,National,620.1
+1987,National,609.7
+1988,National,637.2
+1989,National,663.1
+1990,National,731.8
+1991,National,758.1
+1992,National,757.5
+1993,National,746.8
+1994,National,713.6
+1995,National,684.5
+1996,National,636.6
+1997,National,611
+1998,National,566.4
+1999,National,523
+2000,National,506.5
 2001,National,504.5
-2002 ,National,494.4
-2003 ,National,475.8 
-2004 ,National,463.2 
-2005 ,National,469.0 
-2006 ,National,473.6 
-2007 ,National,466.9 
-2008 ,National,457.5 
-2009 ,National,431.9
+2002,National,494.4
+2003,National,475.8
+2004,National,463.2
+2005,National,469
+2006,National,473.6
+2007,National,466.9
+2008,National,457.5
+2009,National,431.9
 2010,National,404.5
 2011,National,387.1
 2012,National,387.8
@@ -50,7 +50,7 @@ year,state,crime_rate
 2018,National,383.4
 2019,National,379.4
 1970,Alabama,295.7
-1970,Alaska,278.0
+1970,Alaska,278
 1970,Arizona,370.3
 1970,Arkansas,222.3
 1970,California,474.8
@@ -71,16 +71,16 @@ year,state,crime_rate
 1970,Maryland,624.9
 1970,Massachusetts,202.9
 1970,Michigan,575.7
-1970,Minnesota,152.0
+1970,Minnesota,152
 1970,Mississippi,179.3
 1970,Missouri,405.9
 1970,Montana,111.5
 1970,Nebraska,184.1
 1970,Nevada,398.6
-1970,New Hampshire,56.0
+1970,New Hampshire,56
 1970,New Jersey,287.1
 1970,New Mexico,304.4
-1970,New York,685.0
+1970,New York,685
 1970,North Carolina,370.2
 1970,North Dakota,34.2
 1970,Ohio,284.3
@@ -93,8 +93,8 @@ year,state,crime_rate
 1970,Tennessee,274.9
 1970,Texas,365.3
 1970,Utah,137.7
-1970,Vermont,74.0
-1970,Virginia,302.0
+1970,Vermont,74
+1970,Virginia,302
 1970,Washington,221.3
 1970,West Virginia,123.7
 1970,Wisconsin,85.8
@@ -117,9 +117,9 @@ year,state,crime_rate
 1971,Kansas,214.5
 1971,Kentucky,235.1
 1971,Louisiana,413.1
-1971,Maine,90.0
+1971,Maine,90
 1971,Maryland,621.4
-1971,Massachusetts,266.0
+1971,Massachusetts,266
 1971,Michigan,574.6
 1971,Minnesota,154.4
 1971,Mississippi,276.3
@@ -141,7 +141,7 @@ year,state,crime_rate
 1971,South Carolina,311.7
 1971,South Dakota,96.1
 1971,Tennessee,313.8
-1971,Texas,376.0
+1971,Texas,376
 1971,Utah,153.7
 1971,Vermont,72.7
 1971,Virginia,326.3
@@ -156,7 +156,7 @@ year,state,crime_rate
 1972,California,540.7
 1972,Colorado,405.4
 1972,Connecticut,199.2
-1972,Delaware,386.0
+1972,Delaware,386
 1972,Florida,554.5
 1972,Georgia,377.6
 1972,Hawaii,155.5
@@ -175,7 +175,7 @@ year,state,crime_rate
 1972,Mississippi,312.7
 1972,Missouri,383.4
 1972,Montana,150.1
-1972,Nebraska,173.0
+1972,Nebraska,173
 1972,Nevada,429.6
 1972,New Hampshire,63.7
 1972,New Jersey,374.3
@@ -190,11 +190,11 @@ year,state,crime_rate
 1972,Rhode Island,250.4
 1972,South Carolina,386.9
 1972,South Dakota,111.3
-1972,Tennessee,319.0
+1972,Tennessee,319
 1972,Texas,354.4
 1972,Utah,183.2
 1972,Vermont,96.3
-1972,Virginia,346.0
+1972,Virginia,346
 1972,Washington,250.6
 1972,West Virginia,129.1
 1972,Wisconsin,96.4
@@ -204,9 +204,9 @@ year,state,crime_rate
 1973,Arizona,479.9
 1973,Arkansas,289.9
 1973,California,565.8
-1973,Colorado,414.0
+1973,Colorado,414
 1973,Connecticut,208.7
-1973,Delaware,350.0
+1973,Delaware,350
 1973,Florida,604.6
 1973,Georgia,412.4
 1973,Hawaii,155.6
@@ -227,7 +227,7 @@ year,state,crime_rate
 1973,Montana,167.4
 1973,Nebraska,185.4
 1973,Nevada,572.1
-1973,New Hampshire,82.0
+1973,New Hampshire,82
 1973,New Jersey,391.9
 1973,New Mexico,471.9
 1973,New York,741.7
@@ -240,7 +240,7 @@ year,state,crime_rate
 1973,Rhode Island,282.5
 1973,South Carolina,394.6
 1973,South Dakota,126.9
-1973,Tennessee,358.0
+1973,Tennessee,358
 1973,Texas,385.4
 1973,Utah,208.5
 1973,Vermont,70.5
@@ -259,13 +259,13 @@ year,state,crime_rate
 1974,Delaware,443.1
 1974,Florida,677.6
 1974,Georgia,442.2
-1974,Hawaii,208.0
+1974,Hawaii,208
 1974,Idaho,183.4
 1974,Illinois,627.1
 1974,Indiana,293.3
-1974,Iowa,121.0
+1974,Iowa,121
 1974,Kansas,276.3
-1974,Kentucky,234.0
+1974,Kentucky,234
 1974,Louisiana,472.7
 1974,Maine,137.5
 1974,Maryland,719.1
@@ -280,13 +280,13 @@ year,state,crime_rate
 1974,New Hampshire,91.5
 1974,New Jersey,403.4
 1974,New Mexico,450.4
-1974,New York,803.0
+1974,New York,803
 1974,North Carolina,488.9
 1974,North Dakota,50.1
 1974,Ohio,364.1
 1974,Oklahoma,280.1
 1974,Oregon,367.4
-1974,Pennsylvania,315.0
+1974,Pennsylvania,315
 1974,Rhode Island,282.9
 1974,South Carolina,455.7
 1974,South Dakota,180.9
@@ -308,39 +308,39 @@ year,state,crime_rate
 1975,Connecticut,268.4
 1975,Delaware,392.1
 1975,Florida,688.5
-1975,Georgia,459.0
+1975,Georgia,459
 1975,Hawaii,218.4
 1975,Idaho,203.7
 1975,Illinois,670.2
 1975,Indiana,332.8
 1975,Iowa,140.7
 1975,Kansas,278.2
-1975,Kentucky,264.0
+1975,Kentucky,264
 1975,Louisiana,478.4
 1975,Maine,219.5
 1975,Maryland,709.8
 1975,Massachusetts,442.6
 1975,Michigan,685.7
-1975,Minnesota,207.0
+1975,Minnesota,207
 1975,Mississippi,315.9
 1975,Missouri,493.8
 1975,Montana,189.6
 1975,Nebraska,257.8
 1975,Nevada,678.7
 1975,New Hampshire,99.8
-1975,New Jersey,413.0
+1975,New Jersey,413
 1975,New Mexico,534.8
 1975,New York,856.4
 1975,North Carolina,436.5
 1975,North Dakota,53.1
-1975,Ohio,408.0
+1975,Ohio,408
 1975,Oklahoma,303.3
 1975,Oregon,438.5
 1975,Pennsylvania,329.2
 1975,Rhode Island,302.3
 1975,South Carolina,511.4
 1975,South Dakota,205.3
-1975,Tennessee,397.0
+1975,Tennessee,397
 1975,Texas,390.6
 1975,Utah,231.8
 1975,Vermont,95.1
@@ -354,7 +354,7 @@ year,state,crime_rate
 1976,Arizona,455.3
 1976,Arkansas,303.9
 1976,California,669.3
-1976,Colorado,417.0
+1976,Colorado,417
 1976,Connecticut,273.2
 1976,Delaware,321.6
 1976,Florida,648.3
@@ -367,16 +367,16 @@ year,state,crime_rate
 1976,Kansas,282.6
 1976,Kentucky,262.2
 1976,Louisiana,472.8
-1976,Maine,220.0
+1976,Maine,220
 1976,Maryland,633.4
 1976,Massachusetts,399.2
-1976,Michigan,646.0
-1976,Minnesota,189.0
+1976,Michigan,646
+1976,Minnesota,189
 1976,Mississippi,295.4
 1976,Missouri,449.4
 1976,Montana,180.3
 1976,Nebraska,210.5
-1976,Nevada,691.0
+1976,Nevada,691
 1976,New Hampshire,86.3
 1976,New Jersey,396.8
 1976,New Mexico,554.4
@@ -403,7 +403,7 @@ year,state,crime_rate
 1977,Alaska,443.2
 1977,Arizona,494.2
 1977,Arkansas,322.9
-1977,California,706.0
+1977,California,706
 1977,Colorado,511.9
 1977,Connecticut,282.3
 1977,Delaware,382.1
@@ -413,7 +413,7 @@ year,state,crime_rate
 1977,Idaho,236.9
 1977,Illinois,630.6
 1977,Indiana,310.6
-1977,Iowa,144.0
+1977,Iowa,144
 1977,Kansas,309.8
 1977,Kentucky,233.6
 1977,Louisiana,524.8
@@ -424,11 +424,11 @@ year,state,crime_rate
 1977,Minnesota,193.8
 1977,Mississippi,288.7
 1977,Missouri,460.4
-1977,Montana,218.0
+1977,Montana,218
 1977,Nebraska,199.4
-1977,Nevada,743.0
+1977,Nevada,743
 1977,New Hampshire,113.1
-1977,New Jersey,392.0
+1977,New Jersey,392
 1977,New Mexico,500.9
 1977,New York,831.8
 1977,North Carolina,407.1
@@ -442,9 +442,9 @@ year,state,crime_rate
 1977,South Dakota,189.1
 1977,Tennessee,389.5
 1977,Texas,407.7
-1977,Utah,240.0
+1977,Utah,240
 1977,Vermont,149.5
-1977,Virginia,290.0
+1977,Virginia,290
 1977,Washington,374.9
 1977,West Virginia,152.3
 1977,Wisconsin,131.5
@@ -454,8 +454,8 @@ year,state,crime_rate
 1978,Arizona,552.1
 1978,Arkansas,344.1
 1978,California,742.9
-1978,Colorado,498.0
-1978,Connecticut,315.0
+1978,Colorado,498
+1978,Connecticut,315
 1978,Delaware,440.7
 1978,Florida,765.6
 1978,Georgia,482.8
@@ -468,8 +468,8 @@ year,state,crime_rate
 1978,Kentucky,223.2
 1978,Louisiana,584.9
 1978,Maine,207.7
-1978,Maryland,732.0
-1978,Massachusetts,462.0
+1978,Maryland,732
+1978,Massachusetts,462
 1978,Michigan,577.2
 1978,Minnesota,189.6
 1978,Mississippi,321.2
@@ -480,11 +480,11 @@ year,state,crime_rate
 1978,New Hampshire,118.8
 1978,New Jersey,423.5
 1978,New Mexico,528.2
-1978,New York,841.0
+1978,New York,841
 1978,North Carolina,413.4
-1978,North Dakota,67.0
+1978,North Dakota,67
 1978,Ohio,412.7
-1978,Oklahoma,353.0
+1978,Oklahoma,353
 1978,Oregon,502.4
 1978,Pennsylvania,301.1
 1978,Rhode Island,348.1
@@ -501,7 +501,7 @@ year,state,crime_rate
 1978,Wyoming,280.4
 1979,Alabama,413.3
 1979,Alaska,491.1
-1979,Arizona,593.0
+1979,Arizona,593
 1979,Arkansas,366.2
 1979,California,811.1
 1979,Colorado,522.1
@@ -512,16 +512,16 @@ year,state,crime_rate
 1979,Hawaii,289.7
 1979,Idaho,288.7
 1979,Illinois,743.9
-1979,Indiana,338.0
+1979,Indiana,338
 1979,Iowa,181.2
 1979,Kansas,353.6
-1979,Kentucky,248.0
+1979,Kentucky,248
 1979,Louisiana,676.3
 1979,Maine,202.5
 1979,Maryland,795.5
 1979,Massachusetts,531.3
 1979,Michigan,614.2
-1979,Minnesota,221.0
+1979,Minnesota,221
 1979,Mississippi,323.6
 1979,Missouri,527.2
 1979,Montana,224.2
@@ -529,7 +529,7 @@ year,state,crime_rate
 1979,Nevada,835.6
 1979,New Hampshire,139.9
 1979,New Jersey,501.2
-1979,New Mexico,586.0
+1979,New Mexico,586
 1979,New York,917.4
 1979,North Carolina,446.1
 1979,North Dakota,61.3
@@ -540,17 +540,17 @@ year,state,crime_rate
 1979,Rhode Island,375.1
 1979,South Carolina,678.3
 1979,South Dakota,159.1
-1979,Tennessee,414.0
+1979,Tennessee,414
 1979,Texas,507.9
 1979,Utah,304.2
 1979,Vermont,184.2
-1979,Virginia,301.0
+1979,Virginia,301
 1979,Washington,434.6
 1979,West Virginia,168.1
 1979,Wisconsin,166.1
 1979,Wyoming,350.9
 1980,Alabama,448.5
-1980,Alaska,436.0
+1980,Alaska,436
 1980,Arizona,650.9
 1980,Arkansas,335.2
 1980,California,893.6
@@ -561,12 +561,12 @@ year,state,crime_rate
 1980,Georgia,555.3
 1980,Hawaii,299.5
 1980,Idaho,313.4
-1980,Illinois,808.0
+1980,Illinois,808
 1980,Indiana,377.8
 1980,Iowa,200.4
 1980,Kansas,389.3
 1980,Kentucky,266.7
-1980,Louisiana,665.0
+1980,Louisiana,665
 1980,Maine,193.4
 1980,Maryland,852.4
 1980,Massachusetts,601.3
@@ -579,16 +579,16 @@ year,state,crime_rate
 1980,Nevada,912.6
 1980,New Hampshire,179.8
 1980,New Jersey,604.4
-1980,New Mexico,615.0
+1980,New Mexico,615
 1980,New York,1029.5
-1980,North Carolina,455.0
-1980,North Dakota,54.0
+1980,North Carolina,455
+1980,North Dakota,54
 1980,Ohio,498.3
 1980,Oklahoma,419.5
 1980,Oregon,490.4
 1980,Pennsylvania,363.9
 1980,Rhode Island,408.5
-1980,South Carolina,660.0
+1980,South Carolina,660
 1980,South Dakota,126.8
 1980,Tennessee,458.1
 1980,Texas,550.3
@@ -603,10 +603,10 @@ year,state,crime_rate
 1981,Alaska,615.8
 1981,Arizona,575.8
 1981,Arkansas,310.3
-1981,California,863.0
+1981,California,863
 1981,Colorado,531.7
 1981,Connecticut,448.1
-1981,Delaware,509.0
+1981,Delaware,509
 1981,Florida,965.1
 1981,Georgia,548.2
 1981,Hawaii,247.6
@@ -624,7 +624,7 @@ year,state,crime_rate
 1981,Minnesota,228.5
 1981,Mississippi,304.6
 1981,Missouri,540.2
-1981,Montana,253.0
+1981,Montana,253
 1981,Nebraska,181.5
 1981,Nevada,896.4
 1981,New Hampshire,147.1
@@ -643,7 +643,7 @@ year,state,crime_rate
 1981,Tennessee,412.6
 1981,Texas,532.4
 1981,Utah,298.6
-1981,Vermont,128.0
+1981,Vermont,128
 1981,Virginia,321.7
 1981,Washington,447.3
 1981,West Virginia,174.8
@@ -651,7 +651,7 @@ year,state,crime_rate
 1981,Wyoming,430.1
 1982,Alabama,447.7
 1982,Alaska,623.7
-1982,Arizona,517.0
+1982,Arizona,517
 1982,Arkansas,324.7
 1982,California,814.7
 1982,Colorado,504.2
@@ -665,10 +665,10 @@ year,state,crime_rate
 1982,Indiana,300.6
 1982,Iowa,172.7
 1982,Kansas,335.9
-1982,Kentucky,315.0
+1982,Kentucky,315
 1982,Louisiana,669.1
-1982,Maine,163.0
-1982,Maryland,850.0
+1982,Maine,163
+1982,Maryland,850
 1982,Massachusetts,571.4
 1982,Michigan,656.6
 1982,Minnesota,219.3
@@ -685,11 +685,11 @@ year,state,crime_rate
 1982,North Dakota,61.8
 1982,Ohio,436.7
 1982,Oklahoma,443.9
-1982,Oregon,473.0
+1982,Oregon,473
 1982,Pennsylvania,360.4
 1982,Rhode Island,401.8
-1982,South Carolina,720.0
-1982,South Dakota,99.0
+1982,South Carolina,720
+1982,South Dakota,99
 1982,Tennessee,421.1
 1982,Texas,577.1
 1982,Utah,285.7
@@ -699,13 +699,13 @@ year,state,crime_rate
 1982,West Virginia,174.8
 1982,Wisconsin,190.5
 1982,Wyoming,304.2
-1983,Alabama,416.0
+1983,Alabama,416
 1983,Alaska,613.8
 1983,Arizona,494.2
 1983,Arkansas,297.7
 1983,California,772.6
 1983,Colorado,476.4
-1983,Connecticut,375.0
+1983,Connecticut,375
 1983,Delaware,453.1
 1983,Florida,826.7
 1983,Georgia,456.7
@@ -739,10 +739,10 @@ year,state,crime_rate
 1983,Pennsylvania,342.8
 1983,Rhode Island,355.2
 1983,South Carolina,616.8
-1983,South Dakota,120.0
-1983,Tennessee,402.0
+1983,South Dakota,120
+1983,Tennessee,402
 1983,Texas,512.2
-1983,Utah,256.0
+1983,Utah,256
 1983,Vermont,132.6
 1983,Virginia,292.5
 1983,Washington,371.8
@@ -757,7 +757,7 @@ year,state,crime_rate
 1984,Colorado,457.8
 1984,Connecticut,393.8
 1984,Delaware,435.7
-1984,Florida,868.0
+1984,Florida,868
 1984,Georgia,478.6
 1984,Hawaii,231.9
 1984,Idaho,235.3
@@ -766,13 +766,13 @@ year,state,crime_rate
 1984,Iowa,198.7
 1984,Kansas,334.2
 1984,Kentucky,277.8
-1984,Louisiana,678.0
+1984,Louisiana,678
 1984,Maine,158.5
 1984,Maryland,792.3
 1984,Massachusetts,523.7
 1984,Michigan,760.1
 1984,Minnesota,211.5
-1984,Mississippi,282.0
+1984,Mississippi,282
 1984,Missouri,460.7
 1984,Montana,237.6
 1984,Nebraska,225.8
@@ -791,7 +791,7 @@ year,state,crime_rate
 1984,South Carolina,624.5
 1984,South Dakota,147.5
 1984,Tennessee,445.4
-1984,Texas,505.0
+1984,Texas,505
 1984,Utah,244.2
 1984,Vermont,145.1
 1984,Virginia,295.6
@@ -804,8 +804,8 @@ year,state,crime_rate
 1985,Arizona,602.5
 1985,Arkansas,347.6
 1985,California,765.3
-1985,Colorado,471.0
-1985,Connecticut,402.0
+1985,Colorado,471
+1985,Connecticut,402
 1985,Delaware,433.3
 1985,Florida,941.1
 1985,Georgia,507.2
@@ -832,32 +832,32 @@ year,state,crime_rate
 1985,New Mexico,703.9
 1985,New York,929.9
 1985,North Carolina,420.9
-1985,North Dakota,47.0
+1985,North Dakota,47
 1985,Ohio,381.6
-1985,Oklahoma,422.0
+1985,Oklahoma,422
 1985,Oregon,551.1
 1985,Pennsylvania,331.1
 1985,Rhode Island,346.6
-1985,South Carolina,631.0
+1985,South Carolina,631
 1985,South Dakota,136.6
 1985,Tennessee,474.4
-1985,Texas,550.0
+1985,Texas,550
 1985,Utah,267.4
 1985,Vermont,147.7
 1985,Virginia,294.7
 1985,Washington,425.4
-1985,West Virginia,166.0
+1985,West Virginia,166
 1985,Wisconsin,206.9
 1985,Wyoming,256.8
-1986,Maryland,833.0
+1986,Maryland,833
 1987,Maryland,767.8
 1988,Maryland,806.8
 1989,Maryland,855.4
-1990,Maryland,919.0
+1990,Maryland,919
 1991,Maryland,956.2
 1992,Maryland,1000.1
 1993,Maryland,997.8
-1994,Maryland,948.0
+1994,Maryland,948
 1995,Maryland,986.9
 1996,Maryland,931.2
 1997,Maryland,846.6
@@ -872,12 +872,12 @@ year,state,crime_rate
 2006,Maryland,678.6
 2007,Maryland,641.9
 2008,Maryland,628.2
-2009,Maryland,590.0
+2009,Maryland,590
 2010,Maryland,546.3
 2011,Maryland,493.5
 2012,Maryland,477.3
 2013,Maryland,475.4
-2014,Maryland,448.0
+2014,Maryland,448
 2015,Maryland,470.1
 2016,Maryland,481.7
 2017,Maryland,503.3
@@ -887,12 +887,12 @@ year,state,crime_rate
 1987,Nebraska,251.2
 1988,Nebraska,273.2
 1989,Nebraska,279.5
-1990,Nebraska,330.0
+1990,Nebraska,330
 1991,Nebraska,334.6
 1992,Nebraska,348.6
 1993,Nebraska,377.8
 1994,Nebraska,389.5
-1995,Nebraska,382.0
+1995,Nebraska,382
 1996,Nebraska,434.7
 1997,Nebraska,438.4
 1998,Nebraska,451.4
@@ -928,7 +928,7 @@ year,state,crime_rate
 1994,Mississippi,493.7
 1995,Mississippi,502.8
 1996,Mississippi,488.3
-1997,Mississippi,469.0
+1997,Mississippi,469
 1998,Mississippi,410.7
 1999,Mississippi,349.3
 2000,Mississippi,360.9
@@ -942,29 +942,29 @@ year,state,crime_rate
 2008,Mississippi,304.3
 2009,Mississippi,286.3
 2010,Mississippi,269.3
-2011,Mississippi,269.0
+2011,Mississippi,269
 2012,Mississippi,260.1
 2013,Mississippi,277.5
 2014,Mississippi,278.3
-2015,Mississippi,274.0
+2015,Mississippi,274
 2016,Mississippi,281.7
 2017,Mississippi,256.2
-2018,Mississippi,266.0
+2018,Mississippi,266
 2019,Mississippi,277.9
 1986,Massachusetts,556.9
 1987,Massachusetts,564.6
 1988,Massachusetts,619.6
-1989,Massachusetts,675.0
+1989,Massachusetts,675
 1990,Massachusetts,736.3
 1991,Massachusetts,736.1
-1992,Massachusetts,779.0
+1992,Massachusetts,779
 1993,Massachusetts,804.9
 1994,Massachusetts,707.6
 1995,Massachusetts,687.2
 1996,Massachusetts,642.2
 1997,Massachusetts,644.2
 1998,Massachusetts,621.3
-1999,Massachusetts,551.0
+1999,Massachusetts,551
 2000,Massachusetts,476.1
 2001,Massachusetts,477.8
 2002,Massachusetts,484.9
@@ -977,7 +977,7 @@ year,state,crime_rate
 2009,Massachusetts,462.6
 2010,Massachusetts,468.9
 2011,Massachusetts,427.3
-2012,Massachusetts,407.0
+2012,Massachusetts,407
 2013,Massachusetts,406.4
 2014,Massachusetts,395.1
 2015,Massachusetts,389.9
@@ -1001,7 +1001,7 @@ year,state,crime_rate
 1999,Oklahoma,508.2
 2000,Oklahoma,497.8
 2001,Oklahoma,510.9
-2002,Oklahoma,504.0
+2002,Oklahoma,504
 2003,Oklahoma,506.4
 2004,Oklahoma,500.5
 2005,Oklahoma,509.2
@@ -1024,7 +1024,7 @@ year,state,crime_rate
 1988,Nevada,780.7
 1989,Nevada,625.3
 1990,Nevada,600.9
-1991,Nevada,677.0
+1991,Nevada,677
 1992,Nevada,696.8
 1993,Nevada,875.2
 1994,Nevada,1001.9
@@ -1036,17 +1036,17 @@ year,state,crime_rate
 2000,Nevada,524.2
 2001,Nevada,589.2
 2002,Nevada,639.3
-2003,Nevada,616.0
+2003,Nevada,616
 2004,Nevada,616.4
 2005,Nevada,607.5
 2006,Nevada,748.8
 2007,Nevada,754.9
 2008,Nevada,729.7
 2009,Nevada,705.2
-2010,Nevada,663.0
+2010,Nevada,663
 2011,Nevada,568.1
 2012,Nevada,608.6
-2013,Nevada,605.0
+2013,Nevada,605
 2014,Nevada,635.7
 2015,Nevada,697.6
 2016,Nevada,677.9
@@ -1077,7 +1077,7 @@ year,state,crime_rate
 2007,New Mexico,675.7
 2008,New Mexico,653.5
 2009,New Mexico,632.4
-2010,New Mexico,588.0
+2010,New Mexico,588
 2011,New Mexico,572.7
 2012,New Mexico,559.6
 2013,New Mexico,622.5
@@ -1093,14 +1093,14 @@ year,state,crime_rate
 1989,Iowa,266.3
 1990,Iowa,299.7
 1991,Iowa,303.3
-1992,Iowa,278.0
+1992,Iowa,278
 1993,Iowa,325.5
 1994,Iowa,315.1
 1995,Iowa,354.4
 1996,Iowa,272.5
-1997,Iowa,310.0
+1997,Iowa,310
 1998,Iowa,311.5
-1999,Iowa,280.0
+1999,Iowa,280
 2000,Iowa,266.4
 2001,Iowa,268.2
 2002,Iowa,285.7
@@ -1114,7 +1114,7 @@ year,state,crime_rate
 2010,Iowa,268.5
 2011,Iowa,257.3
 2012,Iowa,265.6
-2013,Iowa,273.0
+2013,Iowa,273
 2014,Iowa,272.8
 2015,Iowa,276.1
 2016,Iowa,292.9
@@ -1129,7 +1129,7 @@ year,state,crime_rate
 1991,Kansas,499.6
 1992,Kansas,510.8
 1993,Kansas,496.4
-1994,Kansas,443.0
+1994,Kansas,443
 1995,Kansas,420.7
 1996,Kansas,413.8
 1997,Kansas,429.7
@@ -1150,7 +1150,7 @@ year,state,crime_rate
 2012,Kansas,356.7
 2013,Kansas,342.8
 2014,Kansas,352.6
-2015,Kansas,395.0
+2015,Kansas,395
 2016,Kansas,401.2
 2017,Kansas,400.4
 2018,Kansas,441.8
@@ -1174,7 +1174,7 @@ year,state,crime_rate
 2002,Oregon,292.5
 2003,Oregon,294.8
 2004,Oregon,298.6
-2005,Oregon,287.0
+2005,Oregon,287
 2006,Oregon,284.6
 2007,Oregon,293.9
 2008,Oregon,261.4
@@ -1214,7 +1214,7 @@ year,state,crime_rate
 2008,Illinois,525.4
 2009,Illinois,497.2
 2010,Illinois,444.9
-2011,Illinois,424.0
+2011,Illinois,424
 2012,Illinois,416.2
 2013,Illinois,403.1
 2014,Illinois,370.9
@@ -1223,7 +1223,7 @@ year,state,crime_rate
 2017,Illinois,436.2
 2018,Illinois,411.4
 2019,Illinois,406.9
-1986,Maine,147.0
+1986,Maine,147
 1987,Maine,152.1
 1988,Maine,157.4
 1989,Maine,137.2
@@ -1236,14 +1236,14 @@ year,state,crime_rate
 1996,Maine,124.9
 1997,Maine,120.8
 1998,Maine,125.9
-1999,Maine,112.0
+1999,Maine,112
 2000,Maine,109.6
 2001,Maine,111.7
 2002,Maine,107.8
 2003,Maine,108.6
 2004,Maine,103.7
 2005,Maine,112.5
-2006,Maine,116.0
+2006,Maine,116
 2007,Maine,118.8
 2008,Maine,119.4
 2009,Maine,119.9
@@ -1253,13 +1253,13 @@ year,state,crime_rate
 2013,Maine,132.5
 2014,Maine,127.6
 2015,Maine,129.8
-2016,Maine,124.0
+2016,Maine,124
 2017,Maine,120.6
-2018,Maine,112.0
+2018,Maine,112
 2019,Maine,115.2
 1986,Wyoming,293.1
 1987,Wyoming,283.1
-1988,Wyoming,314.0
+1988,Wyoming,314
 1989,Wyoming,258.3
 1990,Wyoming,301.4
 1991,Wyoming,310.2
@@ -1317,7 +1317,7 @@ year,state,crime_rate
 2009,New Hampshire,160.4
 2010,New Hampshire,167.4
 2011,New Hampshire,217.3
-2012,New Hampshire,215.0
+2012,New Hampshire,215
 2013,New Hampshire,223.2
 2014,New Hampshire,197.7
 2015,New Hampshire,202.4
@@ -1335,7 +1335,7 @@ year,state,crime_rate
 1993,New York,1073.5
 1994,New York,965.6
 1995,New York,841.9
-1996,New York,727.0
+1996,New York,727
 1997,New York,688.6
 1998,New York,637.8
 1999,New York,588.8
@@ -1368,7 +1368,7 @@ year,state,crime_rate
 1992,Idaho,281.4
 1993,Idaho,281.8
 1994,Idaho,285.8
-1995,Idaho,322.0
+1995,Idaho,322
 1996,Idaho,267.2
 1997,Idaho,256.8
 1998,Idaho,282.2
@@ -1379,7 +1379,7 @@ year,state,crime_rate
 2003,Idaho,245.9
 2004,Idaho,247.4
 2005,Idaho,256.8
-2006,Idaho,250.0
+2006,Idaho,250
 2007,Idaho,256.2
 2008,Idaho,241.5
 2009,Idaho,246.2
@@ -1397,7 +1397,7 @@ year,state,crime_rate
 1987,Colorado,467.5
 1988,Colorado,472.6
 1989,Colorado,471.4
-1990,Colorado,526.0
+1990,Colorado,526
 1991,Colorado,559.3
 1992,Colorado,578.8
 1993,Colorado,567.3
@@ -1407,11 +1407,11 @@ year,state,crime_rate
 1997,Colorado,363.2
 1998,Colorado,377.9
 1999,Colorado,340.5
-2000,Colorado,334.0
+2000,Colorado,334
 2001,Colorado,349.6
 2002,Colorado,352.9
 2003,Colorado,346.5
-2004,Colorado,372.0
+2004,Colorado,372
 2005,Colorado,396.7
 2006,Colorado,395.4
 2007,Colorado,351.8
@@ -1426,7 +1426,7 @@ year,state,crime_rate
 2016,Colorado,344.1
 2017,Colorado,372.2
 2018,Colorado,401.5
-2019,Colorado,381.0
+2019,Colorado,381
 1986,North Dakota,51.3
 1987,North Dakota,56.8
 1988,North Dakota,59.1
@@ -1437,7 +1437,7 @@ year,state,crime_rate
 1993,North Dakota,82.2
 1994,North Dakota,81.8
 1995,North Dakota,86.7
-1996,North Dakota,84.0
+1996,North Dakota,84
 1997,North Dakota,87.2
 1998,North Dakota,89.3
 1999,North Dakota,66.9
@@ -1485,7 +1485,7 @@ year,state,crime_rate
 2007,Vermont,129.1
 2008,Vermont,137.5
 2009,Vermont,134.6
-2010,Vermont,131.0
+2010,Vermont,131
 2011,Vermont,147.6
 2012,Vermont,142.3
 2013,Vermont,123.6
@@ -1493,10 +1493,10 @@ year,state,crime_rate
 2015,Vermont,119.3
 2016,Vermont,136.5
 2017,Vermont,173.3
-2018,Vermont,185.0
+2018,Vermont,185
 2019,Vermont,202.2
 1986,Arkansas,394.8
-1987,Arkansas,412.0
+1987,Arkansas,412
 1988,Arkansas,422.7
 1989,Arkansas,473.7
 1990,Arkansas,532.2
@@ -1511,13 +1511,13 @@ year,state,crime_rate
 1999,Arkansas,425.2
 2000,Arkansas,445.3
 2001,Arkansas,452.4
-2002,Arkansas,425.0
+2002,Arkansas,425
 2003,Arkansas,456.4
 2004,Arkansas,502.3
 2005,Arkansas,528.5
 2006,Arkansas,552.8
 2007,Arkansas,537.1
-2008,Arkansas,513.0
+2008,Arkansas,513
 2009,Arkansas,515.8
 2010,Arkansas,503.5
 2011,Arkansas,482.3
@@ -1526,7 +1526,7 @@ year,state,crime_rate
 2014,Arkansas,480.2
 2015,Arkansas,529.5
 2016,Arkansas,554.3
-2017,Arkansas,566.0
+2017,Arkansas,566
 2018,Arkansas,561.6
 2019,Arkansas,584.6
 1986,Hawaii,245.2
@@ -1544,7 +1544,7 @@ year,state,crime_rate
 1998,Hawaii,246.9
 1999,Hawaii,234.9
 2000,Hawaii,243.8
-2001,Hawaii,254.0
+2001,Hawaii,254
 2002,Hawaii,262.9
 2003,Hawaii,272.3
 2004,Hawaii,254.6
@@ -1555,13 +1555,13 @@ year,state,crime_rate
 2009,Hawaii,274.1
 2010,Hawaii,264.3
 2011,Hawaii,251.4
-2012,Hawaii,243.0
+2012,Hawaii,243
 2013,Hawaii,254.4
 2014,Hawaii,236.7
 2015,Hawaii,293.4
 2016,Hawaii,241.6
 2017,Hawaii,251.2
-2018,Hawaii,255.0
+2018,Hawaii,255
 2019,Hawaii,285.5
 1986,Florida,1036.5
 1987,Florida,1024.4
@@ -1570,14 +1570,14 @@ year,state,crime_rate
 1990,Florida,1244.3
 1991,Florida,1184.3
 1992,Florida,1207.2
-1993,Florida,1206.0
+1993,Florida,1206
 1994,Florida,1146.8
-1995,Florida,1071.0
-1996,Florida,1051.0
+1995,Florida,1071
+1996,Florida,1051
 1997,Florida,1023.6
 1998,Florida,938.7
-1999,Florida,854.0
-2000,Florida,812.0
+1999,Florida,854
+2000,Florida,812
 2001,Florida,798.3
 2002,Florida,771.2
 2003,Florida,731.1
@@ -1589,7 +1589,7 @@ year,state,crime_rate
 2009,Florida,612.5
 2010,Florida,541.3
 2011,Florida,514.6
-2012,Florida,487.0
+2012,Florida,487
 2013,Florida,469.3
 2014,Florida,458.9
 2015,Florida,462.5
@@ -1599,7 +1599,7 @@ year,state,crime_rate
 2019,Florida,378.4
 1986,Indiana,307.7
 1987,Indiana,328.5
-1988,Indiana,380.0
+1988,Indiana,380
 1989,Indiana,406.5
 1990,Indiana,473.9
 1991,Indiana,505.3
@@ -1607,20 +1607,20 @@ year,state,crime_rate
 1993,Indiana,489.1
 1994,Indiana,525.1
 1995,Indiana,524.7
-1996,Indiana,537.0
+1996,Indiana,537
 1997,Indiana,514.6
-1998,Indiana,431.0
+1998,Indiana,431
 1999,Indiana,374.6
 2000,Indiana,349.1
 2001,Indiana,371.1
 2002,Indiana,357.3
 2003,Indiana,352.3
 2004,Indiana,325.9
-2005,Indiana,324.0
+2005,Indiana,324
 2006,Indiana,321.6
 2007,Indiana,335.8
 2008,Indiana,337.6
-2009,Indiana,334.0
+2009,Indiana,334
 2010,Indiana,323.3
 2011,Indiana,331.8
 2012,Indiana,344.8
@@ -1628,19 +1628,19 @@ year,state,crime_rate
 2014,Indiana,365.3
 2015,Indiana,383.7
 2016,Indiana,399.7
-2017,Indiana,395.0
+2017,Indiana,395
 2018,Indiana,373.5
 2019,Indiana,370.8
 1986,Rhode Island,335.5
 1987,Rhode Island,359.7
 1988,Rhode Island,396.7
-1989,Rhode Island,378.0
+1989,Rhode Island,378
 1990,Rhode Island,431.9
-1991,Rhode Island,462.0
+1991,Rhode Island,462
 1992,Rhode Island,394.5
 1993,Rhode Island,401.7
 1994,Rhode Island,375.5
-1995,Rhode Island,368.0
+1995,Rhode Island,368
 1996,Rhode Island,347.2
 1997,Rhode Island,333.5
 1998,Rhode Island,312.1
@@ -1657,24 +1657,24 @@ year,state,crime_rate
 2009,Rhode Island,254.3
 2010,Rhode Island,257.4
 2011,Rhode Island,246.1
-2012,Rhode Island,253.0
+2012,Rhode Island,253
 2013,Rhode Island,257.3
 2014,Rhode Island,219.9
-2015,Rhode Island,243.0
+2015,Rhode Island,243
 2016,Rhode Island,239.1
 2017,Rhode Island,234.2
 2018,Rhode Island,219.8
 2019,Rhode Island,221.1
 1986,California,920.5
-1987,California,918.0
+1987,California,918
 1988,California,929.8
 1989,California,977.7
 1990,California,1045.2
 1991,California,1089.9
 1992,California,1119.7
 1993,California,1077.8
-1994,California,1013.0
-1995,California,966.0
+1994,California,1013
+1995,California,966
 1996,California,862.7
 1997,California,798.3
 1998,California,703.7
@@ -1684,7 +1684,7 @@ year,state,crime_rate
 2002,California,595.4
 2003,California,579.6
 2004,California,527.8
-2005,California,526.0
+2005,California,526
 2006,California,533.5
 2007,California,524.1
 2008,California,504.2
@@ -1694,7 +1694,7 @@ year,state,crime_rate
 2012,California,423.5
 2013,California,402.6
 2014,California,396.4
-2015,California,428.0
+2015,California,428
 2016,California,444.8
 2017,California,453.3
 2018,California,447.5
@@ -1704,18 +1704,18 @@ year,state,crime_rate
 1988,Wisconsin,214.4
 1989,Wisconsin,222.6
 1990,Wisconsin,264.7
-1991,Wisconsin,277.0
+1991,Wisconsin,277
 1992,Wisconsin,275.7
 1993,Wisconsin,264.4
 1994,Wisconsin,270.5
 1995,Wisconsin,281.1
 1996,Wisconsin,252.7
 1997,Wisconsin,270.6
-1998,Wisconsin,249.0
+1998,Wisconsin,249
 1999,Wisconsin,245.8
 2000,Wisconsin,236.8
-2001,Wisconsin,231.0
-2002,Wisconsin,225.0
+2001,Wisconsin,231
+2002,Wisconsin,225
 2003,Wisconsin,221.1
 2004,Wisconsin,209.8
 2005,Wisconsin,241.8
@@ -1731,10 +1731,10 @@ year,state,crime_rate
 2015,Wisconsin,304.3
 2016,Wisconsin,306.9
 2017,Wisconsin,321.8
-2018,Wisconsin,299.0
+2018,Wisconsin,299
 2019,Wisconsin,293.2
 1986,Connecticut,425.8
-1987,Connecticut,419.0
+1987,Connecticut,419
 1988,Connecticut,455.4
 1989,Connecticut,511.8
 1990,Connecticut,553.7
@@ -1743,7 +1743,7 @@ year,state,crime_rate
 1993,Connecticut,456.2
 1994,Connecticut,455.5
 1995,Connecticut,405.9
-1996,Connecticut,412.0
+1996,Connecticut,412
 1997,Connecticut,390.9
 1998,Connecticut,366.3
 1999,Connecticut,345.6
@@ -1751,13 +1751,13 @@ year,state,crime_rate
 2001,Connecticut,334.6
 2002,Connecticut,312.5
 2003,Connecticut,316.8
-2004,Connecticut,289.0
+2004,Connecticut,289
 2005,Connecticut,272.6
 2006,Connecticut,299.7
 2007,Connecticut,301.1
 2008,Connecticut,306.7
 2009,Connecticut,300.9
-2010,Connecticut,282.0
+2010,Connecticut,282
 2011,Connecticut,275.7
 2012,Connecticut,283.5
 2013,Connecticut,262.2
@@ -1772,15 +1772,15 @@ year,state,crime_rate
 1988,Minnesota,290.1
 1989,Minnesota,288.3
 1990,Minnesota,306.1
-1991,Minnesota,316.0
-1992,Minnesota,338.0
+1991,Minnesota,316
+1992,Minnesota,338
 1993,Minnesota,353.9
-1994,Minnesota,359.0
+1994,Minnesota,359
 1995,Minnesota,356.1
 1996,Minnesota,338.8
 1997,Minnesota,337.8
 1998,Minnesota,310.2
-1999,Minnesota,274.0
+1999,Minnesota,274
 2000,Minnesota,280.8
 2001,Minnesota,263.7
 2002,Minnesota,267.2
@@ -1806,7 +1806,7 @@ year,state,crime_rate
 1988,Missouri,552.5
 1989,Missouri,632.6
 1990,Missouri,715.3
-1991,Missouri,763.0
+1991,Missouri,763
 1992,Missouri,740.4
 1993,Missouri,744.4
 1994,Missouri,743.5
@@ -1815,9 +1815,9 @@ year,state,crime_rate
 1997,Missouri,577.4
 1998,Missouri,555.7
 1999,Missouri,500.2
-2000,Missouri,490.0
+2000,Missouri,490
 2001,Missouri,540.5
-2002,Missouri,539.0
+2002,Missouri,539
 2003,Missouri,490.8
 2004,Missouri,490.1
 2005,Missouri,525.7
@@ -1834,8 +1834,8 @@ year,state,crime_rate
 2016,Missouri,520.8
 2017,Missouri,531.2
 2018,Missouri,501.4
-2019,Missouri,495.0
-1986,Washington,437.0
+2019,Missouri,495
+1986,Washington,437
 1987,Washington,439.5
 1988,Washington,466.4
 1989,Washington,471.7
@@ -1862,7 +1862,7 @@ year,state,crime_rate
 2010,Washington,313.5
 2011,Washington,295.3
 2012,Washington,298.1
-2013,Washington,290.0
+2013,Washington,290
 2014,Washington,285.8
 2015,Washington,286.4
 2016,Washington,303.5
@@ -1879,31 +1879,31 @@ year,state,crime_rate
 1993,Tennessee,765.8
 1994,Tennessee,747.9
 1995,Tennessee,771.5
-1996,Tennessee,774.0
+1996,Tennessee,774
 1997,Tennessee,789.7
-1998,Tennessee,715.0
-1999,Tennessee,695.0
+1998,Tennessee,715
+1999,Tennessee,695
 2000,Tennessee,707.2
-2001,Tennessee,744.0
+2001,Tennessee,744
 2002,Tennessee,717.8
 2003,Tennessee,691.3
 2004,Tennessee,697.6
 2005,Tennessee,757.3
 2006,Tennessee,762.5
-2007,Tennessee,755.0
+2007,Tennessee,755
 2008,Tennessee,722.7
-2009,Tennessee,666.0
-2010,Tennessee,612.0
+2009,Tennessee,666
+2010,Tennessee,612
 2011,Tennessee,607.8
 2012,Tennessee,638.5
 2013,Tennessee,585.8
 2014,Tennessee,610.7
 2015,Tennessee,618.9
 2016,Tennessee,638.5
-2017,Tennessee,655.0
+2017,Tennessee,655
 2018,Tennessee,630.4
 2019,Tennessee,595.2
-1986,Delaware,427.0
+1986,Delaware,427
 1987,Delaware,430.7
 1988,Delaware,451.7
 1989,Delaware,556.5
@@ -1912,18 +1912,18 @@ year,state,crime_rate
 1992,Delaware,621.2
 1993,Delaware,685.9
 1994,Delaware,644.3
-1995,Delaware,725.0
+1995,Delaware,725
 1996,Delaware,668.3
 1997,Delaware,785.9
 1998,Delaware,762.4
 1999,Delaware,734.4
 2000,Delaware,684.4
 2001,Delaware,611.1
-2002,Delaware,600.0
+2002,Delaware,600
 2003,Delaware,675.3
-2004,Delaware,615.0
+2004,Delaware,615
 2005,Delaware,633.4
-2006,Delaware,701.0
+2006,Delaware,701
 2007,Delaware,705.4
 2008,Delaware,708.6
 2009,Delaware,645.4
@@ -1933,7 +1933,7 @@ year,state,crime_rate
 2013,Delaware,500.7
 2014,Delaware,488.1
 2015,Delaware,504.2
-2016,Delaware,510.0
+2016,Delaware,510
 2017,Delaware,457.3
 2018,Delaware,422.5
 2019,Delaware,422.6
@@ -1959,8 +1959,8 @@ year,state,crime_rate
 2005,Texas,528.1
 2006,Texas,517.3
 2007,Texas,510.4
-2008,Texas,508.0
-2009,Texas,491.0
+2008,Texas,508
+2009,Texas,491
 2010,Texas,448.4
 2011,Texas,408.6
 2012,Texas,408.6
@@ -1971,7 +1971,7 @@ year,state,crime_rate
 2017,Texas,437.8
 2018,Texas,412.9
 2019,Texas,418.9
-1986,Alabama,558.0
+1986,Alabama,558
 1987,Alabama,559.2
 1988,Alabama,558.6
 1989,Alabama,590.8
@@ -1987,9 +1987,9 @@ year,state,crime_rate
 1999,Alabama,490.2
 2000,Alabama,486.2
 2001,Alabama,438.2
-2002,Alabama,445.0
+2002,Alabama,445
 2003,Alabama,429.2
-2004,Alabama,427.0
+2004,Alabama,427
 2005,Alabama,432.6
 2006,Alabama,425.2
 2007,Alabama,448.9
@@ -1998,20 +1998,20 @@ year,state,crime_rate
 2010,Alabama,383.7
 2011,Alabama,419.8
 2012,Alabama,450.3
-2013,Alabama,431.0
+2013,Alabama,431
 2014,Alabama,427.7
-2015,Alabama,473.0
+2015,Alabama,473
 2016,Alabama,532.4
 2017,Alabama,522.4
 2018,Alabama,523.1
 2019,Alabama,510.8
 1986,Pennsylvania,358.6
 1987,Pennsylvania,369.4
-1988,Pennsylvania,362.0
+1988,Pennsylvania,362
 1989,Pennsylvania,378.6
-1990,Pennsylvania,431.0
-1991,Pennsylvania,450.0
-1992,Pennsylvania,427.0
+1990,Pennsylvania,431
+1991,Pennsylvania,450
+1992,Pennsylvania,427
 1993,Pennsylvania,417.5
 1994,Pennsylvania,426.7
 1995,Pennsylvania,427.3
@@ -2019,7 +2019,7 @@ year,state,crime_rate
 1997,Pennsylvania,442.1
 1998,Pennsylvania,420.5
 1999,Pennsylvania,420.5
-2000,Pennsylvania,420.0
+2000,Pennsylvania,420
 2001,Pennsylvania,409.9
 2002,Pennsylvania,402.1
 2003,Pennsylvania,397.8
@@ -2027,21 +2027,21 @@ year,state,crime_rate
 2005,Pennsylvania,425.3
 2006,Pennsylvania,442.3
 2007,Pennsylvania,416.7
-2008,Pennsylvania,410.0
+2008,Pennsylvania,410
 2009,Pennsylvania,382.3
 2010,Pennsylvania,366.5
 2011,Pennsylvania,362.4
 2012,Pennsylvania,355.5
 2013,Pennsylvania,335.1
-2014,Pennsylvania,315.0
+2014,Pennsylvania,315
 2015,Pennsylvania,315.4
 2016,Pennsylvania,315.9
-2017,Pennsylvania,313.0
+2017,Pennsylvania,313
 2018,Pennsylvania,305.4
 2019,Pennsylvania,306.4
 1986,Ohio,420.9
 1987,Ohio,421.3
-1988,Ohio,452.0
+1988,Ohio,452
 1989,Ohio,468.6
 1990,Ohio,506.2
 1991,Ohio,561.8
@@ -2061,7 +2061,7 @@ year,state,crime_rate
 2005,Ohio,350.1
 2006,Ohio,361.5
 2007,Ohio,355.4
-2008,Ohio,352.0
+2008,Ohio,352
 2009,Ohio,331.9
 2010,Ohio,314.7
 2011,Ohio,305.2
@@ -2084,10 +2084,10 @@ year,state,crime_rate
 1994,Michigan,766.1
 1995,Michigan,687.8
 1996,Michigan,635.3
-1997,Michigan,590.0
+1997,Michigan,590
 1998,Michigan,620.8
 1999,Michigan,574.9
-2000,Michigan,555.0
+2000,Michigan,555
 2001,Michigan,553.9
 2002,Michigan,540.7
 2003,Michigan,511.3
@@ -2097,9 +2097,9 @@ year,state,crime_rate
 2007,Michigan,533.8
 2008,Michigan,514.9
 2009,Michigan,499.8
-2010,Michigan,493.0
+2010,Michigan,493
 2011,Michigan,442.8
-2012,Michigan,455.0
+2012,Michigan,455
 2013,Michigan,452.2
 2014,Michigan,429.1
 2015,Michigan,420.6
@@ -2129,7 +2129,7 @@ year,state,crime_rate
 2005,South Carolina,767.4
 2006,South Carolina,771.1
 2007,South Carolina,785.7
-2008,South Carolina,731.0
+2008,South Carolina,731
 2009,South Carolina,675.2
 2010,South Carolina,602.2
 2011,South Carolina,596.9
@@ -2160,7 +2160,7 @@ year,state,crime_rate
 2002,South Dakota,177.5
 2003,South Dakota,173.7
 2004,South Dakota,171.2
-2005,South Dakota,179.0
+2005,South Dakota,179
 2006,South Dakota,264.9
 2007,South Dakota,241.9
 2008,South Dakota,276.9
@@ -2171,16 +2171,16 @@ year,state,crime_rate
 2013,South Dakota,323.2
 2014,South Dakota,328.3
 2015,South Dakota,384.9
-2016,South Dakota,422.0
+2016,South Dakota,422
 2017,South Dakota,429.8
 2018,South Dakota,396.4
-2019,South Dakota,399.0
+2019,South Dakota,399
 1986,Louisiana,758.2
-1987,Louisiana,693.0
+1987,Louisiana,693
 1988,Louisiana,717.4
 1989,Louisiana,781.8
 1990,Louisiana,898.4
-1991,Louisiana,951.0
+1991,Louisiana,951
 1992,Louisiana,984.6
 1993,Louisiana,1061.7
 1994,Louisiana,981.9
@@ -2193,7 +2193,7 @@ year,state,crime_rate
 2001,Louisiana,686.3
 2002,Louisiana,663.3
 2003,Louisiana,636.9
-2004,Louisiana,640.0
+2004,Louisiana,640
 2005,Louisiana,596.6
 2006,Louisiana,721.2
 2007,Louisiana,740.4
@@ -2205,12 +2205,12 @@ year,state,crime_rate
 2013,Louisiana,521.2
 2014,Louisiana,515.9
 2015,Louisiana,539.8
-2016,Louisiana,565.0
+2016,Louisiana,565
 2017,Louisiana,556.3
 2018,Louisiana,543.3
 2019,Louisiana,549.3
-1986,Virginia,306.0
-1987,Virginia,295.0
+1986,Virginia,306
+1987,Virginia,295
 1988,Virginia,299.2
 1989,Virginia,312.5
 1990,Virginia,350.6
@@ -2224,7 +2224,7 @@ year,state,crime_rate
 1998,Virginia,325.7
 1999,Virginia,314.7
 2000,Virginia,281.7
-2001,Virginia,291.0
+2001,Virginia,291
 2002,Virginia,291.7
 2003,Virginia,278.2
 2004,Virginia,275.5
@@ -2242,7 +2242,7 @@ year,state,crime_rate
 2016,Virginia,219.8
 2017,Virginia,210.4
 2018,Virginia,204.2
-2019,Virginia,208.0
+2019,Virginia,208
 1986,Arizona,658.3
 1987,Arizona,612.6
 1988,Arizona,610.1
@@ -2250,7 +2250,7 @@ year,state,crime_rate
 1990,Arizona,652.4
 1991,Arizona,670.7
 1992,Arizona,670.8
-1993,Arizona,715.0
+1993,Arizona,715
 1994,Arizona,703.1
 1995,Arizona,713.5
 1996,Arizona,631.5
@@ -2262,9 +2262,9 @@ year,state,crime_rate
 2002,Arizona,554.5
 2003,Arizona,513.3
 2004,Arizona,504.4
-2005,Arizona,512.0
+2005,Arizona,512
 2006,Arizona,542.6
-2007,Arizona,518.0
+2007,Arizona,518
 2008,Arizona,485.6
 2009,Arizona,426.5
 2010,Arizona,413.6
@@ -2273,34 +2273,34 @@ year,state,crime_rate
 2013,Arizona,415.6
 2014,Arizona,392.7
 2015,Arizona,410.2
-2016,Arizona,471.0
+2016,Arizona,471
 2017,Arizona,505.7
 2018,Arizona,475.7
 2019,Arizona,455.3
 1986,Montana,157.4
 1987,Montana,151.2
-1988,Montana,123.0
-1989,Montana,116.0
+1988,Montana,123
+1989,Montana,116
 1990,Montana,159.3
 1991,Montana,139.9
 1992,Montana,169.9
 1993,Montana,177.5
 1994,Montana,177.1
 1995,Montana,171.4
-1996,Montana,161.0
+1996,Montana,161
 1997,Montana,132.1
 1998,Montana,204.2
 1999,Montana,236.8
 2000,Montana,311.1
-2001,Montana,352.0
+2001,Montana,352
 2002,Montana,351.2
-2003,Montana,365.0
+2003,Montana,365
 2004,Montana,293.8
 2005,Montana,281.8
 2006,Montana,377.3
 2007,Montana,379.8
 2008,Montana,311.4
-2009,Montana,287.0
+2009,Montana,287
 2010,Montana,275.8
 2011,Montana,276.1
 2012,Montana,278.8
@@ -2328,10 +2328,10 @@ year,state,crime_rate
 2000,Alaska,566.9
 2001,Alaska,589.5
 2002,Alaska,565.4
-2003,Alaska,598.0
+2003,Alaska,598
 2004,Alaska,632.3
 2005,Alaska,632.3
-2006,Alaska,688.0
+2006,Alaska,688
 2007,Alaska,661.3
 2008,Alaska,652.1
 2009,Alaska,633.4
@@ -2346,9 +2346,9 @@ year,state,crime_rate
 2018,Alaska,891.7
 2019,Alaska,867.1
 1986,New Jersey,572.5
-1987,New Jersey,541.0
+1987,New Jersey,541
 1988,New Jersey,582.8
-1989,New Jersey,609.0
+1989,New Jersey,609
 1990,New Jersey,647.6
 1991,New Jersey,634.8
 1992,New Jersey,625.8
@@ -2374,7 +2374,7 @@ year,state,crime_rate
 2012,New Jersey,290.1
 2013,New Jersey,288.9
 2014,New Jersey,260.9
-2015,New Jersey,256.0
+2015,New Jersey,256
 2016,New Jersey,243.5
 2017,New Jersey,231.8
 2018,New Jersey,208.6
@@ -2386,11 +2386,11 @@ year,state,crime_rate
 1990,Utah,283.9
 1991,Utah,286.8
 1992,Utah,290.5
-1993,Utah,301.0
+1993,Utah,301
 1994,Utah,304.5
 1995,Utah,328.8
 1996,Utah,331.9
-1997,Utah,334.0
+1997,Utah,334
 1998,Utah,314.2
 1999,Utah,275.6
 2000,Utah,255.7
@@ -2405,7 +2405,7 @@ year,state,crime_rate
 2009,Utah,215.4
 2010,Utah,213.5
 2011,Utah,197.1
-2012,Utah,208.0
+2012,Utah,208
 2013,Utah,228.9
 2014,Utah,219.5
 2015,Utah,238.7
@@ -2431,15 +2431,15 @@ year,state,crime_rate
 2001,Georgia,495.7
 2002,Georgia,459.6
 2003,Georgia,454.5
-2004,Georgia,451.0
+2004,Georgia,451
 2005,Georgia,445.9
 2006,Georgia,477.9
 2007,Georgia,491.5
 2008,Georgia,488.9
-2009,Georgia,428.0
+2009,Georgia,428
 2010,Georgia,402.3
 2011,Georgia,374.6
-2012,Georgia,380.0
+2012,Georgia,380
 2013,Georgia,375.4
 2014,Georgia,385.8
 2015,Georgia,381.3
@@ -2452,14 +2452,14 @@ year,state,crime_rate
 1988,Kentucky,330.1
 1989,Kentucky,356.9
 1990,Kentucky,390.4
-1991,Kentucky,438.0
+1991,Kentucky,438
 1992,Kentucky,535.5
 1993,Kentucky,462.7
-1994,Kentucky,444.0
+1994,Kentucky,444
 1995,Kentucky,364.7
 1996,Kentucky,320.5
 1997,Kentucky,316.9
-1998,Kentucky,328.0
+1998,Kentucky,328
 1999,Kentucky,308.3
 2000,Kentucky,294.5
 2001,Kentucky,258.3
@@ -2470,7 +2470,7 @@ year,state,crime_rate
 2006,Kentucky,270.1
 2007,Kentucky,290.7
 2008,Kentucky,297.2
-2009,Kentucky,255.0
+2009,Kentucky,255
 2010,Kentucky,243.9
 2011,Kentucky,239.6
 2012,Kentucky,224.9
@@ -2500,7 +2500,7 @@ year,state,crime_rate
 2002,District of Columbia,1637.9
 2003,District of Columbia,1624.9
 2004,District of Columbia,1369.4
-2005,District of Columbia,1380.0
+2005,District of Columbia,1380
 2006,District of Columbia,1508.4
 2007,District of Columbia,1415.1
 2008,District of Columbia,1437.7
@@ -2514,24 +2514,24 @@ year,state,crime_rate
 2016,District of Columbia,1203.5
 2017,District of Columbia,1002.7
 2018,District of Columbia,997.1
-2019,District of Columbia,1049.0
+2019,District of Columbia,1049
 1986,North Carolina,475.9
-1987,North Carolina,484.0
+1987,North Carolina,484
 1988,North Carolina,501.9
 1989,North Carolina,546.4
 1990,North Carolina,623.5
 1991,North Carolina,658.4
-1992,North Carolina,681.0
+1992,North Carolina,681
 1993,North Carolina,679.3
-1994,North Carolina,655.0
+1994,North Carolina,655
 1995,North Carolina,646.4
 1996,North Carolina,588.1
-1997,North Carolina,607.0
+1997,North Carolina,607
 1998,North Carolina,579.4
 1999,North Carolina,542.1
 2000,North Carolina,497.6
 2001,North Carolina,493.1
-2002,North Carolina,471.0
+2002,North Carolina,471
 2003,North Carolina,454.1
 2004,North Carolina,447.8
 2005,North Carolina,468.7
@@ -2542,7 +2542,7 @@ year,state,crime_rate
 2010,North Carolina,362.7
 2011,North Carolina,346.3
 2012,North Carolina,353.5
-2013,North Carolina,341.0
+2013,North Carolina,341
 2014,North Carolina,329.1
 2015,North Carolina,346.1
 2016,North Carolina,371.8
@@ -2554,7 +2554,7 @@ year,state,crime_rate
 1988,West Virginia,131.4
 1989,West Virginia,146.7
 1990,West Virginia,169.3
-1991,West Virginia,191.0
+1991,West Virginia,191
 1992,West Virginia,211.5
 1993,West Virginia,208.4
 1994,West Virginia,215.8
