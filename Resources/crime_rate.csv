@@ -1,4 +1,804 @@
 year,state,crime_rate
+1970,Alabama,295.7
+1970,Alaska,278.0
+1970,Arizona,370.3
+1970,Arkansas,222.3
+1970,California,474.8
+1970,Colorado,356.7
+1970,Connecticut,170.4
+1970,Delaware,327.5
+1970,Florida,498.2
+1970,Georgia,304.5
+1970,Hawaii,121.8
+1970,Idaho,123.3
+1970,Illinois,467.9
+1970,Indiana,234.6
+1970,Iowa,79.3
+1970,Kansas,202.8
+1970,Kentucky,222.3
+1970,Louisiana,413.5
+1970,Maine,89.3
+1970,Maryland,624.9
+1970,Massachusetts,202.9
+1970,Michigan,575.7
+1970,Minnesota,152.0
+1970,Mississippi,179.3
+1970,Missouri,405.9
+1970,Montana,111.5
+1970,Nebraska,184.1
+1970,Nevada,398.6
+1970,New Hampshire,56.0
+1970,New Jersey,287.1
+1970,New Mexico,304.4
+1970,New York,685.0
+1970,North Carolina,370.2
+1970,North Dakota,34.2
+1970,Ohio,284.3
+1970,Oklahoma,202.9
+1970,Oregon,256.9
+1970,Pennsylvania,220.2
+1970,Rhode Island,204.7
+1970,South Carolina,286.1
+1970,South Dakota,92.5
+1970,Tennessee,274.9
+1970,Texas,365.3
+1970,Utah,137.7
+1970,Vermont,74.0
+1970,Virginia,302.0
+1970,Washington,221.3
+1970,West Virginia,123.7
+1970,Wisconsin,85.8
+1970,Wyoming,113.1
+1971,Alabama,311.4
+1971,Alaska,355.3
+1971,Arizona,400.6
+1971,Arkansas,240.7
+1971,California,518.6
+1971,Colorado,373.6
+1971,Connecticut,193.7
+1971,Delaware,369.2
+1971,Florida,547.9
+1971,Georgia,340.9
+1971,Hawaii,231.9
+1971,Idaho,125.3
+1971,Illinois,477.3
+1971,Indiana,247.1
+1971,Iowa,98.9
+1971,Kansas,214.5
+1971,Kentucky,235.1
+1971,Louisiana,413.1
+1971,Maine,90.0
+1971,Maryland,621.4
+1971,Massachusetts,266.0
+1971,Michigan,574.6
+1971,Minnesota,154.4
+1971,Mississippi,276.3
+1971,Missouri,386.5
+1971,Montana,137.1
+1971,Nebraska,155.8
+1971,Nevada,372.2
+1971,New Hampshire,76.1
+1971,New Jersey,362.2
+1971,New Mexico,387.8
+1971,New York,788.7
+1971,North Carolina,387.7
+1971,North Dakota,38.1
+1971,Ohio,298.4
+1971,Oklahoma,257.4
+1971,Oregon,293.6
+1971,Pennsylvania,268.7
+1971,Rhode Island,221.8
+1971,South Carolina,311.7
+1971,South Dakota,96.1
+1971,Tennessee,313.8
+1971,Texas,376.0
+1971,Utah,153.7
+1971,Vermont,72.7
+1971,Virginia,326.3
+1971,Washington,236.4
+1971,West Virginia,131.9
+1971,Wisconsin,88.4
+1971,Wyoming,156.5
+1972,Alabama,313.2
+1972,Alaska,370.5
+1972,Arizona,448.9
+1972,Arkansas,244.7
+1972,California,540.7
+1972,Colorado,405.4
+1972,Connecticut,199.2
+1972,Delaware,386.0
+1972,Florida,554.5
+1972,Georgia,377.6
+1972,Hawaii,155.5
+1972,Idaho,143.5
+1972,Illinois,508.1
+1972,Indiana,245.1
+1972,Iowa,87.4
+1972,Kansas,209.8
+1972,Kentucky,225.7
+1972,Louisiana,422.4
+1972,Maine,111.1
+1972,Maryland,651.2
+1972,Massachusetts,295.2
+1972,Michigan,555.2
+1972,Minnesota,174.5
+1972,Mississippi,312.7
+1972,Missouri,383.4
+1972,Montana,150.1
+1972,Nebraska,173.0
+1972,Nevada,429.6
+1972,New Hampshire,63.7
+1972,New Jersey,374.3
+1972,New Mexico,431.7
+1972,New York,754.3
+1972,North Carolina,423.6
+1972,North Dakota,45.9
+1972,Ohio,299.4
+1972,Oklahoma,238.8
+1972,Oregon,297.6
+1972,Pennsylvania,277.1
+1972,Rhode Island,250.4
+1972,South Carolina,386.9
+1972,South Dakota,111.3
+1972,Tennessee,319.0
+1972,Texas,354.4
+1972,Utah,183.2
+1972,Vermont,96.3
+1972,Virginia,346.0
+1972,Washington,250.6
+1972,West Virginia,129.1
+1972,Wisconsin,96.4
+1972,Wyoming,148.1
+1973,Alabama,350.1
+1973,Alaska,384.5
+1973,Arizona,479.9
+1973,Arkansas,289.9
+1973,California,565.8
+1973,Colorado,414.0
+1973,Connecticut,208.7
+1973,Delaware,350.0
+1973,Florida,604.6
+1973,Georgia,412.4
+1973,Hawaii,155.6
+1973,Idaho,164.2
+1973,Illinois,555.9
+1973,Indiana,257.6
+1973,Iowa,102.3
+1973,Kansas,217.5
+1973,Kentucky,220.1
+1973,Louisiana,425.6
+1973,Maine,122.4
+1973,Maryland,641.1
+1973,Massachusetts,351.9
+1973,Michigan,585.2
+1973,Minnesota,177.7
+1973,Mississippi,339.1
+1973,Missouri,408.7
+1973,Montana,167.4
+1973,Nebraska,185.4
+1973,Nevada,572.1
+1973,New Hampshire,82.0
+1973,New Jersey,391.9
+1973,New Mexico,471.9
+1973,New York,741.7
+1973,North Carolina,437.8
+1973,North Dakota,60.8
+1973,Ohio,291.7
+1973,Oklahoma,246.2
+1973,Oregon,292.7
+1973,Pennsylvania,272.2
+1973,Rhode Island,282.5
+1973,South Carolina,394.6
+1973,South Dakota,126.9
+1973,Tennessee,358.0
+1973,Texas,385.4
+1973,Utah,208.5
+1973,Vermont,70.5
+1973,Virginia,332.7
+1973,Washington,271.5
+1973,West Virginia,123.7
+1973,Wisconsin,115.4
+1973,Wyoming,216.1
+1974,Alabama,372.9
+1974,Alaska,453.1
+1974,Arizona,566.7
+1974,Arkansas,316.2
+1974,California,610.6
+1974,Colorado,429.8
+1974,Connecticut,228.1
+1974,Delaware,443.1
+1974,Florida,677.6
+1974,Georgia,442.2
+1974,Hawaii,208.0
+1974,Idaho,183.4
+1974,Illinois,627.1
+1974,Indiana,293.3
+1974,Iowa,121.0
+1974,Kansas,276.3
+1974,Kentucky,234.0
+1974,Louisiana,472.7
+1974,Maine,137.5
+1974,Maryland,719.1
+1974,Massachusetts,388.7
+1974,Michigan,659.4
+1974,Minnesota,207.3
+1974,Mississippi,334.9
+1974,Missouri,452.4
+1974,Montana,162.4
+1974,Nebraska,239.6
+1974,Nevada,682.4
+1974,New Hampshire,91.5
+1974,New Jersey,403.4
+1974,New Mexico,450.4
+1974,New York,803.0
+1974,North Carolina,488.9
+1974,North Dakota,50.1
+1974,Ohio,364.1
+1974,Oklahoma,280.1
+1974,Oregon,367.4
+1974,Pennsylvania,315.0
+1974,Rhode Island,282.9
+1974,South Carolina,455.7
+1974,South Dakota,180.9
+1974,Tennessee,386.8
+1974,Texas,390.1
+1974,Utah,214.6
+1974,Vermont,75.1
+1974,Virginia,356.8
+1974,Washington,346.3
+1974,West Virginia,137.4
+1974,Wisconsin,140.4
+1974,Wyoming,144.6
+1975,Alabama,392.9
+1975,Alaska,539.8
+1975,Arizona,547.8
+1975,Arkansas,348.3
+1975,California,655.4
+1975,Colorado,463.1
+1975,Connecticut,268.4
+1975,Delaware,392.1
+1975,Florida,688.5
+1975,Georgia,459.0
+1975,Hawaii,218.4
+1975,Idaho,203.7
+1975,Illinois,670.2
+1975,Indiana,332.8
+1975,Iowa,140.7
+1975,Kansas,278.2
+1975,Kentucky,264.0
+1975,Louisiana,478.4
+1975,Maine,219.5
+1975,Maryland,709.8
+1975,Massachusetts,442.6
+1975,Michigan,685.7
+1975,Minnesota,207.0
+1975,Mississippi,315.9
+1975,Missouri,493.8
+1975,Montana,189.6
+1975,Nebraska,257.8
+1975,Nevada,678.7
+1975,New Hampshire,99.8
+1975,New Jersey,413.0
+1975,New Mexico,534.8
+1975,New York,856.4
+1975,North Carolina,436.5
+1975,North Dakota,53.1
+1975,Ohio,408.0
+1975,Oklahoma,303.3
+1975,Oregon,438.5
+1975,Pennsylvania,329.2
+1975,Rhode Island,302.3
+1975,South Carolina,511.4
+1975,South Dakota,205.3
+1975,Tennessee,397.0
+1975,Texas,390.6
+1975,Utah,231.8
+1975,Vermont,95.1
+1975,Virginia,380.9
+1975,Washington,390.8
+1975,West Virginia,161.7
+1975,Wisconsin,151.8
+1975,Wyoming,204.3
+1976,Alabama,388.8
+1976,Alaska,540.1
+1976,Arizona,455.3
+1976,Arkansas,303.9
+1976,California,669.3
+1976,Colorado,417.0
+1976,Connecticut,273.2
+1976,Delaware,321.6
+1976,Florida,648.3
+1976,Georgia,423.1
+1976,Hawaii,229.3
+1976,Idaho,226.7
+1976,Illinois,625.8
+1976,Indiana,315.4
+1976,Iowa,132.9
+1976,Kansas,282.6
+1976,Kentucky,262.2
+1976,Louisiana,472.8
+1976,Maine,220.0
+1976,Maryland,633.4
+1976,Massachusetts,399.2
+1976,Michigan,646.0
+1976,Minnesota,189.0
+1976,Mississippi,295.4
+1976,Missouri,449.4
+1976,Montana,180.3
+1976,Nebraska,210.5
+1976,Nevada,691.0
+1976,New Hampshire,86.3
+1976,New Jersey,396.8
+1976,New Mexico,554.4
+1976,New York,868.1
+1976,North Carolina,403.4
+1976,North Dakota,71.9
+1976,Ohio,388.7
+1976,Oklahoma,286.6
+1976,Oregon,457.4
+1976,Pennsylvania,294.9
+1976,Rhode Island,299.8
+1976,South Carolina,599.2
+1976,South Dakota,186.2
+1976,Tennessee,393.3
+1976,Texas,355.7
+1976,Utah,220.6
+1976,Vermont,118.3
+1976,Virginia,307.7
+1976,Washington,388.6
+1976,West Virginia,151.6
+1976,Wisconsin,137.7
+1976,Wyoming,218.2
+1977,Alabama,414.4
+1977,Alaska,443.2
+1977,Arizona,494.2
+1977,Arkansas,322.9
+1977,California,706.0
+1977,Colorado,511.9
+1977,Connecticut,282.3
+1977,Delaware,382.1
+1977,Florida,686.8
+1977,Georgia,439.8
+1977,Hawaii,224.8
+1977,Idaho,236.9
+1977,Illinois,630.6
+1977,Indiana,310.6
+1977,Iowa,144.0
+1977,Kansas,309.8
+1977,Kentucky,233.6
+1977,Louisiana,524.8
+1977,Maine,224.7
+1977,Maryland,693.8
+1977,Massachusetts,425.3
+1977,Michigan,584.7
+1977,Minnesota,193.8
+1977,Mississippi,288.7
+1977,Missouri,460.4
+1977,Montana,218.0
+1977,Nebraska,199.4
+1977,Nevada,743.0
+1977,New Hampshire,113.1
+1977,New Jersey,392.0
+1977,New Mexico,500.9
+1977,New York,831.8
+1977,North Carolina,407.1
+1977,North Dakota,67.1
+1977,Ohio,406.7
+1977,Oklahoma,316.6
+1977,Oregon,455.8
+1977,Pennsylvania,282.8
+1977,Rhode Island,301.6
+1977,South Carolina,636.2
+1977,South Dakota,189.1
+1977,Tennessee,389.5
+1977,Texas,407.7
+1977,Utah,240.0
+1977,Vermont,149.5
+1977,Virginia,290.0
+1977,Washington,374.9
+1977,West Virginia,152.3
+1977,Wisconsin,131.5
+1977,Wyoming,240.9
+1978,Alabama,419.1
+1978,Alaska,441.9
+1978,Arizona,552.1
+1978,Arkansas,344.1
+1978,California,742.9
+1978,Colorado,498.0
+1978,Connecticut,315.0
+1978,Delaware,440.7
+1978,Florida,765.6
+1978,Georgia,482.8
+1978,Hawaii,270.1
+1978,Idaho,236.4
+1978,Illinois,676.7
+1978,Indiana,323.5
+1978,Iowa,161.4
+1978,Kansas,318.2
+1978,Kentucky,223.2
+1978,Louisiana,584.9
+1978,Maine,207.7
+1978,Maryland,732.0
+1978,Massachusetts,462.0
+1978,Michigan,577.2
+1978,Minnesota,189.6
+1978,Mississippi,321.2
+1978,Missouri,467.9
+1978,Montana,237.6
+1978,Nebraska,190.5
+1978,Nevada,780.8
+1978,New Hampshire,118.8
+1978,New Jersey,423.5
+1978,New Mexico,528.2
+1978,New York,841.0
+1978,North Carolina,413.4
+1978,North Dakota,67.0
+1978,Ohio,412.7
+1978,Oklahoma,353.0
+1978,Oregon,502.4
+1978,Pennsylvania,301.1
+1978,Rhode Island,348.1
+1978,South Carolina,637.6
+1978,South Dakota,163.5
+1978,Tennessee,382.6
+1978,Texas,435.3
+1978,Utah,271.8
+1978,Vermont,166.3
+1978,Virginia,286.4
+1978,Washington,405.3
+1978,West Virginia,167.7
+1978,Wisconsin,132.2
+1978,Wyoming,280.4
+1979,Alabama,413.3
+1979,Alaska,491.1
+1979,Arizona,593.0
+1979,Arkansas,366.2
+1979,California,811.1
+1979,Colorado,522.1
+1979,Connecticut,414.2
+1979,Delaware,537.3
+1979,Florida,833.9
+1979,Georgia,558.7
+1979,Hawaii,289.7
+1979,Idaho,288.7
+1979,Illinois,743.9
+1979,Indiana,338.0
+1979,Iowa,181.2
+1979,Kansas,353.6
+1979,Kentucky,248.0
+1979,Louisiana,676.3
+1979,Maine,202.5
+1979,Maryland,795.5
+1979,Massachusetts,531.3
+1979,Michigan,614.2
+1979,Minnesota,221.0
+1979,Mississippi,323.6
+1979,Missouri,527.2
+1979,Montana,224.2
+1979,Nebraska,225.9
+1979,Nevada,835.6
+1979,New Hampshire,139.9
+1979,New Jersey,501.2
+1979,New Mexico,586.0
+1979,New York,917.4
+1979,North Carolina,446.1
+1979,North Dakota,61.3
+1979,Ohio,457.5
+1979,Oklahoma,405.2
+1979,Oregon,545.4
+1979,Pennsylvania,333.6
+1979,Rhode Island,375.1
+1979,South Carolina,678.3
+1979,South Dakota,159.1
+1979,Tennessee,414.0
+1979,Texas,507.9
+1979,Utah,304.2
+1979,Vermont,184.2
+1979,Virginia,301.0
+1979,Washington,434.6
+1979,West Virginia,168.1
+1979,Wisconsin,166.1
+1979,Wyoming,350.9
+1980,Alabama,448.5
+1980,Alaska,436.0
+1980,Arizona,650.9
+1980,Arkansas,335.2
+1980,California,893.6
+1980,Colorado,528.6
+1980,Connecticut,412.5
+1980,Delaware,474.8
+1980,Florida,983.5
+1980,Georgia,555.3
+1980,Hawaii,299.5
+1980,Idaho,313.4
+1980,Illinois,808.0
+1980,Indiana,377.8
+1980,Iowa,200.4
+1980,Kansas,389.3
+1980,Kentucky,266.7
+1980,Louisiana,665.0
+1980,Maine,193.4
+1980,Maryland,852.4
+1980,Massachusetts,601.3
+1980,Michigan,639.5
+1980,Minnesota,227.8
+1980,Mississippi,341.9
+1980,Missouri,554.5
+1980,Montana,222.6
+1980,Nebraska,224.6
+1980,Nevada,912.6
+1980,New Hampshire,179.8
+1980,New Jersey,604.4
+1980,New Mexico,615.0
+1980,New York,1029.5
+1980,North Carolina,455.0
+1980,North Dakota,54.0
+1980,Ohio,498.3
+1980,Oklahoma,419.5
+1980,Oregon,490.4
+1980,Pennsylvania,363.9
+1980,Rhode Island,408.5
+1980,South Carolina,660.0
+1980,South Dakota,126.8
+1980,Tennessee,458.1
+1980,Texas,550.3
+1980,Utah,303.3
+1980,Vermont,178.8
+1980,Virginia,307.2
+1980,Washington,464.3
+1980,West Virginia,183.7
+1980,Wisconsin,182.6
+1980,Wyoming,392.6
+1981,Alabama,470.5
+1981,Alaska,615.8
+1981,Arizona,575.8
+1981,Arkansas,310.3
+1981,California,863.0
+1981,Colorado,531.7
+1981,Connecticut,448.1
+1981,Delaware,509.0
+1981,Florida,965.1
+1981,Georgia,548.2
+1981,Hawaii,247.6
+1981,Idaho,283.3
+1981,Illinois,792.5
+1981,Indiana,341.6
+1981,Iowa,204.2
+1981,Kansas,369.4
+1981,Kentucky,289.5
+1981,Louisiana,638.3
+1981,Maine,195.6
+1981,Maryland,887.1
+1981,Massachusetts,628.6
+1981,Michigan,641.9
+1981,Minnesota,228.5
+1981,Mississippi,304.6
+1981,Missouri,540.2
+1981,Montana,253.0
+1981,Nebraska,181.5
+1981,Nevada,896.4
+1981,New Hampshire,147.1
+1981,New Jersey,630.6
+1981,New Mexico,671.7
+1981,New York,1069.6
+1981,North Carolina,436.7
+1981,North Dakota,67.5
+1981,Ohio,496.6
+1981,Oklahoma,426.8
+1981,Oregon,478.7
+1981,Pennsylvania,371.7
+1981,Rhode Island,441.7
+1981,South Carolina,640.4
+1981,South Dakota,104.8
+1981,Tennessee,412.6
+1981,Texas,532.4
+1981,Utah,298.6
+1981,Vermont,128.0
+1981,Virginia,321.7
+1981,Washington,447.3
+1981,West Virginia,174.8
+1981,Wisconsin,187.9
+1981,Wyoming,430.1
+1982,Alabama,447.7
+1982,Alaska,623.7
+1982,Arizona,517.0
+1982,Arkansas,324.7
+1982,California,814.7
+1982,Colorado,504.2
+1982,Connecticut,399.5
+1982,Delaware,559.8
+1982,Florida,896.8
+1982,Georgia,478.2
+1982,Hawaii,255.7
+1982,Idaho,259.2
+1982,Illinois,774.3
+1982,Indiana,300.6
+1982,Iowa,172.7
+1982,Kansas,335.9
+1982,Kentucky,315.0
+1982,Louisiana,669.1
+1982,Maine,163.0
+1982,Maryland,850.0
+1982,Massachusetts,571.4
+1982,Michigan,656.6
+1982,Minnesota,219.3
+1982,Mississippi,294.6
+1982,Missouri,506.5
+1982,Montana,224.8
+1982,Nebraska,229.6
+1982,Nevada,805.4
+1982,New Hampshire,124.8
+1982,New Jersey,607.4
+1982,New Mexico,734.5
+1982,New York,990.1
+1982,North Carolina,446.3
+1982,North Dakota,61.8
+1982,Ohio,436.7
+1982,Oklahoma,443.9
+1982,Oregon,473.0
+1982,Pennsylvania,360.4
+1982,Rhode Island,401.8
+1982,South Carolina,720.0
+1982,South Dakota,99.0
+1982,Tennessee,421.1
+1982,Texas,577.1
+1982,Utah,285.7
+1982,Vermont,126.9
+1982,Virginia,309.1
+1982,Washington,406.4
+1982,West Virginia,174.8
+1982,Wisconsin,190.5
+1982,Wyoming,304.2
+1983,Alabama,416.0
+1983,Alaska,613.8
+1983,Arizona,494.2
+1983,Arkansas,297.7
+1983,California,772.6
+1983,Colorado,476.4
+1983,Connecticut,375.0
+1983,Delaware,453.1
+1983,Florida,826.7
+1983,Georgia,456.7
+1983,Hawaii,252.1
+1983,Idaho,238.7
+1983,Illinois,728.1
+1983,Indiana,283.8
+1983,Iowa,181.1
+1983,Kansas,326.6
+1983,Kentucky,322.2
+1983,Louisiana,640.9
+1983,Maine,159.6
+1983,Maryland,807.1
+1983,Massachusetts,576.8
+1983,Michigan,716.7
+1983,Minnesota,190.9
+1983,Mississippi,280.4
+1983,Missouri,477.2
+1983,Montana,212.6
+1983,Nebraska,217.7
+1983,Nevada,655.2
+1983,New Hampshire,125.1
+1983,New Jersey,553.1
+1983,New Mexico,686.8
+1983,New York,914.1
+1983,North Carolina,409.6
+1983,North Dakota,53.7
+1983,Ohio,397.9
+1983,Oklahoma,423.4
+1983,Oregon,487.8
+1983,Pennsylvania,342.8
+1983,Rhode Island,355.2
+1983,South Carolina,616.8
+1983,South Dakota,120.0
+1983,Tennessee,402.0
+1983,Texas,512.2
+1983,Utah,256.0
+1983,Vermont,132.6
+1983,Virginia,292.5
+1983,Washington,371.8
+1983,West Virginia,171.8
+1983,Wisconsin,190.9
+1983,Wyoming,237.2
+1984,Alabama,431.2
+1984,Alaska,621.6
+1984,Arizona,516.1
+1984,Arkansas,321.4
+1984,California,763.4
+1984,Colorado,457.8
+1984,Connecticut,393.8
+1984,Delaware,435.7
+1984,Florida,868.0
+1984,Georgia,478.6
+1984,Hawaii,231.9
+1984,Idaho,235.3
+1984,Illinois,724.9
+1984,Indiana,305.2
+1984,Iowa,198.7
+1984,Kansas,334.2
+1984,Kentucky,277.8
+1984,Louisiana,678.0
+1984,Maine,158.5
+1984,Maryland,792.3
+1984,Massachusetts,523.7
+1984,Michigan,760.1
+1984,Minnesota,211.5
+1984,Mississippi,282.0
+1984,Missouri,460.7
+1984,Montana,237.6
+1984,Nebraska,225.8
+1984,Nevada,628.5
+1984,New Hampshire,133.9
+1984,New Jersey,527.7
+1984,New Mexico,688.1
+1984,New York,914.3
+1984,North Carolina,403.6
+1984,North Dakota,53.6
+1984,Ohio,385.3
+1984,Oklahoma,407.5
+1984,Oregon,506.1
+1984,Pennsylvania,320.6
+1984,Rhode Island,334.7
+1984,South Carolina,624.5
+1984,South Dakota,147.5
+1984,Tennessee,445.4
+1984,Texas,505.0
+1984,Utah,244.2
+1984,Vermont,145.1
+1984,Virginia,295.6
+1984,Washington,406.4
+1984,West Virginia,168.2
+1984,Wisconsin,196.5
+1984,Wyoming,242.1
+1985,Alabama,457.5
+1985,Alaska,581.8
+1985,Arizona,602.5
+1985,Arkansas,347.6
+1985,California,765.3
+1985,Colorado,471.0
+1985,Connecticut,402.0
+1985,Delaware,433.3
+1985,Florida,941.1
+1985,Georgia,507.2
+1985,Hawaii,219.4
+1985,Idaho,234.8
+1985,Illinois,714.8
+1985,Indiana,309.4
+1985,Iowa,211.7
+1985,Kansas,355.8
+1985,Kentucky,305.5
+1985,Louisiana,694.2
+1985,Maine,167.5
+1985,Maryland,834.6
+1985,Massachusetts,538.2
+1985,Michigan,734.1
+1985,Minnesota,256.4
+1985,Mississippi,270.9
+1985,Missouri,503.5
+1985,Montana,208.5
+1985,Nebraska,237.9
+1985,Nevada,667.1
+1985,New Hampshire,140.8
+1985,New Jersey,544.5
+1985,New Mexico,703.9
+1985,New York,929.9
+1985,North Carolina,420.9
+1985,North Dakota,47.0
+1985,Ohio,381.6
+1985,Oklahoma,422.0
+1985,Oregon,551.1
+1985,Pennsylvania,331.1
+1985,Rhode Island,346.6
+1985,South Carolina,631.0
+1985,South Dakota,136.6
+1985,Tennessee,474.4
+1985,Texas,550.0
+1985,Utah,267.4
+1985,Vermont,147.7
+1985,Virginia,294.7
+1985,Washington,425.4
+1985,West Virginia,166.0
+1985,Wisconsin,206.9
+1985,Wyoming,256.8
 1986,Maryland,833.0
 1987,Maryland,767.8
 1988,Maryland,806.8
@@ -985,785 +1785,3 @@ year,state,crime_rate
 2017,Missouri,531.2
 2018,Missouri,501.4
 2019,Missouri,495.0
-1986,Washington,437.0
-1987,Washington,439.5
-1988,Washington,466.4
-1989,Washington,471.7
-1990,Washington,501.6
-1991,Washington,522.6
-1992,Washington,534.5
-1993,Washington,514.6
-1994,Washington,511.3
-1995,Washington,484.3
-1996,Washington,431.2
-1997,Washington,440.7
-1998,Washington,428.5
-1999,Washington,377.3
-2000,Washington,369.7
-2001,Washington,354.7
-2002,Washington,345.5
-2003,Washington,346.9
-2004,Washington,343.6
-2005,Washington,345.6
-2006,Washington,348.7
-2007,Washington,336.5
-2008,Washington,334.2
-2009,Washington,336.3
-2010,Washington,313.5
-2011,Washington,295.3
-2012,Washington,298.1
-2013,Washington,290.0
-2014,Washington,285.8
-2015,Washington,286.4
-2016,Washington,303.5
-2017,Washington,302.8
-2018,Washington,315.3
-2019,Washington,293.9
-1986,Tennessee,539.6
-1987,Tennessee,533.5
-1988,Tennessee,532.7
-1989,Tennessee,548.9
-1990,Tennessee,670.4
-1991,Tennessee,725.9
-1992,Tennessee,746.2
-1993,Tennessee,765.8
-1994,Tennessee,747.9
-1995,Tennessee,771.5
-1996,Tennessee,774.0
-1997,Tennessee,789.7
-1998,Tennessee,715.0
-1999,Tennessee,695.0
-2000,Tennessee,707.2
-2001,Tennessee,744.0
-2002,Tennessee,717.8
-2003,Tennessee,691.3
-2004,Tennessee,697.6
-2005,Tennessee,757.3
-2006,Tennessee,762.5
-2007,Tennessee,755.0
-2008,Tennessee,722.7
-2009,Tennessee,666.0
-2010,Tennessee,612.0
-2011,Tennessee,607.8
-2012,Tennessee,638.5
-2013,Tennessee,585.8
-2014,Tennessee,610.7
-2015,Tennessee,618.9
-2016,Tennessee,638.5
-2017,Tennessee,655.0
-2018,Tennessee,630.4
-2019,Tennessee,595.2
-1986,Delaware,427.0
-1987,Delaware,430.7
-1988,Delaware,451.7
-1989,Delaware,556.5
-1990,Delaware,655.2
-1991,Delaware,714.3
-1992,Delaware,621.2
-1993,Delaware,685.9
-1994,Delaware,644.3
-1995,Delaware,725.0
-1996,Delaware,668.3
-1997,Delaware,785.9
-1998,Delaware,762.4
-1999,Delaware,734.4
-2000,Delaware,684.4
-2001,Delaware,611.1
-2002,Delaware,600.0
-2003,Delaware,675.3
-2004,Delaware,615.0
-2005,Delaware,633.4
-2006,Delaware,701.0
-2007,Delaware,705.4
-2008,Delaware,708.6
-2009,Delaware,645.4
-2010,Delaware,623.3
-2011,Delaware,566.4
-2012,Delaware,550.5
-2013,Delaware,500.7
-2014,Delaware,488.1
-2015,Delaware,504.2
-2016,Delaware,510.0
-2017,Delaware,457.3
-2018,Delaware,422.5
-2019,Delaware,422.6
-1986,Texas,658.9
-1987,Texas,631.1
-1988,Texas,652.6
-1989,Texas,658.5
-1990,Texas,761.4
-1991,Texas,840.1
-1992,Texas,806.3
-1993,Texas,762.1
-1994,Texas,706.5
-1995,Texas,663.9
-1996,Texas,644.4
-1997,Texas,602.5
-1998,Texas,564.6
-1999,Texas,560.3
-2000,Texas,545.1
-2001,Texas,571.6
-2002,Texas,579.7
-2003,Texas,553.1
-2004,Texas,540.9
-2005,Texas,528.1
-2006,Texas,517.3
-2007,Texas,510.4
-2008,Texas,508.0
-2009,Texas,491.0
-2010,Texas,448.4
-2011,Texas,408.6
-2012,Texas,408.6
-2013,Texas,410.3
-2014,Texas,406.7
-2015,Texas,412.7
-2016,Texas,433.8
-2017,Texas,437.8
-2018,Texas,412.9
-2019,Texas,418.9
-1986,Alabama,558.0
-1987,Alabama,559.2
-1988,Alabama,558.6
-1989,Alabama,590.8
-1990,Alabama,708.6
-1991,Alabama,844.2
-1992,Alabama,871.7
-1993,Alabama,780.4
-1994,Alabama,683.7
-1995,Alabama,632.4
-1996,Alabama,565.4
-1997,Alabama,564.5
-1998,Alabama,512.1
-1999,Alabama,490.2
-2000,Alabama,486.2
-2001,Alabama,438.2
-2002,Alabama,445.0
-2003,Alabama,429.2
-2004,Alabama,427.0
-2005,Alabama,432.6
-2006,Alabama,425.2
-2007,Alabama,448.9
-2008,Alabama,452.8
-2009,Alabama,450.1
-2010,Alabama,383.7
-2011,Alabama,419.8
-2012,Alabama,450.3
-2013,Alabama,431.0
-2014,Alabama,427.7
-2015,Alabama,473.0
-2016,Alabama,532.4
-2017,Alabama,522.4
-2018,Alabama,523.1
-2019,Alabama,510.8
-1986,Pennsylvania,358.6
-1987,Pennsylvania,369.4
-1988,Pennsylvania,362.0
-1989,Pennsylvania,378.6
-1990,Pennsylvania,431.0
-1991,Pennsylvania,450.0
-1992,Pennsylvania,427.0
-1993,Pennsylvania,417.5
-1994,Pennsylvania,426.7
-1995,Pennsylvania,427.3
-1996,Pennsylvania,480.3
-1997,Pennsylvania,442.1
-1998,Pennsylvania,420.5
-1999,Pennsylvania,420.5
-2000,Pennsylvania,420.0
-2001,Pennsylvania,409.9
-2002,Pennsylvania,402.1
-2003,Pennsylvania,397.8
-2004,Pennsylvania,411.5
-2005,Pennsylvania,425.3
-2006,Pennsylvania,442.3
-2007,Pennsylvania,416.7
-2008,Pennsylvania,410.0
-2009,Pennsylvania,382.3
-2010,Pennsylvania,366.5
-2011,Pennsylvania,362.4
-2012,Pennsylvania,355.5
-2013,Pennsylvania,335.1
-2014,Pennsylvania,315.0
-2015,Pennsylvania,315.4
-2016,Pennsylvania,315.9
-2017,Pennsylvania,313.0
-2018,Pennsylvania,305.4
-2019,Pennsylvania,306.4
-1986,Ohio,420.9
-1987,Ohio,421.3
-1988,Ohio,452.0
-1989,Ohio,468.6
-1990,Ohio,506.2
-1991,Ohio,561.8
-1992,Ohio,525.9
-1993,Ohio,504.1
-1994,Ohio,485.8
-1995,Ohio,482.5
-1996,Ohio,428.7
-1997,Ohio,435.4
-1998,Ohio,362.5
-1999,Ohio,316.4
-2000,Ohio,334.1
-2001,Ohio,351.4
-2002,Ohio,351.7
-2003,Ohio,333.9
-2004,Ohio,338.7
-2005,Ohio,350.1
-2006,Ohio,361.5
-2007,Ohio,355.4
-2008,Ohio,352.0
-2009,Ohio,331.9
-2010,Ohio,314.7
-2011,Ohio,305.2
-2012,Ohio,301.5
-2013,Ohio,291.4
-2014,Ohio,285.7
-2015,Ohio,296.2
-2016,Ohio,307.7
-2017,Ohio,296.8
-2018,Ohio,294.8
-2019,Ohio,293.2
-1986,Michigan,803.9
-1987,Michigan,780.1
-1988,Michigan,741.7
-1989,Michigan,709.2
-1990,Michigan,790.4
-1991,Michigan,803.1
-1992,Michigan,770.1
-1993,Michigan,791.5
-1994,Michigan,766.1
-1995,Michigan,687.8
-1996,Michigan,635.3
-1997,Michigan,590.0
-1998,Michigan,620.8
-1999,Michigan,574.9
-2000,Michigan,555.0
-2001,Michigan,553.9
-2002,Michigan,540.7
-2003,Michigan,511.3
-2004,Michigan,492.2
-2005,Michigan,553.8
-2006,Michigan,564.4
-2007,Michigan,533.8
-2008,Michigan,514.9
-2009,Michigan,499.8
-2010,Michigan,493.0
-2011,Michigan,442.8
-2012,Michigan,455.0
-2013,Michigan,452.2
-2014,Michigan,429.1
-2015,Michigan,420.6
-2016,Michigan,460.9
-2017,Michigan,449.9
-2018,Michigan,452.5
-2019,Michigan,437.4
-1986,South Carolina,674.6
-1987,South Carolina,664.9
-1988,South Carolina,741.2
-1989,South Carolina,813.7
-1990,South Carolina,976.6
-1991,South Carolina,972.5
-1992,South Carolina,944.5
-1993,South Carolina,1023.4
-1994,South Carolina,1030.5
-1995,South Carolina,981.9
-1996,South Carolina,996.9
-1997,South Carolina,990.3
-1998,South Carolina,903.2
-1999,South Carolina,847.2
-2000,South Carolina,828.1
-2001,South Carolina,815.2
-2002,South Carolina,822.7
-2003,South Carolina,806.4
-2004,South Carolina,789.9
-2005,South Carolina,767.4
-2006,South Carolina,771.1
-2007,South Carolina,785.7
-2008,South Carolina,731.0
-2009,South Carolina,675.2
-2010,South Carolina,602.2
-2011,South Carolina,596.9
-2012,South Carolina,560.5
-2013,South Carolina,508.5
-2014,South Carolina,497.8
-2015,South Carolina,499.5
-2016,South Carolina,506.8
-2017,South Carolina,506.1
-2018,South Carolina,500.8
-2019,South Carolina,511.3
-1986,South Dakota,124.7
-1987,South Dakota,119.7
-1988,South Dakota,113.7
-1989,South Dakota,135.5
-1990,South Dakota,162.8
-1991,South Dakota,182.2
-1992,South Dakota,194.5
-1993,South Dakota,208.4
-1994,South Dakota,227.6
-1995,South Dakota,207.5
-1996,South Dakota,177.2
-1997,South Dakota,197.4
-1998,South Dakota,154.3
-1999,South Dakota,167.4
-2000,South Dakota,166.8
-2001,South Dakota,154.4
-2002,South Dakota,177.5
-2003,South Dakota,173.7
-2004,South Dakota,171.2
-2005,South Dakota,179.0
-2006,South Dakota,264.9
-2007,South Dakota,241.9
-2008,South Dakota,276.9
-2009,South Dakota,218.7
-2010,South Dakota,268.9
-2011,South Dakota,255.6
-2012,South Dakota,323.8
-2013,South Dakota,323.2
-2014,South Dakota,328.3
-2015,South Dakota,384.9
-2016,South Dakota,422.0
-2017,South Dakota,429.8
-2018,South Dakota,396.4
-2019,South Dakota,399.0
-1986,Louisiana,758.2
-1987,Louisiana,693.0
-1988,Louisiana,717.4
-1989,Louisiana,781.8
-1990,Louisiana,898.4
-1991,Louisiana,951.0
-1992,Louisiana,984.6
-1993,Louisiana,1061.7
-1994,Louisiana,981.9
-1995,Louisiana,1007.4
-1996,Louisiana,929.1
-1997,Louisiana,855.9
-1998,Louisiana,779.5
-1999,Louisiana,732.7
-2000,Louisiana,681.1
-2001,Louisiana,686.3
-2002,Louisiana,663.3
-2003,Louisiana,636.9
-2004,Louisiana,640.0
-2005,Louisiana,596.6
-2006,Louisiana,721.2
-2007,Louisiana,740.4
-2008,Louisiana,671.4
-2009,Louisiana,642.9
-2010,Louisiana,555.3
-2011,Louisiana,554.6
-2012,Louisiana,496.3
-2013,Louisiana,521.2
-2014,Louisiana,515.9
-2015,Louisiana,539.8
-2016,Louisiana,565.0
-2017,Louisiana,556.3
-2018,Louisiana,543.3
-2019,Louisiana,549.3
-1986,Virginia,306.0
-1987,Virginia,295.0
-1988,Virginia,299.2
-1989,Virginia,312.5
-1990,Virginia,350.6
-1991,Virginia,373.2
-1992,Virginia,374.9
-1993,Virginia,372.2
-1994,Virginia,357.7
-1995,Virginia,361.5
-1996,Virginia,341.3
-1997,Virginia,345.2
-1998,Virginia,325.7
-1999,Virginia,314.7
-2000,Virginia,281.7
-2001,Virginia,291.0
-2002,Virginia,291.7
-2003,Virginia,278.2
-2004,Virginia,275.5
-2005,Virginia,283.4
-2006,Virginia,283.7
-2007,Virginia,272.8
-2008,Virginia,257.8
-2009,Virginia,230.8
-2010,Virginia,214.2
-2011,Virginia,197.6
-2012,Virginia,191.5
-2013,Virginia,197.8
-2014,Virginia,198.4
-2015,Virginia,199.6
-2016,Virginia,219.8
-2017,Virginia,210.4
-2018,Virginia,204.2
-2019,Virginia,208.0
-1986,Arizona,658.3
-1987,Arizona,612.6
-1988,Arizona,610.1
-1989,Arizona,599.6
-1990,Arizona,652.4
-1991,Arizona,670.7
-1992,Arizona,670.8
-1993,Arizona,715.0
-1994,Arizona,703.1
-1995,Arizona,713.5
-1996,Arizona,631.5
-1997,Arizona,623.7
-1998,Arizona,577.9
-1999,Arizona,551.1
-2000,Arizona,531.7
-2001,Arizona,540.3
-2002,Arizona,554.5
-2003,Arizona,513.3
-2004,Arizona,504.4
-2005,Arizona,512.0
-2006,Arizona,542.6
-2007,Arizona,518.0
-2008,Arizona,485.6
-2009,Arizona,426.5
-2010,Arizona,413.6
-2011,Arizona,414.2
-2012,Arizona,428.6
-2013,Arizona,415.6
-2014,Arizona,392.7
-2015,Arizona,410.2
-2016,Arizona,471.0
-2017,Arizona,505.7
-2018,Arizona,475.7
-2019,Arizona,455.3
-1986,Montana,157.4
-1987,Montana,151.2
-1988,Montana,123.0
-1989,Montana,116.0
-1990,Montana,159.3
-1991,Montana,139.9
-1992,Montana,169.9
-1993,Montana,177.5
-1994,Montana,177.1
-1995,Montana,171.4
-1996,Montana,161.0
-1997,Montana,132.1
-1998,Montana,204.2
-1999,Montana,236.8
-2000,Montana,311.1
-2001,Montana,352.0
-2002,Montana,351.2
-2003,Montana,365.0
-2004,Montana,293.8
-2005,Montana,281.8
-2006,Montana,377.3
-2007,Montana,379.8
-2008,Montana,311.4
-2009,Montana,287.0
-2010,Montana,275.8
-2011,Montana,276.1
-2012,Montana,278.8
-2013,Montana,288.1
-2014,Montana,328.5
-2015,Montana,353.4
-2016,Montana,374.1
-2017,Montana,373.9
-2018,Montana,380.9
-2019,Montana,404.9
-1986,Alaska,570.4
-1987,Alaska,455.4
-1988,Alaska,522.8
-1989,Alaska,497.7
-1990,Alaska,524.5
-1991,Alaska,613.9
-1992,Alaska,660.5
-1993,Alaska,760.8
-1994,Alaska,766.3
-1995,Alaska,770.9
-1996,Alaska,727.7
-1997,Alaska,701.1
-1998,Alaska,653.9
-1999,Alaska,630.8
-2000,Alaska,566.9
-2001,Alaska,589.5
-2002,Alaska,565.4
-2003,Alaska,598.0
-2004,Alaska,632.3
-2005,Alaska,632.3
-2006,Alaska,688.0
-2007,Alaska,661.3
-2008,Alaska,652.1
-2009,Alaska,633.4
-2010,Alaska,635.3
-2011,Alaska,610.1
-2012,Alaska,604.1
-2013,Alaska,638.7
-2014,Alaska,635.5
-2015,Alaska,730.8
-2016,Alaska,804.6
-2017,Alaska,856.7
-2018,Alaska,891.7
-2019,Alaska,867.1
-1986,New Jersey,572.5
-1987,New Jersey,541.0
-1988,New Jersey,582.8
-1989,New Jersey,609.0
-1990,New Jersey,647.6
-1991,New Jersey,634.8
-1992,New Jersey,625.8
-1993,New Jersey,626.9
-1994,New Jersey,614.2
-1995,New Jersey,599.8
-1996,New Jersey,531.5
-1997,New Jersey,492.6
-1998,New Jersey,440.2
-1999,New Jersey,411.9
-2000,New Jersey,383.8
-2001,New Jersey,388.8
-2002,New Jersey,376.1
-2003,New Jersey,364.3
-2004,New Jersey,356.3
-2005,New Jersey,355.3
-2006,New Jersey,350.2
-2007,New Jersey,328.6
-2008,New Jersey,326.5
-2009,New Jersey,311.4
-2010,New Jersey,307.5
-2011,New Jersey,307.9
-2012,New Jersey,290.1
-2013,New Jersey,288.9
-2014,New Jersey,260.9
-2015,New Jersey,256.0
-2016,New Jersey,243.5
-2017,New Jersey,231.8
-2018,New Jersey,208.6
-2019,New Jersey,206.9
-1986,Utah,266.7
-1987,Utah,229.8
-1988,Utah,243.1
-1989,Utah,258.8
-1990,Utah,283.9
-1991,Utah,286.8
-1992,Utah,290.5
-1993,Utah,301.0
-1994,Utah,304.5
-1995,Utah,328.8
-1996,Utah,331.9
-1997,Utah,334.0
-1998,Utah,314.2
-1999,Utah,275.6
-2000,Utah,255.7
-2001,Utah,233.2
-2002,Utah,236.7
-2003,Utah,250.4
-2004,Utah,233.3
-2005,Utah,225.4
-2006,Utah,226.3
-2007,Utah,239.9
-2008,Utah,225.3
-2009,Utah,215.4
-2010,Utah,213.5
-2011,Utah,197.1
-2012,Utah,208.0
-2013,Utah,228.9
-2014,Utah,219.5
-2015,Utah,238.7
-2016,Utah,243.3
-2017,Utah,242.2
-2018,Utah,239.4
-2019,Utah,235.6
-1986,Georgia,587.6
-1987,Georgia,576.5
-1988,Georgia,665.3
-1989,Georgia,735.8
-1990,Georgia,756.3
-1991,Georgia,738.2
-1992,Georgia,733.2
-1993,Georgia,723.1
-1994,Georgia,667.7
-1995,Georgia,657.1
-1996,Georgia,638.7
-1997,Georgia,606.6
-1998,Georgia,572.7
-1999,Georgia,533.9
-2000,Georgia,504.7
-2001,Georgia,495.7
-2002,Georgia,459.6
-2003,Georgia,454.5
-2004,Georgia,451.0
-2005,Georgia,445.9
-2006,Georgia,477.9
-2007,Georgia,491.5
-2008,Georgia,488.9
-2009,Georgia,428.0
-2010,Georgia,402.3
-2011,Georgia,374.6
-2012,Georgia,380.0
-2013,Georgia,375.4
-2014,Georgia,385.8
-2015,Georgia,381.3
-2016,Georgia,390.4
-2017,Georgia,356.5
-2018,Georgia,338.9
-2019,Georgia,340.7
-1986,Kentucky,334.4
-1987,Kentucky,337.8
-1988,Kentucky,330.1
-1989,Kentucky,356.9
-1990,Kentucky,390.4
-1991,Kentucky,438.0
-1992,Kentucky,535.5
-1993,Kentucky,462.7
-1994,Kentucky,444.0
-1995,Kentucky,364.7
-1996,Kentucky,320.5
-1997,Kentucky,316.9
-1998,Kentucky,328.0
-1999,Kentucky,308.3
-2000,Kentucky,294.5
-2001,Kentucky,258.3
-2002,Kentucky,271.4
-2003,Kentucky,248.5
-2004,Kentucky,245.1
-2005,Kentucky,266.8
-2006,Kentucky,270.1
-2007,Kentucky,290.7
-2008,Kentucky,297.2
-2009,Kentucky,255.0
-2010,Kentucky,243.9
-2011,Kentucky,239.6
-2012,Kentucky,224.9
-2013,Kentucky,210.9
-2014,Kentucky,215.2
-2015,Kentucky,223.5
-2016,Kentucky,235.6
-2017,Kentucky,231.1
-2018,Kentucky,217.9
-2019,Kentucky,217.1
-1986,District of Columbia,1505.3
-1987,District of Columbia,1610.3
-1988,District of Columbia,1921.6
-1989,District of Columbia,2141.9
-1990,District of Columbia,2458.2
-1991,District of Columbia,2453.3
-1992,District of Columbia,2832.8
-1993,District of Columbia,2921.8
-1994,District of Columbia,2662.6
-1995,District of Columbia,2661.4
-1996,District of Columbia,2469.8
-1997,District of Columbia,2024.2
-1998,District of Columbia,1718.5
-1999,District of Columbia,1627.7
-2000,District of Columbia,1507.9
-2001,District of Columbia,1602.4
-2002,District of Columbia,1637.9
-2003,District of Columbia,1624.9
-2004,District of Columbia,1369.4
-2005,District of Columbia,1380.0
-2006,District of Columbia,1508.4
-2007,District of Columbia,1415.1
-2008,District of Columbia,1437.7
-2009,District of Columbia,1348.9
-2010,District of Columbia,1326.8
-2011,District of Columbia,1200.8
-2012,District of Columbia,1241.8
-2013,District of Columbia,1296.4
-2014,District of Columbia,1242.6
-2015,District of Columbia,1273.6
-2016,District of Columbia,1203.5
-2017,District of Columbia,1002.7
-2018,District of Columbia,997.1
-2019,District of Columbia,1049.0
-1986,North Carolina,475.9
-1987,North Carolina,484.0
-1988,North Carolina,501.9
-1989,North Carolina,546.4
-1990,North Carolina,623.5
-1991,North Carolina,658.4
-1992,North Carolina,681.0
-1993,North Carolina,679.3
-1994,North Carolina,655.0
-1995,North Carolina,646.4
-1996,North Carolina,588.1
-1997,North Carolina,607.0
-1998,North Carolina,579.4
-1999,North Carolina,542.1
-2000,North Carolina,497.6
-2001,North Carolina,493.1
-2002,North Carolina,471.0
-2003,North Carolina,454.1
-2004,North Carolina,447.8
-2005,North Carolina,468.7
-2006,North Carolina,475.2
-2007,North Carolina,466.1
-2008,North Carolina,467.6
-2009,North Carolina,404.5
-2010,North Carolina,362.7
-2011,North Carolina,346.3
-2012,North Carolina,353.5
-2013,North Carolina,341.0
-2014,North Carolina,329.1
-2015,North Carolina,346.1
-2016,North Carolina,371.8
-2017,North Carolina,370.4
-2018,North Carolina,356.2
-2019,North Carolina,371.8
-1986,National,620.1
-1987,National,612.5
-1988,National,640.6
-1989,National,666.9
-1990,National,729.6
-1991,National,758.2
-1992,National,757.7
-1993,National,747.1
-1994,National,713.6
-1995,National,684.5
-1996,National,636.6
-1997,National,611.0
-1998,National,567.6
-1999,National,523.0
-2000,National,506.5
-2001,National,504.5
-2002,National,494.4
-2003,National,475.8
-2004,National,463.2
-2005,National,469.0
-2006,National,479.3
-2007,National,471.8
-2008,National,458.6
-2009,National,431.9
-2010,National,404.5
-2011,National,387.1
-2012,National,387.8
-2013,National,369.1
-2014,National,361.6
-2015,National,373.7
-2016,National,397.5
-2017,National,394.9
-2018,National,383.4
-2019,National,379.4
-1986,West Virginia,164.5
-1987,West Virginia,137.3
-1988,West Virginia,131.4
-1989,West Virginia,146.7
-1990,West Virginia,169.3
-1991,West Virginia,191.0
-1992,West Virginia,211.5
-1993,West Virginia,208.4
-1994,West Virginia,215.8
-1995,West Virginia,210.2
-1996,West Virginia,210.1
-1997,West Virginia,218.7
-1998,West Virginia,248.6
-1999,West Virginia,350.7
-2000,West Virginia,316.5
-2001,West Virginia,279.6
-2002,West Virginia,233.9
-2003,West Virginia,255.4
-2004,West Virginia,281.9
-2005,West Virginia,273.9
-2006,West Virginia,281.2
-2007,West Virginia,276.8
-2008,West Virginia,275.9
-2009,West Virginia,305.2
-2010,West Virginia,301.2
-2011,West Virginia,296.3
-2012,West Virginia,320.1
-2013,West Virginia,305.2
-2014,West Virginia,316.4
-2015,West Virginia,347.5
-2016,West Virginia,362.7
-2017,West Virginia,361.2
-2018,West Virginia,299.9
-2019,West Virginia,316.6
