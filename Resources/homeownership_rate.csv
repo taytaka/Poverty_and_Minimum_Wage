@@ -1,1933 +1,1925 @@
 homeownership_rate,state,year
-7.79,National,1976
-7.13,National,1977
-6.13,National,1978
-5.92,National,1979
-7.26,National,1980
-7.74,National,1981
-9.86,National,1982
-9.78,National,1983
-7.64,National,1984
-7.30,National,1985
-7.10,National,1986
-6.30,National,1987
-5.59,National,1988
-5.34,National,1989
-5.67,National,1990
-6.93,National,1991
-7.61,National,1992
-7.03,National,1993
-6.17,National,1994
-5.64,National,1995
-5.46,National,1996
-5.00,National,1997
-4.55,National,1998
-4.25,National,1999
-4.02,National,2000
-4.79,National,2001
-5.85,National,2002
-6.06,National,2003
-5.60,National,2004
-5.14,National,2005
-4.69,National,2006
-4.68,National,2007
-5.85,National,2008
-9.38,National,2009
-9.77,National,2010
-9.07,National,2011
-8.17,National,2012
-7.49,National,2013
-6.26,National,2014
-5.37,National,2015
-4.93,National,2016
-4.40,National,2017
-3.94,National,2018
-3.72,National,2019
-8.13,National,2020
-69.50,Missouri,1984
-69.20,Missouri,1985
-67.80,Missouri,1986
-66.10,Missouri,1987
-64.80,Missouri,1988
-63.70,Missouri,1989
-64.00,Missouri,1990
-64.20,Missouri,1991
-65.20,Missouri,1992
-66.40,Missouri,1993
-68.40,Missouri,1994
-69.40,Missouri,1995
-70.20,Missouri,1996
-70.50,Missouri,1997
-70.70,Missouri,1998
-72.90,Missouri,1999
-74.20,Missouri,2000
-74.00,Missouri,2001
-74.80,Missouri,2002
-74.00,Missouri,2003
-72.40,Missouri,2004
-72.30,Missouri,2005
-71.90,Missouri,2006
-70.40,Missouri,2007
-71.40,Missouri,2008
-72.00,Missouri,2009
-71.20,Missouri,2010
-71.10,Missouri,2011
-70.80,Missouri,2012
-71.30,Missouri,2013
-70.50,Missouri,2014
-68.50,Missouri,2015
-66.70,Missouri,2016
-67.60,Missouri,2017
-69.70,Missouri,2018
-69.10,Missouri,2019
-71.10,Missouri,2020
-66.90,Vermont,1984
-69.50,Vermont,1985
-69.80,Vermont,1986
-70.50,Vermont,1987
-68.70,Vermont,1988
-69.70,Vermont,1989
-72.60,Vermont,1990
-70.80,Vermont,1991
-70.80,Vermont,1992
-68.50,Vermont,1993
-69.40,Vermont,1994
-70.40,Vermont,1995
-70.30,Vermont,1996
-69.10,Vermont,1997
-69.10,Vermont,1998
-69.10,Vermont,1999
-68.70,Vermont,2000
-69.80,Vermont,2001
-70.30,Vermont,2002
-71.40,Vermont,2003
-72.00,Vermont,2004
-74.20,Vermont,2005
-74.00,Vermont,2006
-73.70,Vermont,2007
-72.80,Vermont,2008
-74.30,Vermont,2009
-73.60,Vermont,2010
-74.60,Vermont,2011
-73.40,Vermont,2012
-73.00,Vermont,2013
-73.50,Vermont,2014
-71.80,Vermont,2015
-71.30,Vermont,2016
-71.10,Vermont,2017
-71.40,Vermont,2018
-70.90,Vermont,2019
-73.10,Vermont,2020
-67.80,Connecticut,1984
-69.00,Connecticut,1985
-68.10,Connecticut,1986
-67.00,Connecticut,1987
-66.50,Connecticut,1988
-66.40,Connecticut,1989
-67.90,Connecticut,1990
-65.50,Connecticut,1991
-66.10,Connecticut,1992
-64.50,Connecticut,1993
-63.80,Connecticut,1994
-68.20,Connecticut,1995
-69.00,Connecticut,1996
-68.10,Connecticut,1997
-69.30,Connecticut,1998
-69.10,Connecticut,1999
-70.00,Connecticut,2000
-71.80,Connecticut,2001
-71.50,Connecticut,2002
-73.00,Connecticut,2003
-71.70,Connecticut,2004
-70.50,Connecticut,2005
-71.10,Connecticut,2006
-70.30,Connecticut,2007
-70.70,Connecticut,2008
-70.50,Connecticut,2009
-70.80,Connecticut,2010
-70.60,Connecticut,2011
-68.80,Connecticut,2012
-68.50,Connecticut,2013
-67.40,Connecticut,2014
-66.50,Connecticut,2015
-64.20,Connecticut,2016
-66.10,Connecticut,2017
-65.30,Connecticut,2018
-64.30,Connecticut,2019
-66.90,Connecticut,2020
-65.70,Washington,1984
-66.80,Washington,1985
-65.10,Washington,1986
-64.40,Washington,1987
-64.20,Washington,1988
-64.20,Washington,1989
-61.80,Washington,1990
-61.80,Washington,1991
-62.50,Washington,1992
-63.10,Washington,1993
-62.40,Washington,1994
-61.60,Washington,1995
-63.10,Washington,1996
-62.90,Washington,1997
-64.90,Washington,1998
-64.80,Washington,1999
-63.60,Washington,2000
-66.40,Washington,2001
-66.90,Washington,2002
-65.90,Washington,2003
-66.00,Washington,2004
-67.60,Washington,2005
-66.70,Washington,2006
-66.80,Washington,2007
-66.20,Washington,2008
-65.50,Washington,2009
-64.40,Washington,2010
-64.20,Washington,2011
-63.50,Washington,2012
-62.70,Washington,2013
-63.60,Washington,2014
-62.60,Washington,2015
-61.60,Washington,2016
-63.60,Washington,2017
-64.90,Washington,2018
-63.80,Washington,2019
-64.10,Washington,2020
-53.70,California,1984
-54.20,California,1985
-53.80,California,1986
-54.30,California,1987
-54.40,California,1988
-53.60,California,1989
-53.80,California,1990
-54.50,California,1991
-55.30,California,1992
-56.00,California,1993
-55.50,California,1994
-55.40,California,1995
-55.00,California,1996
-55.70,California,1997
-56.00,California,1998
-55.70,California,1999
-57.10,California,2000
-58.20,California,2001
-57.70,California,2002
-58.90,California,2003
-59.70,California,2004
-59.70,California,2005
-60.20,California,2006
-58.30,California,2007
-57.50,California,2008
-57.00,California,2009
-56.10,California,2010
-55.30,California,2011
-54.50,California,2012
-54.30,California,2013
-54.20,California,2014
-54.30,California,2015
-53.80,California,2016
-54.40,California,2017
-55.10,California,2018
-54.80,California,2019
-55.90,California,2020
-72.60,Minnesota,1984
-70.00,Minnesota,1985
-68.00,Minnesota,1986
-68.90,Minnesota,1987
-69.10,Minnesota,1988
-68.30,Minnesota,1989
-68.00,Minnesota,1990
-68.90,Minnesota,1991
-66.70,Minnesota,1992
-65.80,Minnesota,1993
-68.90,Minnesota,1994
-73.30,Minnesota,1995
-75.40,Minnesota,1996
-75.40,Minnesota,1997
-75.40,Minnesota,1998
-76.10,Minnesota,1999
-76.10,Minnesota,2000
-76.10,Minnesota,2001
-77.30,Minnesota,2002
-77.20,Minnesota,2003
-76.40,Minnesota,2004
-76.50,Minnesota,2005
-75.60,Minnesota,2006
-73.50,Minnesota,2007
-73.10,Minnesota,2008
-72.90,Minnesota,2009
-72.60,Minnesota,2010
-71.30,Minnesota,2011
-72.00,Minnesota,2012
-73.40,Minnesota,2013
-71.40,Minnesota,2014
-70.10,Minnesota,2015
-72.40,Minnesota,2016
-72.70,Minnesota,2017
-69.80,Minnesota,2018
-71.40,Minnesota,2019
-74.50,Minnesota,2020
-70.10,North Dakota,1984
-69.90,North Dakota,1985
-69.20,North Dakota,1986
-68.90,North Dakota,1987
-67.70,North Dakota,1988
-67.10,North Dakota,1989
-67.20,North Dakota,1990
-65.40,North Dakota,1991
-63.70,North Dakota,1992
-62.70,North Dakota,1993
-63.30,North Dakota,1994
-67.30,North Dakota,1995
-68.20,North Dakota,1996
-68.10,North Dakota,1997
-68.00,North Dakota,1998
-70.10,North Dakota,1999
-70.70,North Dakota,2000
-71.00,North Dakota,2001
-69.40,North Dakota,2002
-68.70,North Dakota,2003
-70.00,North Dakota,2004
-68.50,North Dakota,2005
-68.30,North Dakota,2006
-66.00,North Dakota,2007
-66.60,North Dakota,2008
-65.70,North Dakota,2009
-67.10,North Dakota,2010
-68.30,North Dakota,2011
-66.20,North Dakota,2012
-68.00,North Dakota,2013
-64.50,North Dakota,2014
-61.80,North Dakota,2015
-61.40,North Dakota,2016
-62.60,North Dakota,2017
-61.90,North Dakota,2018
-61.40,North Dakota,2019
-64.20,North Dakota,2020
-72.70,Michigan,1984
-70.70,Michigan,1985
-70.90,Michigan,1986
-71.70,Michigan,1987
-72.50,Michigan,1988
-73.20,Michigan,1989
-72.30,Michigan,1990
-70.60,Michigan,1991
-70.60,Michigan,1992
-72.30,Michigan,1993
-72.00,Michigan,1994
-72.20,Michigan,1995
-73.30,Michigan,1996
-73.30,Michigan,1997
-74.40,Michigan,1998
-76.50,Michigan,1999
-77.20,Michigan,2000
-77.10,Michigan,2001
-76.00,Michigan,2002
-75.60,Michigan,2003
-77.10,Michigan,2004
-76.40,Michigan,2005
-77.40,Michigan,2006
-76.40,Michigan,2007
-75.90,Michigan,2008
-74.50,Michigan,2009
-74.50,Michigan,2010
-74.10,Michigan,2011
-74.80,Michigan,2012
-73.90,Michigan,2013
-73.80,Michigan,2014
-74.60,Michigan,2015
-72.80,Michigan,2016
-72.90,Michigan,2017
-73.00,Michigan,2018
-73.00,Michigan,2019
-74.30,Michigan,2020
-62.50,Texas,1984
-60.50,Texas,1985
-61.00,Texas,1986
-61.10,Texas,1987
-59.90,Texas,1988
-61.00,Texas,1989
-59.70,Texas,1990
-59.00,Texas,1991
-58.30,Texas,1992
-58.70,Texas,1993
-59.70,Texas,1994
-61.40,Texas,1995
-61.80,Texas,1996
-61.50,Texas,1997
-62.50,Texas,1998
-62.90,Texas,1999
-63.80,Texas,2000
-63.90,Texas,2001
-63.40,Texas,2002
-64.50,Texas,2003
-65.50,Texas,2004
-65.90,Texas,2005
-66.00,Texas,2006
-66.00,Texas,2007
-65.50,Texas,2008
-65.40,Texas,2009
-65.30,Texas,2010
-64.30,Texas,2011
-64.30,Texas,2012
-63.30,Texas,2013
-62.20,Texas,2014
-61.90,Texas,2015
-61.50,Texas,2016
-61.70,Texas,2017
-62.70,Texas,2018
-62.40,Texas,2019
-66.50,Texas,2020
-70.40,Delaware,1984
-70.30,Delaware,1985
-71.00,Delaware,1986
-71.10,Delaware,1987
-70.10,Delaware,1988
-68.70,Delaware,1989
-67.70,Delaware,1990
-70.20,Delaware,1991
-73.80,Delaware,1992
-74.10,Delaware,1993
-70.50,Delaware,1994
-71.70,Delaware,1995
-71.50,Delaware,1996
-69.20,Delaware,1997
-71.00,Delaware,1998
-71.60,Delaware,1999
-72.00,Delaware,2000
-75.40,Delaware,2001
-75.60,Delaware,2002
-77.20,Delaware,2003
-77.30,Delaware,2004
-75.80,Delaware,2005
-76.80,Delaware,2006
-76.80,Delaware,2007
-76.20,Delaware,2008
-76.50,Delaware,2009
-74.70,Delaware,2010
-74.20,Delaware,2011
-73.40,Delaware,2012
-74.10,Delaware,2013
-74.30,Delaware,2014
-73.30,Delaware,2015
-73.00,Delaware,2016
-70.00,Delaware,2017
-70.80,Delaware,2018
-73.10,Delaware,2019
-77.90,Delaware,2020
-67.70,Ohio,1984
-67.90,Ohio,1985
-68.20,Ohio,1986
-68.60,Ohio,1987
-69.60,Ohio,1988
-69.60,Ohio,1989
-68.70,Ohio,1990
-68.70,Ohio,1991
-69.10,Ohio,1992
-68.50,Ohio,1993
-67.40,Ohio,1994
-67.90,Ohio,1995
-69.20,Ohio,1996
-69.00,Ohio,1997
-70.70,Ohio,1998
-70.70,Ohio,1999
-71.30,Ohio,2000
-71.20,Ohio,2001
-72.10,Ohio,2002
-72.80,Ohio,2003
-73.10,Ohio,2004
-73.30,Ohio,2005
-72.10,Ohio,2006
-71.40,Ohio,2007
-70.80,Ohio,2008
-69.70,Ohio,2009
-69.70,Ohio,2010
-68.90,Ohio,2011
-67.90,Ohio,2012
-67.90,Ohio,2013
-67.30,Ohio,2014
-66.40,Ohio,2015
-66.10,Ohio,2016
-66.00,Ohio,2017
-67.30,Ohio,2018
-68.20,Ohio,2019
-69.40,Ohio,2020
-71.10,Pennsylvania,1984
-71.60,Pennsylvania,1985
-72.30,Pennsylvania,1986
-71.80,Pennsylvania,1987
-72.10,Pennsylvania,1988
-72.80,Pennsylvania,1989
-73.80,Pennsylvania,1990
-74.00,Pennsylvania,1991
-73.10,Pennsylvania,1992
-72.00,Pennsylvania,1993
-71.80,Pennsylvania,1994
-71.50,Pennsylvania,1995
-71.70,Pennsylvania,1996
-73.30,Pennsylvania,1997
-73.90,Pennsylvania,1998
-75.20,Pennsylvania,1999
-74.70,Pennsylvania,2000
-74.30,Pennsylvania,2001
-74.00,Pennsylvania,2002
-73.70,Pennsylvania,2003
-74.90,Pennsylvania,2004
-73.30,Pennsylvania,2005
-73.20,Pennsylvania,2006
-72.90,Pennsylvania,2007
-72.60,Pennsylvania,2008
-72.20,Pennsylvania,2009
-72.20,Pennsylvania,2010
-71.10,Pennsylvania,2011
-71.00,Pennsylvania,2012
-71.50,Pennsylvania,2013
-69.70,Pennsylvania,2014
-69.60,Pennsylvania,2015
-68.50,Pennsylvania,2016
-68.60,Pennsylvania,2017
-69.90,Pennsylvania,2018
-69.20,Pennsylvania,2019
-69.90,Pennsylvania,2020
-73.70,Alabama,1984
-70.40,Alabama,1985
-70.30,Alabama,1986
-67.90,Alabama,1987
-66.50,Alabama,1988
-67.60,Alabama,1989
-68.40,Alabama,1990
-69.90,Alabama,1991
-70.30,Alabama,1992
-70.20,Alabama,1993
-68.50,Alabama,1994
-70.10,Alabama,1995
-71.00,Alabama,1996
-71.30,Alabama,1997
-72.90,Alabama,1998
-74.80,Alabama,1999
-73.20,Alabama,2000
-73.20,Alabama,2001
-73.70,Alabama,2002
-76.20,Alabama,2003
-78.00,Alabama,2004
-76.60,Alabama,2005
-74.20,Alabama,2006
-73.30,Alabama,2007
-73.00,Alabama,2008
-74.10,Alabama,2009
-73.20,Alabama,2010
-72.90,Alabama,2011
-71.90,Alabama,2012
-72.70,Alabama,2013
-72.10,Alabama,2014
-70.00,Alabama,2015
-69.70,Alabama,2016
-70.00,Alabama,2017
-70.30,Alabama,2018
-70.70,Alabama,2019
-74.80,Alabama,2020
-68.30,Virginia,1984
-68.50,Virginia,1985
-68.20,Virginia,1986
-69.00,Virginia,1987
-69.80,Virginia,1988
-70.20,Virginia,1989
-69.80,Virginia,1990
-68.90,Virginia,1991
-67.80,Virginia,1992
-68.50,Virginia,1993
-69.30,Virginia,1994
-68.10,Virginia,1995
-68.50,Virginia,1996
-68.40,Virginia,1997
-69.40,Virginia,1998
-71.20,Virginia,1999
-73.90,Virginia,2000
-75.10,Virginia,2001
-74.40,Virginia,2002
-75.00,Virginia,2003
-73.40,Virginia,2004
-71.20,Virginia,2005
-71.10,Virginia,2006
-71.50,Virginia,2007
-70.60,Virginia,2008
-69.70,Virginia,2009
-68.70,Virginia,2010
-67.90,Virginia,2011
-67.80,Virginia,2012
-68.10,Virginia,2013
-68.70,Virginia,2014
-67.10,Virginia,2015
-66.30,Virginia,2016
-67.50,Virginia,2017
-66.00,Virginia,2018
-67.60,Virginia,2019
-70.40,Virginia,2020
-70.10,Louisiana,1984
-70.20,Louisiana,1985
-70.40,Louisiana,1986
-71.00,Louisiana,1987
-68.50,Louisiana,1988
-66.30,Louisiana,1989
-67.80,Louisiana,1990
-68.90,Louisiana,1991
-66.70,Louisiana,1992
-65.40,Louisiana,1993
-65.80,Louisiana,1994
-65.30,Louisiana,1995
-64.90,Louisiana,1996
-66.40,Louisiana,1997
-66.60,Louisiana,1998
-66.80,Louisiana,1999
-68.10,Louisiana,2000
-67.10,Louisiana,2001
-67.40,Louisiana,2002
-67.50,Louisiana,2003
-70.60,Louisiana,2004
-72.50,Louisiana,2005
-71.30,Louisiana,2006
-71.50,Louisiana,2007
-73.50,Louisiana,2008
-71.90,Louisiana,2009
-70.40,Louisiana,2010
-70.10,Louisiana,2011
-68.70,Louisiana,2012
-67.80,Louisiana,2013
-65.30,Louisiana,2014
-63.30,Louisiana,2015
-64.20,Louisiana,2016
-66.10,Louisiana,2017
-65.70,Louisiana,2018
-65.60,Louisiana,2019
-69.10,Louisiana,2020
-67.60,Tennessee,1984
-67.60,Tennessee,1985
-67.40,Tennessee,1986
-67.20,Tennessee,1987
-66.90,Tennessee,1988
-67.30,Tennessee,1989
-68.30,Tennessee,1990
-68.00,Tennessee,1991
-67.40,Tennessee,1992
-64.10,Tennessee,1993
-65.20,Tennessee,1994
-67.00,Tennessee,1995
-68.80,Tennessee,1996
-70.20,Tennessee,1997
-71.30,Tennessee,1998
-71.90,Tennessee,1999
-70.90,Tennessee,2000
-69.70,Tennessee,2001
-70.30,Tennessee,2002
-70.80,Tennessee,2003
-71.60,Tennessee,2004
-72.40,Tennessee,2005
-71.30,Tennessee,2006
-70.20,Tennessee,2007
-71.70,Tennessee,2008
-71.10,Tennessee,2009
-71.00,Tennessee,2010
-69.30,Tennessee,2011
-67.90,Tennessee,2012
-66.80,Tennessee,2013
-66.70,Tennessee,2014
-66.50,Tennessee,2015
-66.40,Tennessee,2016
-67.20,Tennessee,2017
-68.00,Tennessee,2018
-68.80,Tennessee,2019
-70.00,Tennessee,2020
-66.40,Montana,1984
-66.50,Montana,1985
-64.40,Montana,1986
-65.00,Montana,1987
-65.40,Montana,1988
-67.90,Montana,1989
-69.10,Montana,1990
-69.60,Montana,1991
-69.90,Montana,1992
-69.70,Montana,1993
-68.80,Montana,1994
-68.70,Montana,1995
-68.60,Montana,1996
-67.50,Montana,1997
-68.60,Montana,1998
-70.60,Montana,1999
-70.20,Montana,2000
-68.30,Montana,2001
-69.40,Montana,2002
-71.50,Montana,2003
-72.40,Montana,2004
-70.40,Montana,2005
-69.50,Montana,2006
-67.30,Montana,2007
-70.30,Montana,2008
-70.70,Montana,2009
-68.10,Montana,2010
-68.40,Montana,2011
-67.80,Montana,2012
-67.40,Montana,2013
-66.90,Montana,2014
-66.40,Montana,2015
-67.10,Montana,2016
-67.60,Montana,2017
-67.40,Montana,2018
-68.70,Montana,2019
-68.40,Montana,2020
-65.20,Arizona,1984
-64.70,Arizona,1985
-62.50,Arizona,1986
-63.30,Arizona,1987
-66.10,Arizona,1988
-63.90,Arizona,1989
-64.50,Arizona,1990
-66.30,Arizona,1991
-69.30,Arizona,1992
-69.10,Arizona,1993
-67.70,Arizona,1994
-62.90,Arizona,1995
-62.00,Arizona,1996
-63.00,Arizona,1997
-64.30,Arizona,1998
-66.30,Arizona,1999
-68.00,Arizona,2000
-68.10,Arizona,2001
-65.60,Arizona,2002
-67.00,Arizona,2003
-68.70,Arizona,2004
-71.10,Arizona,2005
-71.60,Arizona,2006
-70.40,Arizona,2007
-69.10,Arizona,2008
-68.90,Arizona,2009
-66.60,Arizona,2010
-66.00,Arizona,2011
-65.30,Arizona,2012
-65.10,Arizona,2013
-63.50,Arizona,2014
-61.70,Arizona,2015
-61.90,Arizona,2016
-64.40,Arizona,2017
-65.70,Arizona,2018
-65.80,Arizona,2019
-68.70,Arizona,2020
-69.90,Utah,1984
-71.50,Utah,1985
-68.00,Utah,1986
-69.00,Utah,1987
-70.20,Utah,1988
-70.40,Utah,1989
-70.10,Utah,1990
-70.70,Utah,1991
-70.00,Utah,1992
-68.90,Utah,1993
-69.30,Utah,1994
-71.50,Utah,1995
-72.70,Utah,1996
-72.50,Utah,1997
-73.70,Utah,1998
-74.70,Utah,1999
-72.70,Utah,2000
-72.40,Utah,2001
-72.80,Utah,2002
-73.40,Utah,2003
-74.90,Utah,2004
-73.90,Utah,2005
-73.50,Utah,2006
-74.90,Utah,2007
-76.20,Utah,2008
-74.10,Utah,2009
-72.50,Utah,2010
-71.40,Utah,2011
-71.10,Utah,2012
-70.90,Utah,2013
-70.90,Utah,2014
-69.90,Utah,2015
-71.30,Utah,2016
-71.00,Utah,2017
-72.20,Utah,2018
-71.90,Utah,2019
-71.70,Utah,2020
-63.40,New Jersey,1984
-62.30,New Jersey,1985
-63.30,New Jersey,1986
-64.00,New Jersey,1987
-64.80,New Jersey,1988
-65.70,New Jersey,1989
-65.00,New Jersey,1990
-64.80,New Jersey,1991
-64.60,New Jersey,1992
-64.50,New Jersey,1993
-64.10,New Jersey,1994
-64.90,New Jersey,1995
-64.60,New Jersey,1996
-63.10,New Jersey,1997
-63.10,New Jersey,1998
-64.50,New Jersey,1999
-66.20,New Jersey,2000
-66.50,New Jersey,2001
-66.90,New Jersey,2002
-66.90,New Jersey,2003
-68.80,New Jersey,2004
-70.10,New Jersey,2005
-69.00,New Jersey,2006
-68.30,New Jersey,2007
-67.30,New Jersey,2008
-65.90,New Jersey,2009
-66.50,New Jersey,2010
-66.40,New Jersey,2011
-66.60,New Jersey,2012
-64.90,New Jersey,2013
-65.20,New Jersey,2014
-64.00,New Jersey,2015
-62.20,New Jersey,2016
-64.10,New Jersey,2017
-65.00,New Jersey,2018
-65.00,New Jersey,2019
-64.30,New Jersey,2020
-67.10,New Hampshire,1984
-65.50,New Hampshire,1985
-64.80,New Hampshire,1986
-66.40,New Hampshire,1987
-67.90,New Hampshire,1988
-67.00,New Hampshire,1989
-65.00,New Hampshire,1990
-66.80,New Hampshire,1991
-66.60,New Hampshire,1992
-65.40,New Hampshire,1993
-65.10,New Hampshire,1994
-66.00,New Hampshire,1995
-65.00,New Hampshire,1996
-66.80,New Hampshire,1997
-69.60,New Hampshire,1998
-70.20,New Hampshire,1999
-69.20,New Hampshire,2000
-68.40,New Hampshire,2001
-69.50,New Hampshire,2002
-74.40,New Hampshire,2003
-73.30,New Hampshire,2004
-74.00,New Hampshire,2005
-74.20,New Hampshire,2006
-73.80,New Hampshire,2007
-75.00,New Hampshire,2008
-76.00,New Hampshire,2009
-74.90,New Hampshire,2010
-74.10,New Hampshire,2011
-74.80,New Hampshire,2012
-74.10,New Hampshire,2013
-72.20,New Hampshire,2014
-71.60,New Hampshire,2015
-71.80,New Hampshire,2016
-71.60,New Hampshire,2017
-73.40,New Hampshire,2018
-75.00,New Hampshire,2019
-74.50,New Hampshire,2020
-57.60,Alaska,1984
-61.20,Alaska,1985
-61.50,Alaska,1986
-59.70,Alaska,1987
-57.00,Alaska,1988
-58.70,Alaska,1989
-58.40,Alaska,1990
-57.10,Alaska,1991
-55.50,Alaska,1992
-55.40,Alaska,1993
-58.80,Alaska,1994
-60.90,Alaska,1995
-62.90,Alaska,1996
-67.20,Alaska,1997
-66.30,Alaska,1998
-66.40,Alaska,1999
-66.40,Alaska,2000
-65.30,Alaska,2001
-67.10,Alaska,2002
-70.00,Alaska,2003
-67.20,Alaska,2004
-66.00,Alaska,2005
-67.20,Alaska,2006
-66.60,Alaska,2007
-66.40,Alaska,2008
-66.80,Alaska,2009
-65.70,Alaska,2010
-64.40,Alaska,2011
-63.70,Alaska,2012
-64.60,Alaska,2013
-64.90,Alaska,2014
-62.30,Alaska,2015
-65.20,Alaska,2016
-65.50,Alaska,2017
-63.70,Alaska,2018
-62.60,Alaska,2019
-64.10,Alaska,2020
-63.60,Georgia,1984
-62.70,Georgia,1985
-62.40,Georgia,1986
-63.90,Georgia,1987
-64.80,Georgia,1988
-64.70,Georgia,1989
-64.30,Georgia,1990
-65.70,Georgia,1991
-66.90,Georgia,1992
-66.50,Georgia,1993
-63.40,Georgia,1994
-66.60,Georgia,1995
-69.30,Georgia,1996
-70.90,Georgia,1997
-71.20,Georgia,1998
-71.30,Georgia,1999
-69.80,Georgia,2000
-70.10,Georgia,2001
-71.80,Georgia,2002
-71.40,Georgia,2003
-70.90,Georgia,2004
-67.90,Georgia,2005
-68.50,Georgia,2006
-67.60,Georgia,2007
-68.20,Georgia,2008
-67.40,Georgia,2009
-67.10,Georgia,2010
-66.20,Georgia,2011
-64.30,Georgia,2012
-64.20,Georgia,2013
-62.90,Georgia,2014
-62.90,Georgia,2015
-62.30,Georgia,2016
-62.80,Georgia,2017
-63.80,Georgia,2018
-64.40,Georgia,2019
-67.30,Georgia,2020
-70.20,Kentucky,1984
-68.50,Kentucky,1985
-68.10,Kentucky,1986
-67.60,Kentucky,1987
-65.40,Kentucky,1988
-64.90,Kentucky,1989
-65.80,Kentucky,1990
-67.20,Kentucky,1991
-69.00,Kentucky,1992
+64.5,National,1984
+63.9,National,1985
+63.8,National,1986
+64,National,1987
+63.8,National,1988
+63.9,National,1989
+63.9,National,1990
+64.1,National,1991
+64.1,National,1992
+64,National,1993
+64,National,1994
+64.7,National,1995
+65.4,National,1996
+65.7,National,1997
+66.3,National,1998
+66.8,National,1999
+67.4,National,2000
+67.8,National,2001
+67.9,National,2002
+68.3,National,2003
+69,National,2004
+68.9,National,2005
+68.8,National,2006
+68.1,National,2007
+67.8,National,2008
+67.4,National,2009
+66.9,National,2010
+66.1,National,2011
+65.4,National,2012
+65.1,National,2013
+64.5,National,2014
+63.7,National,2015
+63.4,National,2016
+63.9,National,2017
+64.4,National,2018
+64.6,National,2019
+66.6,National,2020
+69.5,Missouri,1984
+69.2,Missouri,1985
+67.8,Missouri,1986
+66.1,Missouri,1987
+64.8,Missouri,1988
+63.7,Missouri,1989
+64,Missouri,1990
+64.2,Missouri,1991
+65.2,Missouri,1992
+66.4,Missouri,1993
+68.4,Missouri,1994
+69.4,Missouri,1995
+70.2,Missouri,1996
+70.5,Missouri,1997
+70.7,Missouri,1998
+72.9,Missouri,1999
+74.2,Missouri,2000
+74,Missouri,2001
+74.8,Missouri,2002
+74,Missouri,2003
+72.4,Missouri,2004
+72.3,Missouri,2005
+71.9,Missouri,2006
+70.4,Missouri,2007
+71.4,Missouri,2008
+72,Missouri,2009
+71.2,Missouri,2010
+71.1,Missouri,2011
+70.8,Missouri,2012
+71.3,Missouri,2013
+70.5,Missouri,2014
+68.5,Missouri,2015
+66.7,Missouri,2016
+67.6,Missouri,2017
+69.7,Missouri,2018
+69.1,Missouri,2019
+71.1,Missouri,2020
+66.9,Vermont,1984
+69.5,Vermont,1985
+69.8,Vermont,1986
+70.5,Vermont,1987
+68.7,Vermont,1988
+69.7,Vermont,1989
+72.6,Vermont,1990
+70.8,Vermont,1991
+70.8,Vermont,1992
+68.5,Vermont,1993
+69.4,Vermont,1994
+70.4,Vermont,1995
+70.3,Vermont,1996
+69.1,Vermont,1997
+69.1,Vermont,1998
+69.1,Vermont,1999
+68.7,Vermont,2000
+69.8,Vermont,2001
+70.3,Vermont,2002
+71.4,Vermont,2003
+72,Vermont,2004
+74.2,Vermont,2005
+74,Vermont,2006
+73.7,Vermont,2007
+72.8,Vermont,2008
+74.3,Vermont,2009
+73.6,Vermont,2010
+74.6,Vermont,2011
+73.4,Vermont,2012
+73,Vermont,2013
+73.5,Vermont,2014
+71.8,Vermont,2015
+71.3,Vermont,2016
+71.1,Vermont,2017
+71.4,Vermont,2018
+70.9,Vermont,2019
+73.1,Vermont,2020
+67.8,Connecticut,1984
+69,Connecticut,1985
+68.1,Connecticut,1986
+67,Connecticut,1987
+66.5,Connecticut,1988
+66.4,Connecticut,1989
+67.9,Connecticut,1990
+65.5,Connecticut,1991
+66.1,Connecticut,1992
+64.5,Connecticut,1993
+63.8,Connecticut,1994
+68.2,Connecticut,1995
+69,Connecticut,1996
+68.1,Connecticut,1997
+69.3,Connecticut,1998
+69.1,Connecticut,1999
+70,Connecticut,2000
+71.8,Connecticut,2001
+71.5,Connecticut,2002
+73,Connecticut,2003
+71.7,Connecticut,2004
+70.5,Connecticut,2005
+71.1,Connecticut,2006
+70.3,Connecticut,2007
+70.7,Connecticut,2008
+70.5,Connecticut,2009
+70.8,Connecticut,2010
+70.6,Connecticut,2011
+68.8,Connecticut,2012
+68.5,Connecticut,2013
+67.4,Connecticut,2014
+66.5,Connecticut,2015
+64.2,Connecticut,2016
+66.1,Connecticut,2017
+65.3,Connecticut,2018
+64.3,Connecticut,2019
+66.9,Connecticut,2020
+65.7,Washington,1984
+66.8,Washington,1985
+65.1,Washington,1986
+64.4,Washington,1987
+64.2,Washington,1988
+64.2,Washington,1989
+61.8,Washington,1990
+61.8,Washington,1991
+62.5,Washington,1992
+63.1,Washington,1993
+62.4,Washington,1994
+61.6,Washington,1995
+63.1,Washington,1996
+62.9,Washington,1997
+64.9,Washington,1998
+64.8,Washington,1999
+63.6,Washington,2000
+66.4,Washington,2001
+66.9,Washington,2002
+65.9,Washington,2003
+66,Washington,2004
+67.6,Washington,2005
+66.7,Washington,2006
+66.8,Washington,2007
+66.2,Washington,2008
+65.5,Washington,2009
+64.4,Washington,2010
+64.2,Washington,2011
+63.5,Washington,2012
+62.7,Washington,2013
+63.6,Washington,2014
+62.6,Washington,2015
+61.6,Washington,2016
+63.6,Washington,2017
+64.9,Washington,2018
+63.8,Washington,2019
+64.1,Washington,2020
+53.7,California,1984
+54.2,California,1985
+53.8,California,1986
+54.3,California,1987
+54.4,California,1988
+53.6,California,1989
+53.8,California,1990
+54.5,California,1991
+55.3,California,1992
+56,California,1993
+55.5,California,1994
+55.4,California,1995
+55,California,1996
+55.7,California,1997
+56,California,1998
+55.7,California,1999
+57.1,California,2000
+58.2,California,2001
+57.7,California,2002
+58.9,California,2003
+59.7,California,2004
+59.7,California,2005
+60.2,California,2006
+58.3,California,2007
+57.5,California,2008
+57,California,2009
+56.1,California,2010
+55.3,California,2011
+54.5,California,2012
+54.3,California,2013
+54.2,California,2014
+54.3,California,2015
+53.8,California,2016
+54.4,California,2017
+55.1,California,2018
+54.8,California,2019
+55.9,California,2020
+72.6,Minnesota,1984
+70,Minnesota,1985
+68,Minnesota,1986
+68.9,Minnesota,1987
+69.1,Minnesota,1988
+68.3,Minnesota,1989
+68,Minnesota,1990
+68.9,Minnesota,1991
+66.7,Minnesota,1992
+65.8,Minnesota,1993
+68.9,Minnesota,1994
+73.3,Minnesota,1995
+75.4,Minnesota,1996
+75.4,Minnesota,1997
+75.4,Minnesota,1998
+76.1,Minnesota,1999
+76.1,Minnesota,2000
+76.1,Minnesota,2001
+77.3,Minnesota,2002
+77.2,Minnesota,2003
+76.4,Minnesota,2004
+76.5,Minnesota,2005
+75.6,Minnesota,2006
+73.5,Minnesota,2007
+73.1,Minnesota,2008
+72.9,Minnesota,2009
+72.6,Minnesota,2010
+71.3,Minnesota,2011
+72,Minnesota,2012
+73.4,Minnesota,2013
+71.4,Minnesota,2014
+70.1,Minnesota,2015
+72.4,Minnesota,2016
+72.7,Minnesota,2017
+69.8,Minnesota,2018
+71.4,Minnesota,2019
+74.5,Minnesota,2020
+70.1,North Dakota,1984
+69.9,North Dakota,1985
+69.2,North Dakota,1986
+68.9,North Dakota,1987
+67.7,North Dakota,1988
+67.1,North Dakota,1989
+67.2,North Dakota,1990
+65.4,North Dakota,1991
+63.7,North Dakota,1992
+62.7,North Dakota,1993
+63.3,North Dakota,1994
+67.3,North Dakota,1995
+68.2,North Dakota,1996
+68.1,North Dakota,1997
+68,North Dakota,1998
+70.1,North Dakota,1999
+70.7,North Dakota,2000
+71,North Dakota,2001
+69.4,North Dakota,2002
+68.7,North Dakota,2003
+70,North Dakota,2004
+68.5,North Dakota,2005
+68.3,North Dakota,2006
+66,North Dakota,2007
+66.6,North Dakota,2008
+65.7,North Dakota,2009
+67.1,North Dakota,2010
+68.3,North Dakota,2011
+66.2,North Dakota,2012
+68,North Dakota,2013
+64.5,North Dakota,2014
+61.8,North Dakota,2015
+61.4,North Dakota,2016
+62.6,North Dakota,2017
+61.9,North Dakota,2018
+61.4,North Dakota,2019
+64.2,North Dakota,2020
+72.7,Michigan,1984
+70.7,Michigan,1985
+70.9,Michigan,1986
+71.7,Michigan,1987
+72.5,Michigan,1988
+73.2,Michigan,1989
+72.3,Michigan,1990
+70.6,Michigan,1991
+70.6,Michigan,1992
+72.3,Michigan,1993
+72,Michigan,1994
+72.2,Michigan,1995
+73.3,Michigan,1996
+73.3,Michigan,1997
+74.4,Michigan,1998
+76.5,Michigan,1999
+77.2,Michigan,2000
+77.1,Michigan,2001
+76,Michigan,2002
+75.6,Michigan,2003
+77.1,Michigan,2004
+76.4,Michigan,2005
+77.4,Michigan,2006
+76.4,Michigan,2007
+75.9,Michigan,2008
+74.5,Michigan,2009
+74.5,Michigan,2010
+74.1,Michigan,2011
+74.8,Michigan,2012
+73.9,Michigan,2013
+73.8,Michigan,2014
+74.6,Michigan,2015
+72.8,Michigan,2016
+72.9,Michigan,2017
+73,Michigan,2018
+73,Michigan,2019
+74.3,Michigan,2020
+62.5,Texas,1984
+60.5,Texas,1985
+61,Texas,1986
+61.1,Texas,1987
+59.9,Texas,1988
+61,Texas,1989
+59.7,Texas,1990
+59,Texas,1991
+58.3,Texas,1992
+58.7,Texas,1993
+59.7,Texas,1994
+61.4,Texas,1995
+61.8,Texas,1996
+61.5,Texas,1997
+62.5,Texas,1998
+62.9,Texas,1999
+63.8,Texas,2000
+63.9,Texas,2001
+63.4,Texas,2002
+64.5,Texas,2003
+65.5,Texas,2004
+65.9,Texas,2005
+66,Texas,2006
+66,Texas,2007
+65.5,Texas,2008
+65.4,Texas,2009
+65.3,Texas,2010
+64.3,Texas,2011
+64.3,Texas,2012
+63.3,Texas,2013
+62.2,Texas,2014
+61.9,Texas,2015
+61.5,Texas,2016
+61.7,Texas,2017
+62.7,Texas,2018
+62.4,Texas,2019
+66.5,Texas,2020
+70.4,Delaware,1984
+70.3,Delaware,1985
+71,Delaware,1986
+71.1,Delaware,1987
+70.1,Delaware,1988
+68.7,Delaware,1989
+67.7,Delaware,1990
+70.2,Delaware,1991
+73.8,Delaware,1992
+74.1,Delaware,1993
+70.5,Delaware,1994
+71.7,Delaware,1995
+71.5,Delaware,1996
+69.2,Delaware,1997
+71,Delaware,1998
+71.6,Delaware,1999
+72,Delaware,2000
+75.4,Delaware,2001
+75.6,Delaware,2002
+77.2,Delaware,2003
+77.3,Delaware,2004
+75.8,Delaware,2005
+76.8,Delaware,2006
+76.8,Delaware,2007
+76.2,Delaware,2008
+76.5,Delaware,2009
+74.7,Delaware,2010
+74.2,Delaware,2011
+73.4,Delaware,2012
+74.1,Delaware,2013
+74.3,Delaware,2014
+73.3,Delaware,2015
+73,Delaware,2016
+70,Delaware,2017
+70.8,Delaware,2018
+73.1,Delaware,2019
+77.9,Delaware,2020
+67.7,Ohio,1984
+67.9,Ohio,1985
+68.2,Ohio,1986
+68.6,Ohio,1987
+69.6,Ohio,1988
+69.6,Ohio,1989
+68.7,Ohio,1990
+68.7,Ohio,1991
+69.1,Ohio,1992
+68.5,Ohio,1993
+67.4,Ohio,1994
+67.9,Ohio,1995
+69.2,Ohio,1996
+69,Ohio,1997
+70.7,Ohio,1998
+70.7,Ohio,1999
+71.3,Ohio,2000
+71.2,Ohio,2001
+72.1,Ohio,2002
+72.8,Ohio,2003
+73.1,Ohio,2004
+73.3,Ohio,2005
+72.1,Ohio,2006
+71.4,Ohio,2007
+70.8,Ohio,2008
+69.7,Ohio,2009
+69.7,Ohio,2010
+68.9,Ohio,2011
+67.9,Ohio,2012
+67.9,Ohio,2013
+67.3,Ohio,2014
+66.4,Ohio,2015
+66.1,Ohio,2016
+66,Ohio,2017
+67.3,Ohio,2018
+68.2,Ohio,2019
+69.4,Ohio,2020
+71.1,Pennsylvania,1984
+71.6,Pennsylvania,1985
+72.3,Pennsylvania,1986
+71.8,Pennsylvania,1987
+72.1,Pennsylvania,1988
+72.8,Pennsylvania,1989
+73.8,Pennsylvania,1990
+74,Pennsylvania,1991
+73.1,Pennsylvania,1992
+72,Pennsylvania,1993
+71.8,Pennsylvania,1994
+71.5,Pennsylvania,1995
+71.7,Pennsylvania,1996
+73.3,Pennsylvania,1997
+73.9,Pennsylvania,1998
+75.2,Pennsylvania,1999
+74.7,Pennsylvania,2000
+74.3,Pennsylvania,2001
+74,Pennsylvania,2002
+73.7,Pennsylvania,2003
+74.9,Pennsylvania,2004
+73.3,Pennsylvania,2005
+73.2,Pennsylvania,2006
+72.9,Pennsylvania,2007
+72.6,Pennsylvania,2008
+72.2,Pennsylvania,2009
+72.2,Pennsylvania,2010
+71.1,Pennsylvania,2011
+71,Pennsylvania,2012
+71.5,Pennsylvania,2013
+69.7,Pennsylvania,2014
+69.6,Pennsylvania,2015
+68.5,Pennsylvania,2016
+68.6,Pennsylvania,2017
+69.9,Pennsylvania,2018
+69.2,Pennsylvania,2019
+69.9,Pennsylvania,2020
+73.7,Alabama,1984
+70.4,Alabama,1985
+70.3,Alabama,1986
+67.9,Alabama,1987
+66.5,Alabama,1988
+67.6,Alabama,1989
+68.4,Alabama,1990
+69.9,Alabama,1991
+70.3,Alabama,1992
+70.2,Alabama,1993
+68.5,Alabama,1994
+70.1,Alabama,1995
+71,Alabama,1996
+71.3,Alabama,1997
+72.9,Alabama,1998
+74.8,Alabama,1999
+73.2,Alabama,2000
+73.2,Alabama,2001
+73.7,Alabama,2002
+76.2,Alabama,2003
+78,Alabama,2004
+76.6,Alabama,2005
+74.2,Alabama,2006
+73.3,Alabama,2007
+73,Alabama,2008
+74.1,Alabama,2009
+73.2,Alabama,2010
+72.9,Alabama,2011
+71.9,Alabama,2012
+72.7,Alabama,2013
+72.1,Alabama,2014
+70,Alabama,2015
+69.7,Alabama,2016
+70,Alabama,2017
+70.3,Alabama,2018
+70.7,Alabama,2019
+74.8,Alabama,2020
+68.3,Virginia,1984
+68.5,Virginia,1985
+68.2,Virginia,1986
+69,Virginia,1987
+69.8,Virginia,1988
+70.2,Virginia,1989
+69.8,Virginia,1990
+68.9,Virginia,1991
+67.8,Virginia,1992
+68.5,Virginia,1993
+69.3,Virginia,1994
+68.1,Virginia,1995
+68.5,Virginia,1996
+68.4,Virginia,1997
+69.4,Virginia,1998
+71.2,Virginia,1999
+73.9,Virginia,2000
+75.1,Virginia,2001
+74.4,Virginia,2002
+75,Virginia,2003
+73.4,Virginia,2004
+71.2,Virginia,2005
+71.1,Virginia,2006
+71.5,Virginia,2007
+70.6,Virginia,2008
+69.7,Virginia,2009
+68.7,Virginia,2010
+67.9,Virginia,2011
+67.8,Virginia,2012
+68.1,Virginia,2013
+68.7,Virginia,2014
+67.1,Virginia,2015
+66.3,Virginia,2016
+67.5,Virginia,2017
+66,Virginia,2018
+67.6,Virginia,2019
+70.4,Virginia,2020
+70.1,Louisiana,1984
+70.2,Louisiana,1985
+70.4,Louisiana,1986
+71,Louisiana,1987
+68.5,Louisiana,1988
+66.3,Louisiana,1989
+67.8,Louisiana,1990
+68.9,Louisiana,1991
+66.7,Louisiana,1992
+65.4,Louisiana,1993
+65.8,Louisiana,1994
+65.3,Louisiana,1995
+64.9,Louisiana,1996
+66.4,Louisiana,1997
+66.6,Louisiana,1998
+66.8,Louisiana,1999
+68.1,Louisiana,2000
+67.1,Louisiana,2001
+67.4,Louisiana,2002
+67.5,Louisiana,2003
+70.6,Louisiana,2004
+72.5,Louisiana,2005
+71.3,Louisiana,2006
+71.5,Louisiana,2007
+73.5,Louisiana,2008
+71.9,Louisiana,2009
+70.4,Louisiana,2010
+70.1,Louisiana,2011
+68.7,Louisiana,2012
+67.8,Louisiana,2013
+65.3,Louisiana,2014
+63.3,Louisiana,2015
+64.2,Louisiana,2016
+66.1,Louisiana,2017
+65.7,Louisiana,2018
+65.6,Louisiana,2019
+69.1,Louisiana,2020
+67.6,Tennessee,1984
+67.6,Tennessee,1985
+67.4,Tennessee,1986
+67.2,Tennessee,1987
+66.9,Tennessee,1988
+67.3,Tennessee,1989
+68.3,Tennessee,1990
+68,Tennessee,1991
+67.4,Tennessee,1992
+64.1,Tennessee,1993
+65.2,Tennessee,1994
+67,Tennessee,1995
+68.8,Tennessee,1996
+70.2,Tennessee,1997
+71.3,Tennessee,1998
+71.9,Tennessee,1999
+70.9,Tennessee,2000
+69.7,Tennessee,2001
+70.3,Tennessee,2002
+70.8,Tennessee,2003
+71.6,Tennessee,2004
+72.4,Tennessee,2005
+71.3,Tennessee,2006
+70.2,Tennessee,2007
+71.7,Tennessee,2008
+71.1,Tennessee,2009
+71,Tennessee,2010
+69.3,Tennessee,2011
+67.9,Tennessee,2012
+66.8,Tennessee,2013
+66.7,Tennessee,2014
+66.5,Tennessee,2015
+66.4,Tennessee,2016
+67.2,Tennessee,2017
+68,Tennessee,2018
+68.8,Tennessee,2019
+70,Tennessee,2020
+66.4,Montana,1984
+66.5,Montana,1985
+64.4,Montana,1986
+65,Montana,1987
+65.4,Montana,1988
+67.9,Montana,1989
+69.1,Montana,1990
+69.6,Montana,1991
+69.9,Montana,1992
+69.7,Montana,1993
+68.8,Montana,1994
+68.7,Montana,1995
+68.6,Montana,1996
+67.5,Montana,1997
+68.6,Montana,1998
+70.6,Montana,1999
+70.2,Montana,2000
+68.3,Montana,2001
+69.4,Montana,2002
+71.5,Montana,2003
+72.4,Montana,2004
+70.4,Montana,2005
+69.5,Montana,2006
+67.3,Montana,2007
+70.3,Montana,2008
+70.7,Montana,2009
+68.1,Montana,2010
+68.4,Montana,2011
+67.8,Montana,2012
+67.4,Montana,2013
+66.9,Montana,2014
+66.4,Montana,2015
+67.1,Montana,2016
+67.6,Montana,2017
+67.4,Montana,2018
+68.7,Montana,2019
+68.4,Montana,2020
+65.2,Arizona,1984
+64.7,Arizona,1985
+62.5,Arizona,1986
+63.3,Arizona,1987
+66.1,Arizona,1988
+63.9,Arizona,1989
+64.5,Arizona,1990
+66.3,Arizona,1991
+69.3,Arizona,1992
+69.1,Arizona,1993
+67.7,Arizona,1994
+62.9,Arizona,1995
+62,Arizona,1996
+63,Arizona,1997
+64.3,Arizona,1998
+66.3,Arizona,1999
+68,Arizona,2000
+68.1,Arizona,2001
+65.6,Arizona,2002
+67,Arizona,2003
+68.7,Arizona,2004
+71.1,Arizona,2005
+71.6,Arizona,2006
+70.4,Arizona,2007
+69.1,Arizona,2008
+68.9,Arizona,2009
+66.6,Arizona,2010
+66,Arizona,2011
+65.3,Arizona,2012
+65.1,Arizona,2013
+63.5,Arizona,2014
+61.7,Arizona,2015
+61.9,Arizona,2016
+64.4,Arizona,2017
+65.7,Arizona,2018
+65.8,Arizona,2019
+68.7,Arizona,2020
+69.9,Utah,1984
+71.5,Utah,1985
+68,Utah,1986
+69,Utah,1987
+70.2,Utah,1988
+70.4,Utah,1989
+70.1,Utah,1990
+70.7,Utah,1991
+70,Utah,1992
+68.9,Utah,1993
+69.3,Utah,1994
+71.5,Utah,1995
+72.7,Utah,1996
+72.5,Utah,1997
+73.7,Utah,1998
+74.7,Utah,1999
+72.7,Utah,2000
+72.4,Utah,2001
+72.8,Utah,2002
+73.4,Utah,2003
+74.9,Utah,2004
+73.9,Utah,2005
+73.5,Utah,2006
+74.9,Utah,2007
+76.2,Utah,2008
+74.1,Utah,2009
+72.5,Utah,2010
+71.4,Utah,2011
+71.1,Utah,2012
+70.9,Utah,2013
+70.9,Utah,2014
+69.9,Utah,2015
+71.3,Utah,2016
+71,Utah,2017
+72.2,Utah,2018
+71.9,Utah,2019
+71.7,Utah,2020
+63.4,New Jersey,1984
+62.3,New Jersey,1985
+63.3,New Jersey,1986
+64,New Jersey,1987
+64.8,New Jersey,1988
+65.7,New Jersey,1989
+65,New Jersey,1990
+64.8,New Jersey,1991
+64.6,New Jersey,1992
+64.5,New Jersey,1993
+64.1,New Jersey,1994
+64.9,New Jersey,1995
+64.6,New Jersey,1996
+63.1,New Jersey,1997
+63.1,New Jersey,1998
+64.5,New Jersey,1999
+66.2,New Jersey,2000
+66.5,New Jersey,2001
+66.9,New Jersey,2002
+66.9,New Jersey,2003
+68.8,New Jersey,2004
+70.1,New Jersey,2005
+69,New Jersey,2006
+68.3,New Jersey,2007
+67.3,New Jersey,2008
+65.9,New Jersey,2009
+66.5,New Jersey,2010
+66.4,New Jersey,2011
+66.6,New Jersey,2012
+64.9,New Jersey,2013
+65.2,New Jersey,2014
+64,New Jersey,2015
+62.2,New Jersey,2016
+64.1,New Jersey,2017
+65,New Jersey,2018
+65,New Jersey,2019
+64.3,New Jersey,2020
+67.1,New Hampshire,1984
+65.5,New Hampshire,1985
+64.8,New Hampshire,1986
+66.4,New Hampshire,1987
+67.9,New Hampshire,1988
+67,New Hampshire,1989
+65,New Hampshire,1990
+66.8,New Hampshire,1991
+66.6,New Hampshire,1992
+65.4,New Hampshire,1993
+65.1,New Hampshire,1994
+66,New Hampshire,1995
+65,New Hampshire,1996
+66.8,New Hampshire,1997
+69.6,New Hampshire,1998
+70.2,New Hampshire,1999
+69.2,New Hampshire,2000
+68.4,New Hampshire,2001
+69.5,New Hampshire,2002
+74.4,New Hampshire,2003
+73.3,New Hampshire,2004
+74,New Hampshire,2005
+74.2,New Hampshire,2006
+73.8,New Hampshire,2007
+75,New Hampshire,2008
+76,New Hampshire,2009
+74.9,New Hampshire,2010
+74.1,New Hampshire,2011
+74.8,New Hampshire,2012
+74.1,New Hampshire,2013
+72.2,New Hampshire,2014
+71.6,New Hampshire,2015
+71.8,New Hampshire,2016
+71.6,New Hampshire,2017
+73.4,New Hampshire,2018
+75,New Hampshire,2019
+74.5,New Hampshire,2020
+57.6,Alaska,1984
+61.2,Alaska,1985
+61.5,Alaska,1986
+59.7,Alaska,1987
+57,Alaska,1988
+58.7,Alaska,1989
+58.4,Alaska,1990
+57.1,Alaska,1991
+55.5,Alaska,1992
+55.4,Alaska,1993
+58.8,Alaska,1994
+60.9,Alaska,1995
+62.9,Alaska,1996
+67.2,Alaska,1997
+66.3,Alaska,1998
+66.4,Alaska,1999
+66.4,Alaska,2000
+65.3,Alaska,2001
+67.1,Alaska,2002
+70,Alaska,2003
+67.2,Alaska,2004
+66,Alaska,2005
+67.2,Alaska,2006
+66.6,Alaska,2007
+66.4,Alaska,2008
+66.8,Alaska,2009
+65.7,Alaska,2010
+64.4,Alaska,2011
+63.7,Alaska,2012
+64.6,Alaska,2013
+64.9,Alaska,2014
+62.3,Alaska,2015
+65.2,Alaska,2016
+65.5,Alaska,2017
+63.7,Alaska,2018
+62.6,Alaska,2019
+64.1,Alaska,2020
+63.6,Georgia,1984
+62.7,Georgia,1985
+62.4,Georgia,1986
+63.9,Georgia,1987
+64.8,Georgia,1988
+64.7,Georgia,1989
+64.3,Georgia,1990
+65.7,Georgia,1991
+66.9,Georgia,1992
+66.5,Georgia,1993
+63.4,Georgia,1994
+66.6,Georgia,1995
+69.3,Georgia,1996
+70.9,Georgia,1997
+71.2,Georgia,1998
+71.3,Georgia,1999
+69.8,Georgia,2000
+70.1,Georgia,2001
+71.8,Georgia,2002
+71.4,Georgia,2003
+70.9,Georgia,2004
+67.9,Georgia,2005
+68.5,Georgia,2006
+67.6,Georgia,2007
+68.2,Georgia,2008
+67.4,Georgia,2009
+67.1,Georgia,2010
+66.2,Georgia,2011
+64.3,Georgia,2012
+64.2,Georgia,2013
+62.9,Georgia,2014
+62.9,Georgia,2015
+62.3,Georgia,2016
+62.8,Georgia,2017
+63.8,Georgia,2018
+64.4,Georgia,2019
+67.3,Georgia,2020
+70.2,Kentucky,1984
+68.5,Kentucky,1985
+68.1,Kentucky,1986
+67.6,Kentucky,1987
+65.4,Kentucky,1988
+64.9,Kentucky,1989
+65.8,Kentucky,1990
+67.2,Kentucky,1991
+69,Kentucky,1992
 68.76,Kentucky,1993
-70.60,Kentucky,1994
-71.20,Kentucky,1995
-73.20,Kentucky,1996
-75.00,Kentucky,1997
-75.10,Kentucky,1998
-73.90,Kentucky,1999
-73.40,Kentucky,2000
-73.90,Kentucky,2001
-73.70,Kentucky,2002
-74.40,Kentucky,2003
-73.30,Kentucky,2004
-71.60,Kentucky,2005
-71.70,Kentucky,2006
-72.90,Kentucky,2007
-72.80,Kentucky,2008
-71.20,Kentucky,2009
-70.30,Kentucky,2010
-69.10,Kentucky,2011
-68.70,Kentucky,2012
-67.50,Kentucky,2013
-67.60,Kentucky,2014
-67.90,Kentucky,2015
-67.90,Kentucky,2016
-70.10,Kentucky,2017
-69.80,Kentucky,2018
-69.50,Kentucky,2019
-72.50,Kentucky,2020
-68.80,Wyoming,1984
-73.20,Wyoming,1985
-72.00,Wyoming,1986
-68.90,Wyoming,1987
-67.80,Wyoming,1988
-69.60,Wyoming,1989
-68.90,Wyoming,1990
-68.70,Wyoming,1991
-67.90,Wyoming,1992
-67.10,Wyoming,1993
-65.80,Wyoming,1994
-69.00,Wyoming,1995
-68.00,Wyoming,1996
-67.60,Wyoming,1997
-70.00,Wyoming,1998
-69.80,Wyoming,1999
-71.00,Wyoming,2000
-73.50,Wyoming,2001
-73.00,Wyoming,2002
-72.90,Wyoming,2003
-72.80,Wyoming,2004
-72.80,Wyoming,2005
-73.70,Wyoming,2006
-73.20,Wyoming,2007
-73.30,Wyoming,2008
-73.80,Wyoming,2009
-73.40,Wyoming,2010
-71.10,Wyoming,2011
-70.30,Wyoming,2012
-70.50,Wyoming,2013
-70.80,Wyoming,2014
-69.90,Wyoming,2015
-70.20,Wyoming,2016
-70.40,Wyoming,2017
-71.10,Wyoming,2018
-71.30,Wyoming,2019
-73.90,Wyoming,2020
-69.30,Nebraska,1984
-68.50,Nebraska,1985
-68.30,Nebraska,1986
-66.80,Nebraska,1987
-66.60,Nebraska,1988
-67.20,Nebraska,1989
-67.30,Nebraska,1990
-67.50,Nebraska,1991
-68.40,Nebraska,1992
-67.70,Nebraska,1993
-68.00,Nebraska,1994
-67.10,Nebraska,1995
-66.80,Nebraska,1996
-66.70,Nebraska,1997
-69.90,Nebraska,1998
-70.90,Nebraska,1999
-70.20,Nebraska,2000
-70.10,Nebraska,2001
-68.50,Nebraska,2002
-69.50,Nebraska,2003
-71.20,Nebraska,2004
-70.20,Nebraska,2005
-67.60,Nebraska,2006
-68.20,Nebraska,2007
-69.60,Nebraska,2008
-70.20,Nebraska,2009
-70.40,Nebraska,2010
-68.90,Nebraska,2011
-69.30,Nebraska,2012
-68.20,Nebraska,2013
-66.70,Nebraska,2014
-68.10,Nebraska,2015
-68.00,Nebraska,2016
-66.10,Nebraska,2017
-66.40,Nebraska,2018
-68.20,Nebraska,2019
-69.80,Nebraska,2020
-69.60,South Dakota,1984
-67.60,South Dakota,1985
-65.90,South Dakota,1986
-66.80,South Dakota,1987
-66.40,South Dakota,1988
-65.80,South Dakota,1989
-66.20,South Dakota,1990
-66.10,South Dakota,1991
-66.50,South Dakota,1992
-65.60,South Dakota,1993
-66.40,South Dakota,1994
-67.50,South Dakota,1995
-67.80,South Dakota,1996
-67.60,South Dakota,1997
-67.30,South Dakota,1998
-70.70,South Dakota,1999
-71.20,South Dakota,2000
-71.50,South Dakota,2001
-71.50,South Dakota,2002
-70.90,South Dakota,2003
-68.50,South Dakota,2004
-68.40,South Dakota,2005
-70.60,South Dakota,2006
-70.40,South Dakota,2007
-70.40,South Dakota,2008
-69.60,South Dakota,2009
-70.60,South Dakota,2010
-69.30,South Dakota,2011
-69.20,South Dakota,2012
-67.80,South Dakota,2013
-69.20,South Dakota,2014
-70.10,South Dakota,2015
-69.40,South Dakota,2016
-67.80,South Dakota,2017
-69.10,South Dakota,2018
-69.50,South Dakota,2019
-71.40,South Dakota,2020
-67.80,Maryland,1984
-65.60,Maryland,1985
-62.80,Maryland,1986
-62.70,Maryland,1987
-63.50,Maryland,1988
-65.50,Maryland,1989
-64.90,Maryland,1990
-63.80,Maryland,1991
-64.80,Maryland,1992
-65.50,Maryland,1993
-64.10,Maryland,1994
-65.80,Maryland,1995
-66.90,Maryland,1996
-70.50,Maryland,1997
-68.70,Maryland,1998
-69.60,Maryland,1999
-69.90,Maryland,2000
-70.70,Maryland,2001
-72.00,Maryland,2002
-71.60,Maryland,2003
-72.10,Maryland,2004
-71.20,Maryland,2005
-72.60,Maryland,2006
-71.70,Maryland,2007
-70.60,Maryland,2008
-69.60,Maryland,2009
-68.90,Maryland,2010
-69.70,Maryland,2011
-68.50,Maryland,2012
-66.90,Maryland,2013
-66.20,Maryland,2014
-67.10,Maryland,2015
-66.50,Maryland,2016
-66.90,Maryland,2017
-66.60,Maryland,2018
-68.80,Maryland,2019
-72.00,Maryland,2020
-68.00,New Mexico,1984
-68.20,New Mexico,1985
-67.80,New Mexico,1986
-67.20,New Mexico,1987
-65.40,New Mexico,1988
-65.50,New Mexico,1989
-68.60,New Mexico,1990
-69.50,New Mexico,1991
-70.50,New Mexico,1992
-69.10,New Mexico,1993
-66.80,New Mexico,1994
-67.00,New Mexico,1995
-67.10,New Mexico,1996
-69.60,New Mexico,1997
-71.30,New Mexico,1998
-72.60,New Mexico,1999
-73.70,New Mexico,2000
-70.80,New Mexico,2001
-70.00,New Mexico,2002
-70.30,New Mexico,2003
-71.50,New Mexico,2004
-71.40,New Mexico,2005
-72.00,New Mexico,2006
-71.50,New Mexico,2007
-70.40,New Mexico,2008
-69.10,New Mexico,2009
-68.60,New Mexico,2010
-69.10,New Mexico,2011
-66.80,New Mexico,2012
-67.30,New Mexico,2013
-66.30,New Mexico,2014
-66.50,New Mexico,2015
-67.40,New Mexico,2016
-66.60,New Mexico,2017
-68.00,New Mexico,2018
-67.40,New Mexico,2019
-70.30,New Mexico,2020
-58.90,Nevada,1984
-57.00,Nevada,1985
-54.50,Nevada,1986
-54.10,Nevada,1987
-54.30,Nevada,1988
-54.30,Nevada,1989
-55.80,Nevada,1990
-55.80,Nevada,1991
-55.10,Nevada,1992
-55.80,Nevada,1993
-55.80,Nevada,1994
-58.60,Nevada,1995
-61.10,Nevada,1996
-61.20,Nevada,1997
-61.40,Nevada,1998
-63.70,Nevada,1999
-64.00,Nevada,2000
-64.60,Nevada,2001
-65.30,Nevada,2002
-64.80,Nevada,2003
-65.70,Nevada,2004
-63.40,Nevada,2005
-65.70,Nevada,2006
-63.30,Nevada,2007
-63.60,Nevada,2008
-62.40,Nevada,2009
-59.70,Nevada,2010
-56.20,Nevada,2011
-55.70,Nevada,2012
-56.00,Nevada,2013
-56.00,Nevada,2014
-54.80,Nevada,2015
-54.50,Nevada,2016
-55.00,Nevada,2017
-57.80,Nevada,2018
-58.20,Nevada,2019
-61.20,Nevada,2020
-71.00,Oklahoma,1984
-70.50,Oklahoma,1985
-69.70,Oklahoma,1986
-70.90,Oklahoma,1987
-72.10,Oklahoma,1988
-71.40,Oklahoma,1989
-70.30,Oklahoma,1990
-69.20,Oklahoma,1991
-68.90,Oklahoma,1992
-70.30,Oklahoma,1993
-68.50,Oklahoma,1994
-69.80,Oklahoma,1995
-68.40,Oklahoma,1996
-68.50,Oklahoma,1997
-69.70,Oklahoma,1998
-71.50,Oklahoma,1999
-72.70,Oklahoma,2000
-71.50,Oklahoma,2001
-69.60,Oklahoma,2002
-69.10,Oklahoma,2003
-71.10,Oklahoma,2004
-72.90,Oklahoma,2005
-71.60,Oklahoma,2006
-70.30,Oklahoma,2007
-70.40,Oklahoma,2008
-69.60,Oklahoma,2009
-69.20,Oklahoma,2010
-69.40,Oklahoma,2011
-68.80,Oklahoma,2012
-69.90,Oklahoma,2013
-69.30,Oklahoma,2014
-67.40,Oklahoma,2015
-66.80,Oklahoma,2016
-68.90,Oklahoma,2017
-69.50,Oklahoma,2018
-68.80,Oklahoma,2019
-71.00,Oklahoma,2020
-61.70,Massachusetts,1984
-60.50,Massachusetts,1985
-60.30,Massachusetts,1986
-60.60,Massachusetts,1987
-60.00,Massachusetts,1988
-58.90,Massachusetts,1989
-58.60,Massachusetts,1990
-60.20,Massachusetts,1991
-61.80,Massachusetts,1992
-60.70,Massachusetts,1993
-60.60,Massachusetts,1994
-60.20,Massachusetts,1995
-61.70,Massachusetts,1996
-62.30,Massachusetts,1997
-61.30,Massachusetts,1998
-60.30,Massachusetts,1999
-59.90,Massachusetts,2000
-60.60,Massachusetts,2001
-62.60,Massachusetts,2002
-64.30,Massachusetts,2003
-63.80,Massachusetts,2004
-63.40,Massachusetts,2005
-65.20,Massachusetts,2006
-64.30,Massachusetts,2007
-65.70,Massachusetts,2008
-65.10,Massachusetts,2009
-65.30,Massachusetts,2010
-65.30,Massachusetts,2011
-65.80,Massachusetts,2012
-65.30,Massachusetts,2013
-63.00,Massachusetts,2014
-60.50,Massachusetts,2015
-59.70,Massachusetts,2016
-60.00,Massachusetts,2017
-61.50,Massachusetts,2018
-61.30,Massachusetts,2019
-62.70,Massachusetts,2020
-61.90,Oregon,1984
-61.50,Oregon,1985
-63.90,Oregon,1986
-64.60,Oregon,1987
-64.00,Oregon,1988
-63.40,Oregon,1989
-64.40,Oregon,1990
-65.20,Oregon,1991
-64.30,Oregon,1992
-63.80,Oregon,1993
-63.90,Oregon,1994
-63.20,Oregon,1995
-63.10,Oregon,1996
-61.00,Oregon,1997
-63.40,Oregon,1998
-64.30,Oregon,1999
-65.30,Oregon,2000
-65.80,Oregon,2001
-66.20,Oregon,2002
-68.00,Oregon,2003
-69.00,Oregon,2004
-68.20,Oregon,2005
-68.10,Oregon,2006
-65.70,Oregon,2007
-66.20,Oregon,2008
-68.20,Oregon,2009
-66.30,Oregon,2010
-66.40,Oregon,2011
-66.10,Oregon,2012
-64.20,Oregon,2013
-62.80,Oregon,2014
-61.10,Oregon,2015
-62.60,Oregon,2016
-61.80,Oregon,2017
-62.00,Oregon,2018
-62.40,Oregon,2019
-65.20,Oregon,2020
-72.00,West Virginia,1984
-75.90,West Virginia,1985
-76.40,West Virginia,1986
-72.50,West Virginia,1987
-73.20,West Virginia,1988
-74.80,West Virginia,1989
-72.00,West Virginia,1990
-72.40,West Virginia,1991
-73.30,West Virginia,1992
-73.30,West Virginia,1993
-73.70,West Virginia,1994
-73.10,West Virginia,1995
-74.30,West Virginia,1996
-74.60,West Virginia,1997
-74.80,West Virginia,1998
-74.80,West Virginia,1999
-75.90,West Virginia,2000
-76.40,West Virginia,2001
-77.20,West Virginia,2002
-78.10,West Virginia,2003
-80.30,West Virginia,2004
-81.30,West Virginia,2005
-78.40,West Virginia,2006
-77.60,West Virginia,2007
-77.80,West Virginia,2008
-78.70,West Virginia,2009
-79.00,West Virginia,2010
-78.70,West Virginia,2011
-75.80,West Virginia,2012
-76.80,West Virginia,2013
-75.60,West Virginia,2014
-74.90,West Virginia,2015
-74.80,West Virginia,2016
-75.10,West Virginia,2017
-74.70,West Virginia,2018
-75.60,West Virginia,2019
-78.20,West Virginia,2020
-60.90,Rhode Island,1984
-61.40,Rhode Island,1985
-62.20,Rhode Island,1986
-60.40,Rhode Island,1987
-62.00,Rhode Island,1988
-61.20,Rhode Island,1989
-58.50,Rhode Island,1990
-58.20,Rhode Island,1991
-56.80,Rhode Island,1992
-57.60,Rhode Island,1993
-56.50,Rhode Island,1994
-57.90,Rhode Island,1995
-56.60,Rhode Island,1996
-58.70,Rhode Island,1997
-59.80,Rhode Island,1998
-60.60,Rhode Island,1999
-61.50,Rhode Island,2000
-60.10,Rhode Island,2001
-59.40,Rhode Island,2002
-59.90,Rhode Island,2003
-61.50,Rhode Island,2004
-63.10,Rhode Island,2005
-64.60,Rhode Island,2006
-64.90,Rhode Island,2007
-64.50,Rhode Island,2008
-62.90,Rhode Island,2009
-62.80,Rhode Island,2010
-63.40,Rhode Island,2011
-62.10,Rhode Island,2012
-61.50,Rhode Island,2013
-61.80,Rhode Island,2014
-58.90,Rhode Island,2015
-56.30,Rhode Island,2016
-56.60,Rhode Island,2017
-60.70,Rhode Island,2018
-63.80,Rhode Island,2019
-64.50,Rhode Island,2020
-62.40,Illinois,1984
-60.60,Illinois,1985
-60.90,Illinois,1986
-61.00,Illinois,1987
-61.40,Illinois,1988
-61.90,Illinois,1989
-63.00,Illinois,1990
-63.00,Illinois,1991
-62.40,Illinois,1992
-61.80,Illinois,1993
-64.20,Illinois,1994
-66.40,Illinois,1995
-68.20,Illinois,1996
-68.10,Illinois,1997
-68.00,Illinois,1998
-67.10,Illinois,1999
-67.90,Illinois,2000
-69.40,Illinois,2001
-70.10,Illinois,2002
-70.70,Illinois,2003
-72.70,Illinois,2004
-70.90,Illinois,2005
-70.40,Illinois,2006
-69.40,Illinois,2007
-68.90,Illinois,2008
-69.10,Illinois,2009
-68.80,Illinois,2010
-68.40,Illinois,2011
-66.80,Illinois,2012
-67.20,Illinois,2013
-66.40,Illinois,2014
-65.40,Illinois,2015
-65.30,Illinois,2016
-65.40,Illinois,2017
-66.00,Illinois,2018
-65.10,Illinois,2019
-67.30,Illinois,2020
-71.30,Iowa,1984
-69.90,Iowa,1985
-69.20,Iowa,1986
-67.70,Iowa,1987
-68.30,Iowa,1988
-69.60,Iowa,1989
-70.70,Iowa,1990
-68.40,Iowa,1991
-66.30,Iowa,1992
-68.20,Iowa,1993
-70.10,Iowa,1994
-71.40,Iowa,1995
-72.80,Iowa,1996
-72.70,Iowa,1997
-72.10,Iowa,1998
-73.90,Iowa,1999
-75.20,Iowa,2000
-76.60,Iowa,2001
-73.90,Iowa,2002
-73.40,Iowa,2003
-73.20,Iowa,2004
-73.90,Iowa,2005
-74.00,Iowa,2006
-73.70,Iowa,2007
-74.00,Iowa,2008
-72.40,Iowa,2009
-71.10,Iowa,2010
-71.20,Iowa,2011
-70.20,Iowa,2012
-69.80,Iowa,2013
-69.40,Iowa,2014
-68.80,Iowa,2015
-70.00,Iowa,2016
-70.00,Iowa,2017
-68.90,Iowa,2018
-69.50,Iowa,2019
-72.10,Iowa,2020
-72.70,Kansas,1984
-68.30,Kansas,1985
-66.40,Kansas,1986
-67.90,Kansas,1987
-68.60,Kansas,1988
-68.10,Kansas,1989
-69.00,Kansas,1990
-69.70,Kansas,1991
-69.80,Kansas,1992
-68.90,Kansas,1993
-69.00,Kansas,1994
-67.50,Kansas,1995
-67.50,Kansas,1996
-66.50,Kansas,1997
-66.70,Kansas,1998
-67.50,Kansas,1999
-69.30,Kansas,2000
-70.40,Kansas,2001
-70.30,Kansas,2002
-70.30,Kansas,2003
-69.90,Kansas,2004
-69.50,Kansas,2005
-70.00,Kansas,2006
-69.40,Kansas,2007
-68.80,Kansas,2008
-67.40,Kansas,2009
-67.40,Kansas,2010
-65.40,Kansas,2011
-63.20,Kansas,2012
-63.50,Kansas,2013
-64.70,Kansas,2014
-64.90,Kansas,2015
-67.10,Kansas,2016
-66.00,Kansas,2017
-67.30,Kansas,2018
-69.20,Kansas,2019
-69.50,Kansas,2020
-69.10,South Carolina,1984
-72.00,South Carolina,1985
-70.30,South Carolina,1986
-72.80,South Carolina,1987
-73.80,South Carolina,1988
-71.00,South Carolina,1989
-71.40,South Carolina,1990
-73.10,South Carolina,1991
-71.00,South Carolina,1992
-71.10,South Carolina,1993
-72.00,South Carolina,1994
-71.30,South Carolina,1995
-72.90,South Carolina,1996
-74.10,South Carolina,1997
-76.60,South Carolina,1998
-77.10,South Carolina,1999
-76.50,South Carolina,2000
-76.10,South Carolina,2001
-77.50,South Carolina,2002
-75.00,South Carolina,2003
-76.20,South Carolina,2004
-73.90,South Carolina,2005
-74.20,South Carolina,2006
-74.10,South Carolina,2007
-73.90,South Carolina,2008
-74.40,South Carolina,2009
-74.80,South Carolina,2010
-74.20,South Carolina,2011
-71.50,South Carolina,2012
-72.40,South Carolina,2013
-72.90,South Carolina,2014
-67.10,South Carolina,2015
-68.90,South Carolina,2016
-72.80,South Carolina,2017
-72.00,South Carolina,2018
-72.60,South Carolina,2019
-73.60,South Carolina,2020
-74.10,Maine,1984
-73.70,Maine,1985
-74.00,Maine,1986
-73.20,Maine,1987
-72.20,Maine,1988
-73.60,Maine,1989
-74.20,Maine,1990
-72.00,Maine,1991
-72.00,Maine,1992
-71.90,Maine,1993
-72.60,Maine,1994
-76.70,Maine,1995
-76.50,Maine,1996
-74.90,Maine,1997
-74.60,Maine,1998
-77.40,Maine,1999
-76.50,Maine,2000
-75.50,Maine,2001
-74.00,Maine,2002
-73.70,Maine,2003
-74.70,Maine,2004
-73.90,Maine,2005
-75.30,Maine,2006
-74.30,Maine,2007
-73.90,Maine,2008
-74.00,Maine,2009
-73.80,Maine,2010
-73.90,Maine,2011
-74.10,Maine,2012
-73.50,Maine,2013
-71.00,Maine,2014
-69.90,Maine,2015
-72.60,Maine,2016
-71.00,Maine,2017
-71.20,Maine,2018
-73.80,Maine,2019
-77.10,Maine,2020
-65.20,Wisconsin,1984
-63.80,Wisconsin,1985
-66.50,Wisconsin,1986
-68.20,Wisconsin,1987
-68.00,Wisconsin,1988
-69.30,Wisconsin,1989
-68.30,Wisconsin,1990
-68.90,Wisconsin,1991
-69.40,Wisconsin,1992
-65.70,Wisconsin,1993
-64.20,Wisconsin,1994
-67.50,Wisconsin,1995
-68.20,Wisconsin,1996
-68.30,Wisconsin,1997
-70.10,Wisconsin,1998
-70.90,Wisconsin,1999
-71.80,Wisconsin,2000
-72.30,Wisconsin,2001
-72.20,Wisconsin,2002
-72.80,Wisconsin,2003
-73.30,Wisconsin,2004
-71.10,Wisconsin,2005
-70.20,Wisconsin,2006
-70.50,Wisconsin,2007
-70.40,Wisconsin,2008
-70.40,Wisconsin,2009
-71.00,Wisconsin,2010
-68.50,Wisconsin,2011
-67.50,Wisconsin,2012
-68.50,Wisconsin,2013
-67.80,Wisconsin,2014
-66.60,Wisconsin,2015
-67.70,Wisconsin,2016
-68.00,Wisconsin,2017
-67.90,Wisconsin,2018
-66.10,Wisconsin,2019
-67.90,Wisconsin,2020
-64.70,Colorado,1984
-63.60,Colorado,1985
-63.70,Colorado,1986
-61.80,Colorado,1987
-60.10,Colorado,1988
-58.60,Colorado,1989
-59.00,Colorado,1990
-59.80,Colorado,1991
-60.90,Colorado,1992
-61.80,Colorado,1993
-62.90,Colorado,1994
-64.60,Colorado,1995
-64.50,Colorado,1996
-64.10,Colorado,1997
-65.20,Colorado,1998
-68.10,Colorado,1999
-68.30,Colorado,2000
-68.50,Colorado,2001
-68.90,Colorado,2002
-71.30,Colorado,2003
-71.10,Colorado,2004
-71.00,Colorado,2005
-70.10,Colorado,2006
-70.20,Colorado,2007
-69.00,Colorado,2008
-68.40,Colorado,2009
-68.50,Colorado,2010
-65.90,Colorado,2011
-65.30,Colorado,2012
-64.40,Colorado,2013
-65.00,Colorado,2014
-63.60,Colorado,2015
-62.40,Colorado,2016
-63.70,Colorado,2017
-64.40,Colorado,2018
-64.70,Colorado,2019
-64.90,Colorado,2020
-51.10,New York,1984
-50.30,New York,1985
-51.30,New York,1986
-52.00,New York,1987
-50.70,New York,1988
-52.30,New York,1989
-53.30,New York,1990
-52.60,New York,1991
-53.30,New York,1992
-52.80,New York,1993
-52.50,New York,1994
-52.70,New York,1995
-52.70,New York,1996
-52.60,New York,1997
-52.80,New York,1998
-52.80,New York,1999
-53.40,New York,2000
-53.90,New York,2001
-54.80,New York,2002
-54.30,New York,2003
-54.80,New York,2004
-55.90,New York,2005
-55.70,New York,2006
-55.90,New York,2007
-55.00,New York,2008
-54.40,New York,2009
-54.50,New York,2010
-53.60,New York,2011
-53.60,New York,2012
-53.00,New York,2013
-52.90,New York,2014
-51.50,New York,2015
-51.50,New York,2016
-51.10,New York,2017
-51.00,New York,2018
-52.00,New York,2019
-53.60,New York,2020
-69.70,Idaho,1984
-71.00,Idaho,1985
-69.80,Idaho,1986
-71.60,Idaho,1987
-71.50,Idaho,1988
-70.20,Idaho,1989
-69.40,Idaho,1990
-68.40,Idaho,1991
-70.30,Idaho,1992
-72.10,Idaho,1993
-70.70,Idaho,1994
-72.00,Idaho,1995
-71.40,Idaho,1996
-72.30,Idaho,1997
-72.60,Idaho,1998
-70.30,Idaho,1999
-70.50,Idaho,2000
-71.70,Idaho,2001
-73.00,Idaho,2002
-74.40,Idaho,2003
-73.70,Idaho,2004
-74.20,Idaho,2005
-75.10,Idaho,2006
-74.50,Idaho,2007
-75.00,Idaho,2008
-75.50,Idaho,2009
-72.40,Idaho,2010
-72.40,Idaho,2011
-73.00,Idaho,2012
-71.50,Idaho,2013
-69.60,Idaho,2014
-70.00,Idaho,2015
-70.50,Idaho,2016
-69.90,Idaho,2017
-69.20,Idaho,2018
-70.60,Idaho,2019
-71.50,Idaho,2020
-50.70,Hawaii,1984
-51.00,Hawaii,1985
-50.90,Hawaii,1986
-50.70,Hawaii,1987
-53.20,Hawaii,1988
-54.70,Hawaii,1989
-55.50,Hawaii,1990
-55.20,Hawaii,1991
-53.80,Hawaii,1992
-52.80,Hawaii,1993
-52.30,Hawaii,1994
-50.20,Hawaii,1995
-50.60,Hawaii,1996
-50.20,Hawaii,1997
-52.80,Hawaii,1998
-56.60,Hawaii,1999
-55.20,Hawaii,2000
-55.50,Hawaii,2001
-57.90,Hawaii,2002
-58.30,Hawaii,2003
-60.60,Hawaii,2004
-59.80,Hawaii,2005
-59.90,Hawaii,2006
-60.10,Hawaii,2007
-59.10,Hawaii,2008
-59.50,Hawaii,2009
-56.10,Hawaii,2010
-55.40,Hawaii,2011
-57.20,Hawaii,2012
-57.30,Hawaii,2013
-58.40,Hawaii,2014
-59.30,Hawaii,2015
-57.70,Hawaii,2016
-55.90,Hawaii,2017
-59.50,Hawaii,2018
-60.00,Hawaii,2019
-58.80,Hawaii,2020
-65.90,Arkansas,1984
-66.60,Arkansas,1985
-67.50,Arkansas,1986
-68.10,Arkansas,1987
-67.00,Arkansas,1988
-66.30,Arkansas,1989
-67.80,Arkansas,1990
-68.60,Arkansas,1991
-70.30,Arkansas,1992
-70.50,Arkansas,1993
-68.10,Arkansas,1994
-67.20,Arkansas,1995
-66.60,Arkansas,1996
-66.70,Arkansas,1997
-66.70,Arkansas,1998
-65.60,Arkansas,1999
-68.90,Arkansas,2000
-71.20,Arkansas,2001
-70.30,Arkansas,2002
-69.60,Arkansas,2003
-69.10,Arkansas,2004
-69.20,Arkansas,2005
-70.80,Arkansas,2006
-69.50,Arkansas,2007
-68.90,Arkansas,2008
-68.50,Arkansas,2009
-67.90,Arkansas,2010
-67.60,Arkansas,2011
-66.00,Arkansas,2012
-65.40,Arkansas,2013
-65.40,Arkansas,2014
-67.10,Arkansas,2015
-67.60,Arkansas,2016
-65.00,Arkansas,2017
-64.70,Arkansas,2018
-65.30,Arkansas,2019
-68.80,Arkansas,2020
-66.50,Florida,1984
-67.20,Florida,1985
-66.50,Florida,1986
-66.30,Florida,1987
-64.90,Florida,1988
-64.40,Florida,1989
-65.10,Florida,1990
-66.10,Florida,1991
-66.00,Florida,1992
-65.50,Florida,1993
-65.70,Florida,1994
-66.60,Florida,1995
-67.10,Florida,1996
-66.90,Florida,1997
-66.90,Florida,1998
-67.60,Florida,1999
-68.40,Florida,2000
-69.20,Florida,2001
-68.70,Florida,2002
-69.50,Florida,2003
-72.20,Florida,2004
-72.40,Florida,2005
-72.40,Florida,2006
-71.80,Florida,2007
-71.10,Florida,2008
-70.90,Florida,2009
-69.30,Florida,2010
-69.00,Florida,2011
-67.00,Florida,2012
-66.10,Florida,2013
-64.90,Florida,2014
-64.80,Florida,2015
-64.30,Florida,2016
-64.10,Florida,2017
-65.50,Florida,2018
-66.00,Florida,2019
-68.70,Florida,2020
-72.30,Mississippi,1984
-69.60,Mississippi,1985
-70.40,Mississippi,1986
-72.50,Mississippi,1987
-73.70,Mississippi,1988
-72.20,Mississippi,1989
-69.40,Mississippi,1990
-71.80,Mississippi,1991
-70.40,Mississippi,1992
-69.70,Mississippi,1993
-69.20,Mississippi,1994
-71.10,Mississippi,1995
-73.00,Mississippi,1996
-73.70,Mississippi,1997
-75.10,Mississippi,1998
-74.90,Mississippi,1999
-75.20,Mississippi,2000
-74.50,Mississippi,2001
-74.90,Mississippi,2002
-73.40,Mississippi,2003
-74.00,Mississippi,2004
-78.80,Mississippi,2005
-76.20,Mississippi,2006
-74.00,Mississippi,2007
-75.40,Mississippi,2008
-75.50,Mississippi,2009
-74.80,Mississippi,2010
-74.80,Mississippi,2011
-74.20,Mississippi,2012
-74.20,Mississippi,2013
-73.20,Mississippi,2014
-70.70,Mississippi,2015
-69.70,Mississippi,2016
-71.00,Mississippi,2017
-72.50,Mississippi,2018
-72.70,Mississippi,2019
-74.20,Mississippi,2020
-69.90,Indiana,1984
-67.60,Indiana,1985
-67.60,Indiana,1986
-69.10,Indiana,1987
-68.30,Indiana,1988
-68.20,Indiana,1989
-67.00,Indiana,1990
-66.10,Indiana,1991
-67.60,Indiana,1992
-68.70,Indiana,1993
-68.40,Indiana,1994
-71.00,Indiana,1995
-74.20,Indiana,1996
-74.10,Indiana,1997
-72.60,Indiana,1998
-72.90,Indiana,1999
-74.90,Indiana,2000
-75.30,Indiana,2001
-75.10,Indiana,2002
-74.40,Indiana,2003
-75.80,Indiana,2004
-75.00,Indiana,2005
-74.20,Indiana,2006
-73.80,Indiana,2007
-74.40,Indiana,2008
-72.00,Indiana,2009
-71.20,Indiana,2010
-72.10,Indiana,2011
-72.10,Indiana,2012
-71.70,Indiana,2013
-70.10,Indiana,2014
-69.40,Indiana,2015
-70.90,Indiana,2016
-70.00,Indiana,2017
-69.80,Indiana,2018
-69.50,Indiana,2019
-72.70,Indiana,2020
-37.30,District of Columbia,1984
-37.40,District of Columbia,1985
-34.60,District of Columbia,1986
-35.80,District of Columbia,1987
-37.50,District of Columbia,1988
-38.70,District of Columbia,1989
-36.40,District of Columbia,1990
-35.10,District of Columbia,1991
-35.00,District of Columbia,1992
-35.70,District of Columbia,1993
-37.80,District of Columbia,1994
-39.20,District of Columbia,1995
-40.40,District of Columbia,1996
-42.50,District of Columbia,1997
-40.30,District of Columbia,1998
-40.00,District of Columbia,1999
-41.90,District of Columbia,2000
-42.70,District of Columbia,2001
-44.10,District of Columbia,2002
-43.00,District of Columbia,2003
-45.60,District of Columbia,2004
-45.80,District of Columbia,2005
-45.90,District of Columbia,2006
-47.20,District of Columbia,2007
-44.10,District of Columbia,2008
-44.90,District of Columbia,2009
-45.60,District of Columbia,2010
-44.80,District of Columbia,2011
-45.00,District of Columbia,2012
-44.60,District of Columbia,2013
-41.50,District of Columbia,2014
-40.40,District of Columbia,2015
-40.80,District of Columbia,2016
-40.30,District of Columbia,2017
-39.90,District of Columbia,2018
-40.20,District of Columbia,2019
-42.50,District of Columbia,2020
-68.80,North Carolina,1984
-68.00,North Carolina,1985
-68.20,North Carolina,1986
-68.40,North Carolina,1987
-68.30,North Carolina,1988
-69.40,North Carolina,1989
-69.00,North Carolina,1990
-69.30,North Carolina,1991
-68.60,North Carolina,1992
-68.80,North Carolina,1993
-68.70,North Carolina,1994
-70.10,North Carolina,1995
-70.40,North Carolina,1996
-70.20,North Carolina,1997
-71.30,North Carolina,1998
-71.70,North Carolina,1999
-71.10,North Carolina,2000
-71.30,North Carolina,2001
-70.00,North Carolina,2002
-70.00,North Carolina,2003
-69.80,North Carolina,2004
-70.90,North Carolina,2005
-70.20,North Carolina,2006
-70.30,North Carolina,2007
-69.40,North Carolina,2008
-70.10,North Carolina,2009
-69.50,North Carolina,2010
-68.30,North Carolina,2011
-67.20,North Carolina,2012
-67.30,North Carolina,2013
-66.40,North Carolina,2014
-65.20,North Carolina,2015
-65.70,North Carolina,2016
-66.30,North Carolina,2017
-65.20,North Carolina,2018
-65.10,North Carolina,2019
-68.70,North Carolina,2020
+70.6,Kentucky,1994
+71.2,Kentucky,1995
+73.2,Kentucky,1996
+75,Kentucky,1997
+75.1,Kentucky,1998
+73.9,Kentucky,1999
+73.4,Kentucky,2000
+73.9,Kentucky,2001
+73.7,Kentucky,2002
+74.4,Kentucky,2003
+73.3,Kentucky,2004
+71.6,Kentucky,2005
+71.7,Kentucky,2006
+72.9,Kentucky,2007
+72.8,Kentucky,2008
+71.2,Kentucky,2009
+70.3,Kentucky,2010
+69.1,Kentucky,2011
+68.7,Kentucky,2012
+67.5,Kentucky,2013
+67.6,Kentucky,2014
+67.9,Kentucky,2015
+67.9,Kentucky,2016
+70.1,Kentucky,2017
+69.8,Kentucky,2018
+69.5,Kentucky,2019
+72.5,Kentucky,2020
+68.8,Wyoming,1984
+73.2,Wyoming,1985
+72,Wyoming,1986
+68.9,Wyoming,1987
+67.8,Wyoming,1988
+69.6,Wyoming,1989
+68.9,Wyoming,1990
+68.7,Wyoming,1991
+67.9,Wyoming,1992
+67.1,Wyoming,1993
+65.8,Wyoming,1994
+69,Wyoming,1995
+68,Wyoming,1996
+67.6,Wyoming,1997
+70,Wyoming,1998
+69.8,Wyoming,1999
+71,Wyoming,2000
+73.5,Wyoming,2001
+73,Wyoming,2002
+72.9,Wyoming,2003
+72.8,Wyoming,2004
+72.8,Wyoming,2005
+73.7,Wyoming,2006
+73.2,Wyoming,2007
+73.3,Wyoming,2008
+73.8,Wyoming,2009
+73.4,Wyoming,2010
+71.1,Wyoming,2011
+70.3,Wyoming,2012
+70.5,Wyoming,2013
+70.8,Wyoming,2014
+69.9,Wyoming,2015
+70.2,Wyoming,2016
+70.4,Wyoming,2017
+71.1,Wyoming,2018
+71.3,Wyoming,2019
+73.9,Wyoming,2020
+69.3,Nebraska,1984
+68.5,Nebraska,1985
+68.3,Nebraska,1986
+66.8,Nebraska,1987
+66.6,Nebraska,1988
+67.2,Nebraska,1989
+67.3,Nebraska,1990
+67.5,Nebraska,1991
+68.4,Nebraska,1992
+67.7,Nebraska,1993
+68,Nebraska,1994
+67.1,Nebraska,1995
+66.8,Nebraska,1996
+66.7,Nebraska,1997
+69.9,Nebraska,1998
+70.9,Nebraska,1999
+70.2,Nebraska,2000
+70.1,Nebraska,2001
+68.5,Nebraska,2002
+69.5,Nebraska,2003
+71.2,Nebraska,2004
+70.2,Nebraska,2005
+67.6,Nebraska,2006
+68.2,Nebraska,2007
+69.6,Nebraska,2008
+70.2,Nebraska,2009
+70.4,Nebraska,2010
+68.9,Nebraska,2011
+69.3,Nebraska,2012
+68.2,Nebraska,2013
+66.7,Nebraska,2014
+68.1,Nebraska,2015
+68,Nebraska,2016
+66.1,Nebraska,2017
+66.4,Nebraska,2018
+68.2,Nebraska,2019
+69.8,Nebraska,2020
+69.6,South Dakota,1984
+67.6,South Dakota,1985
+65.9,South Dakota,1986
+66.8,South Dakota,1987
+66.4,South Dakota,1988
+65.8,South Dakota,1989
+66.2,South Dakota,1990
+66.1,South Dakota,1991
+66.5,South Dakota,1992
+65.6,South Dakota,1993
+66.4,South Dakota,1994
+67.5,South Dakota,1995
+67.8,South Dakota,1996
+67.6,South Dakota,1997
+67.3,South Dakota,1998
+70.7,South Dakota,1999
+71.2,South Dakota,2000
+71.5,South Dakota,2001
+71.5,South Dakota,2002
+70.9,South Dakota,2003
+68.5,South Dakota,2004
+68.4,South Dakota,2005
+70.6,South Dakota,2006
+70.4,South Dakota,2007
+70.4,South Dakota,2008
+69.6,South Dakota,2009
+70.6,South Dakota,2010
+69.3,South Dakota,2011
+69.2,South Dakota,2012
+67.8,South Dakota,2013
+69.2,South Dakota,2014
+70.1,South Dakota,2015
+69.4,South Dakota,2016
+67.8,South Dakota,2017
+69.1,South Dakota,2018
+69.5,South Dakota,2019
+71.4,South Dakota,2020
+67.8,Maryland,1984
+65.6,Maryland,1985
+62.8,Maryland,1986
+62.7,Maryland,1987
+63.5,Maryland,1988
+65.5,Maryland,1989
+64.9,Maryland,1990
+63.8,Maryland,1991
+64.8,Maryland,1992
+65.5,Maryland,1993
+64.1,Maryland,1994
+65.8,Maryland,1995
+66.9,Maryland,1996
+70.5,Maryland,1997
+68.7,Maryland,1998
+69.6,Maryland,1999
+69.9,Maryland,2000
+70.7,Maryland,2001
+72,Maryland,2002
+71.6,Maryland,2003
+72.1,Maryland,2004
+71.2,Maryland,2005
+72.6,Maryland,2006
+71.7,Maryland,2007
+70.6,Maryland,2008
+69.6,Maryland,2009
+68.9,Maryland,2010
+69.7,Maryland,2011
+68.5,Maryland,2012
+66.9,Maryland,2013
+66.2,Maryland,2014
+67.1,Maryland,2015
+66.5,Maryland,2016
+66.9,Maryland,2017
+66.6,Maryland,2018
+68.8,Maryland,2019
+72,Maryland,2020
+68,New Mexico,1984
+68.2,New Mexico,1985
+67.8,New Mexico,1986
+67.2,New Mexico,1987
+65.4,New Mexico,1988
+65.5,New Mexico,1989
+68.6,New Mexico,1990
+69.5,New Mexico,1991
+70.5,New Mexico,1992
+69.1,New Mexico,1993
+66.8,New Mexico,1994
+67,New Mexico,1995
+67.1,New Mexico,1996
+69.6,New Mexico,1997
+71.3,New Mexico,1998
+72.6,New Mexico,1999
+73.7,New Mexico,2000
+70.8,New Mexico,2001
+70,New Mexico,2002
+70.3,New Mexico,2003
+71.5,New Mexico,2004
+71.4,New Mexico,2005
+72,New Mexico,2006
+71.5,New Mexico,2007
+70.4,New Mexico,2008
+69.1,New Mexico,2009
+68.6,New Mexico,2010
+69.1,New Mexico,2011
+66.8,New Mexico,2012
+67.3,New Mexico,2013
+66.3,New Mexico,2014
+66.5,New Mexico,2015
+67.4,New Mexico,2016
+66.6,New Mexico,2017
+68,New Mexico,2018
+67.4,New Mexico,2019
+70.3,New Mexico,2020
+58.9,Nevada,1984
+57,Nevada,1985
+54.5,Nevada,1986
+54.1,Nevada,1987
+54.3,Nevada,1988
+54.3,Nevada,1989
+55.8,Nevada,1990
+55.8,Nevada,1991
+55.1,Nevada,1992
+55.8,Nevada,1993
+55.8,Nevada,1994
+58.6,Nevada,1995
+61.1,Nevada,1996
+61.2,Nevada,1997
+61.4,Nevada,1998
+63.7,Nevada,1999
+64,Nevada,2000
+64.6,Nevada,2001
+65.3,Nevada,2002
+64.8,Nevada,2003
+65.7,Nevada,2004
+63.4,Nevada,2005
+65.7,Nevada,2006
+63.3,Nevada,2007
+63.6,Nevada,2008
+62.4,Nevada,2009
+59.7,Nevada,2010
+56.2,Nevada,2011
+55.7,Nevada,2012
+56,Nevada,2013
+56,Nevada,2014
+54.8,Nevada,2015
+54.5,Nevada,2016
+55,Nevada,2017
+57.8,Nevada,2018
+58.2,Nevada,2019
+61.2,Nevada,2020
+71,Oklahoma,1984
+70.5,Oklahoma,1985
+69.7,Oklahoma,1986
+70.9,Oklahoma,1987
+72.1,Oklahoma,1988
+71.4,Oklahoma,1989
+70.3,Oklahoma,1990
+69.2,Oklahoma,1991
+68.9,Oklahoma,1992
+70.3,Oklahoma,1993
+68.5,Oklahoma,1994
+69.8,Oklahoma,1995
+68.4,Oklahoma,1996
+68.5,Oklahoma,1997
+69.7,Oklahoma,1998
+71.5,Oklahoma,1999
+72.7,Oklahoma,2000
+71.5,Oklahoma,2001
+69.6,Oklahoma,2002
+69.1,Oklahoma,2003
+71.1,Oklahoma,2004
+72.9,Oklahoma,2005
+71.6,Oklahoma,2006
+70.3,Oklahoma,2007
+70.4,Oklahoma,2008
+69.6,Oklahoma,2009
+69.2,Oklahoma,2010
+69.4,Oklahoma,2011
+68.8,Oklahoma,2012
+69.9,Oklahoma,2013
+69.3,Oklahoma,2014
+67.4,Oklahoma,2015
+66.8,Oklahoma,2016
+68.9,Oklahoma,2017
+69.5,Oklahoma,2018
+68.8,Oklahoma,2019
+71,Oklahoma,2020
+61.7,Massachusetts,1984
+60.5,Massachusetts,1985
+60.3,Massachusetts,1986
+60.6,Massachusetts,1987
+60,Massachusetts,1988
+58.9,Massachusetts,1989
+58.6,Massachusetts,1990
+60.2,Massachusetts,1991
+61.8,Massachusetts,1992
+60.7,Massachusetts,1993
+60.6,Massachusetts,1994
+60.2,Massachusetts,1995
+61.7,Massachusetts,1996
+62.3,Massachusetts,1997
+61.3,Massachusetts,1998
+60.3,Massachusetts,1999
+59.9,Massachusetts,2000
+60.6,Massachusetts,2001
+62.6,Massachusetts,2002
+64.3,Massachusetts,2003
+63.8,Massachusetts,2004
+63.4,Massachusetts,2005
+65.2,Massachusetts,2006
+64.3,Massachusetts,2007
+65.7,Massachusetts,2008
+65.1,Massachusetts,2009
+65.3,Massachusetts,2010
+65.3,Massachusetts,2011
+65.8,Massachusetts,2012
+65.3,Massachusetts,2013
+63,Massachusetts,2014
+60.5,Massachusetts,2015
+59.7,Massachusetts,2016
+60,Massachusetts,2017
+61.5,Massachusetts,2018
+61.3,Massachusetts,2019
+62.7,Massachusetts,2020
+61.9,Oregon,1984
+61.5,Oregon,1985
+63.9,Oregon,1986
+64.6,Oregon,1987
+64,Oregon,1988
+63.4,Oregon,1989
+64.4,Oregon,1990
+65.2,Oregon,1991
+64.3,Oregon,1992
+63.8,Oregon,1993
+63.9,Oregon,1994
+63.2,Oregon,1995
+63.1,Oregon,1996
+61,Oregon,1997
+63.4,Oregon,1998
+64.3,Oregon,1999
+65.3,Oregon,2000
+65.8,Oregon,2001
+66.2,Oregon,2002
+68,Oregon,2003
+69,Oregon,2004
+68.2,Oregon,2005
+68.1,Oregon,2006
+65.7,Oregon,2007
+66.2,Oregon,2008
+68.2,Oregon,2009
+66.3,Oregon,2010
+66.4,Oregon,2011
+66.1,Oregon,2012
+64.2,Oregon,2013
+62.8,Oregon,2014
+61.1,Oregon,2015
+62.6,Oregon,2016
+61.8,Oregon,2017
+62,Oregon,2018
+62.4,Oregon,2019
+65.2,Oregon,2020
+72,West Virginia,1984
+75.9,West Virginia,1985
+76.4,West Virginia,1986
+72.5,West Virginia,1987
+73.2,West Virginia,1988
+74.8,West Virginia,1989
+72,West Virginia,1990
+72.4,West Virginia,1991
+73.3,West Virginia,1992
+73.3,West Virginia,1993
+73.7,West Virginia,1994
+73.1,West Virginia,1995
+74.3,West Virginia,1996
+74.6,West Virginia,1997
+74.8,West Virginia,1998
+74.8,West Virginia,1999
+75.9,West Virginia,2000
+76.4,West Virginia,2001
+77.2,West Virginia,2002
+78.1,West Virginia,2003
+80.3,West Virginia,2004
+81.3,West Virginia,2005
+78.4,West Virginia,2006
+77.6,West Virginia,2007
+77.8,West Virginia,2008
+78.7,West Virginia,2009
+79,West Virginia,2010
+78.7,West Virginia,2011
+75.8,West Virginia,2012
+76.8,West Virginia,2013
+75.6,West Virginia,2014
+74.9,West Virginia,2015
+74.8,West Virginia,2016
+75.1,West Virginia,2017
+74.7,West Virginia,2018
+75.6,West Virginia,2019
+78.2,West Virginia,2020
+60.9,Rhode Island,1984
+61.4,Rhode Island,1985
+62.2,Rhode Island,1986
+60.4,Rhode Island,1987
+62,Rhode Island,1988
+61.2,Rhode Island,1989
+58.5,Rhode Island,1990
+58.2,Rhode Island,1991
+56.8,Rhode Island,1992
+57.6,Rhode Island,1993
+56.5,Rhode Island,1994
+57.9,Rhode Island,1995
+56.6,Rhode Island,1996
+58.7,Rhode Island,1997
+59.8,Rhode Island,1998
+60.6,Rhode Island,1999
+61.5,Rhode Island,2000
+60.1,Rhode Island,2001
+59.4,Rhode Island,2002
+59.9,Rhode Island,2003
+61.5,Rhode Island,2004
+63.1,Rhode Island,2005
+64.6,Rhode Island,2006
+64.9,Rhode Island,2007
+64.5,Rhode Island,2008
+62.9,Rhode Island,2009
+62.8,Rhode Island,2010
+63.4,Rhode Island,2011
+62.1,Rhode Island,2012
+61.5,Rhode Island,2013
+61.8,Rhode Island,2014
+58.9,Rhode Island,2015
+56.3,Rhode Island,2016
+56.6,Rhode Island,2017
+60.7,Rhode Island,2018
+63.8,Rhode Island,2019
+64.5,Rhode Island,2020
+62.4,Illinois,1984
+60.6,Illinois,1985
+60.9,Illinois,1986
+61,Illinois,1987
+61.4,Illinois,1988
+61.9,Illinois,1989
+63,Illinois,1990
+63,Illinois,1991
+62.4,Illinois,1992
+61.8,Illinois,1993
+64.2,Illinois,1994
+66.4,Illinois,1995
+68.2,Illinois,1996
+68.1,Illinois,1997
+68,Illinois,1998
+67.1,Illinois,1999
+67.9,Illinois,2000
+69.4,Illinois,2001
+70.1,Illinois,2002
+70.7,Illinois,2003
+72.7,Illinois,2004
+70.9,Illinois,2005
+70.4,Illinois,2006
+69.4,Illinois,2007
+68.9,Illinois,2008
+69.1,Illinois,2009
+68.8,Illinois,2010
+68.4,Illinois,2011
+66.8,Illinois,2012
+67.2,Illinois,2013
+66.4,Illinois,2014
+65.4,Illinois,2015
+65.3,Illinois,2016
+65.4,Illinois,2017
+66,Illinois,2018
+65.1,Illinois,2019
+67.3,Illinois,2020
+71.3,Iowa,1984
+69.9,Iowa,1985
+69.2,Iowa,1986
+67.7,Iowa,1987
+68.3,Iowa,1988
+69.6,Iowa,1989
+70.7,Iowa,1990
+68.4,Iowa,1991
+66.3,Iowa,1992
+68.2,Iowa,1993
+70.1,Iowa,1994
+71.4,Iowa,1995
+72.8,Iowa,1996
+72.7,Iowa,1997
+72.1,Iowa,1998
+73.9,Iowa,1999
+75.2,Iowa,2000
+76.6,Iowa,2001
+73.9,Iowa,2002
+73.4,Iowa,2003
+73.2,Iowa,2004
+73.9,Iowa,2005
+74,Iowa,2006
+73.7,Iowa,2007
+74,Iowa,2008
+72.4,Iowa,2009
+71.1,Iowa,2010
+71.2,Iowa,2011
+70.2,Iowa,2012
+69.8,Iowa,2013
+69.4,Iowa,2014
+68.8,Iowa,2015
+70,Iowa,2016
+70,Iowa,2017
+68.9,Iowa,2018
+69.5,Iowa,2019
+72.1,Iowa,2020
+72.7,Kansas,1984
+68.3,Kansas,1985
+66.4,Kansas,1986
+67.9,Kansas,1987
+68.6,Kansas,1988
+68.1,Kansas,1989
+69,Kansas,1990
+69.7,Kansas,1991
+69.8,Kansas,1992
+68.9,Kansas,1993
+69,Kansas,1994
+67.5,Kansas,1995
+67.5,Kansas,1996
+66.5,Kansas,1997
+66.7,Kansas,1998
+67.5,Kansas,1999
+69.3,Kansas,2000
+70.4,Kansas,2001
+70.3,Kansas,2002
+70.3,Kansas,2003
+69.9,Kansas,2004
+69.5,Kansas,2005
+70,Kansas,2006
+69.4,Kansas,2007
+68.8,Kansas,2008
+67.4,Kansas,2009
+67.4,Kansas,2010
+65.4,Kansas,2011
+63.2,Kansas,2012
+63.5,Kansas,2013
+64.7,Kansas,2014
+64.9,Kansas,2015
+67.1,Kansas,2016
+66,Kansas,2017
+67.3,Kansas,2018
+69.2,Kansas,2019
+69.5,Kansas,2020
+69.1,South Carolina,1984
+72,South Carolina,1985
+70.3,South Carolina,1986
+72.8,South Carolina,1987
+73.8,South Carolina,1988
+71,South Carolina,1989
+71.4,South Carolina,1990
+73.1,South Carolina,1991
+71,South Carolina,1992
+71.1,South Carolina,1993
+72,South Carolina,1994
+71.3,South Carolina,1995
+72.9,South Carolina,1996
+74.1,South Carolina,1997
+76.6,South Carolina,1998
+77.1,South Carolina,1999
+76.5,South Carolina,2000
+76.1,South Carolina,2001
+77.5,South Carolina,2002
+75,South Carolina,2003
+76.2,South Carolina,2004
+73.9,South Carolina,2005
+74.2,South Carolina,2006
+74.1,South Carolina,2007
+73.9,South Carolina,2008
+74.4,South Carolina,2009
+74.8,South Carolina,2010
+74.2,South Carolina,2011
+71.5,South Carolina,2012
+72.4,South Carolina,2013
+72.9,South Carolina,2014
+67.1,South Carolina,2015
+68.9,South Carolina,2016
+72.8,South Carolina,2017
+72,South Carolina,2018
+72.6,South Carolina,2019
+73.6,South Carolina,2020
+74.1,Maine,1984
+73.7,Maine,1985
+74,Maine,1986
+73.2,Maine,1987
+72.2,Maine,1988
+73.6,Maine,1989
+74.2,Maine,1990
+72,Maine,1991
+72,Maine,1992
+71.9,Maine,1993
+72.6,Maine,1994
+76.7,Maine,1995
+76.5,Maine,1996
+74.9,Maine,1997
+74.6,Maine,1998
+77.4,Maine,1999
+76.5,Maine,2000
+75.5,Maine,2001
+74,Maine,2002
+73.7,Maine,2003
+74.7,Maine,2004
+73.9,Maine,2005
+75.3,Maine,2006
+74.3,Maine,2007
+73.9,Maine,2008
+74,Maine,2009
+73.8,Maine,2010
+73.9,Maine,2011
+74.1,Maine,2012
+73.5,Maine,2013
+71,Maine,2014
+69.9,Maine,2015
+72.6,Maine,2016
+71,Maine,2017
+71.2,Maine,2018
+73.8,Maine,2019
+77.1,Maine,2020
+65.2,Wisconsin,1984
+63.8,Wisconsin,1985
+66.5,Wisconsin,1986
+68.2,Wisconsin,1987
+68,Wisconsin,1988
+69.3,Wisconsin,1989
+68.3,Wisconsin,1990
+68.9,Wisconsin,1991
+69.4,Wisconsin,1992
+65.7,Wisconsin,1993
+64.2,Wisconsin,1994
+67.5,Wisconsin,1995
+68.2,Wisconsin,1996
+68.3,Wisconsin,1997
+70.1,Wisconsin,1998
+70.9,Wisconsin,1999
+71.8,Wisconsin,2000
+72.3,Wisconsin,2001
+72.2,Wisconsin,2002
+72.8,Wisconsin,2003
+73.3,Wisconsin,2004
+71.1,Wisconsin,2005
+70.2,Wisconsin,2006
+70.5,Wisconsin,2007
+70.4,Wisconsin,2008
+70.4,Wisconsin,2009
+71,Wisconsin,2010
+68.5,Wisconsin,2011
+67.5,Wisconsin,2012
+68.5,Wisconsin,2013
+67.8,Wisconsin,2014
+66.6,Wisconsin,2015
+67.7,Wisconsin,2016
+68,Wisconsin,2017
+67.9,Wisconsin,2018
+66.1,Wisconsin,2019
+67.9,Wisconsin,2020
+64.7,Colorado,1984
+63.6,Colorado,1985
+63.7,Colorado,1986
+61.8,Colorado,1987
+60.1,Colorado,1988
+58.6,Colorado,1989
+59,Colorado,1990
+59.8,Colorado,1991
+60.9,Colorado,1992
+61.8,Colorado,1993
+62.9,Colorado,1994
+64.6,Colorado,1995
+64.5,Colorado,1996
+64.1,Colorado,1997
+65.2,Colorado,1998
+68.1,Colorado,1999
+68.3,Colorado,2000
+68.5,Colorado,2001
+68.9,Colorado,2002
+71.3,Colorado,2003
+71.1,Colorado,2004
+71,Colorado,2005
+70.1,Colorado,2006
+70.2,Colorado,2007
+69,Colorado,2008
+68.4,Colorado,2009
+68.5,Colorado,2010
+65.9,Colorado,2011
+65.3,Colorado,2012
+64.4,Colorado,2013
+65,Colorado,2014
+63.6,Colorado,2015
+62.4,Colorado,2016
+63.7,Colorado,2017
+64.4,Colorado,2018
+64.7,Colorado,2019
+64.9,Colorado,2020
+51.1,New York,1984
+50.3,New York,1985
+51.3,New York,1986
+52,New York,1987
+50.7,New York,1988
+52.3,New York,1989
+53.3,New York,1990
+52.6,New York,1991
+53.3,New York,1992
+52.8,New York,1993
+52.5,New York,1994
+52.7,New York,1995
+52.7,New York,1996
+52.6,New York,1997
+52.8,New York,1998
+52.8,New York,1999
+53.4,New York,2000
+53.9,New York,2001
+54.8,New York,2002
+54.3,New York,2003
+54.8,New York,2004
+55.9,New York,2005
+55.7,New York,2006
+55.9,New York,2007
+55,New York,2008
+54.4,New York,2009
+54.5,New York,2010
+53.6,New York,2011
+53.6,New York,2012
+53,New York,2013
+52.9,New York,2014
+51.5,New York,2015
+51.5,New York,2016
+51.1,New York,2017
+51,New York,2018
+52,New York,2019
+53.6,New York,2020
+69.7,Idaho,1984
+71,Idaho,1985
+69.8,Idaho,1986
+71.6,Idaho,1987
+71.5,Idaho,1988
+70.2,Idaho,1989
+69.4,Idaho,1990
+68.4,Idaho,1991
+70.3,Idaho,1992
+72.1,Idaho,1993
+70.7,Idaho,1994
+72,Idaho,1995
+71.4,Idaho,1996
+72.3,Idaho,1997
+72.6,Idaho,1998
+70.3,Idaho,1999
+70.5,Idaho,2000
+71.7,Idaho,2001
+73,Idaho,2002
+74.4,Idaho,2003
+73.7,Idaho,2004
+74.2,Idaho,2005
+75.1,Idaho,2006
+74.5,Idaho,2007
+75,Idaho,2008
+75.5,Idaho,2009
+72.4,Idaho,2010
+72.4,Idaho,2011
+73,Idaho,2012
+71.5,Idaho,2013
+69.6,Idaho,2014
+70,Idaho,2015
+70.5,Idaho,2016
+69.9,Idaho,2017
+69.2,Idaho,2018
+70.6,Idaho,2019
+71.5,Idaho,2020
+50.7,Hawaii,1984
+51,Hawaii,1985
+50.9,Hawaii,1986
+50.7,Hawaii,1987
+53.2,Hawaii,1988
+54.7,Hawaii,1989
+55.5,Hawaii,1990
+55.2,Hawaii,1991
+53.8,Hawaii,1992
+52.8,Hawaii,1993
+52.3,Hawaii,1994
+50.2,Hawaii,1995
+50.6,Hawaii,1996
+50.2,Hawaii,1997
+52.8,Hawaii,1998
+56.6,Hawaii,1999
+55.2,Hawaii,2000
+55.5,Hawaii,2001
+57.9,Hawaii,2002
+58.3,Hawaii,2003
+60.6,Hawaii,2004
+59.8,Hawaii,2005
+59.9,Hawaii,2006
+60.1,Hawaii,2007
+59.1,Hawaii,2008
+59.5,Hawaii,2009
+56.1,Hawaii,2010
+55.4,Hawaii,2011
+57.2,Hawaii,2012
+57.3,Hawaii,2013
+58.4,Hawaii,2014
+59.3,Hawaii,2015
+57.7,Hawaii,2016
+55.9,Hawaii,2017
+59.5,Hawaii,2018
+60,Hawaii,2019
+58.8,Hawaii,2020
+65.9,Arkansas,1984
+66.6,Arkansas,1985
+67.5,Arkansas,1986
+68.1,Arkansas,1987
+67,Arkansas,1988
+66.3,Arkansas,1989
+67.8,Arkansas,1990
+68.6,Arkansas,1991
+70.3,Arkansas,1992
+70.5,Arkansas,1993
+68.1,Arkansas,1994
+67.2,Arkansas,1995
+66.6,Arkansas,1996
+66.7,Arkansas,1997
+66.7,Arkansas,1998
+65.6,Arkansas,1999
+68.9,Arkansas,2000
+71.2,Arkansas,2001
+70.3,Arkansas,2002
+69.6,Arkansas,2003
+69.1,Arkansas,2004
+69.2,Arkansas,2005
+70.8,Arkansas,2006
+69.5,Arkansas,2007
+68.9,Arkansas,2008
+68.5,Arkansas,2009
+67.9,Arkansas,2010
+67.6,Arkansas,2011
+66,Arkansas,2012
+65.4,Arkansas,2013
+65.4,Arkansas,2014
+67.1,Arkansas,2015
+67.6,Arkansas,2016
+65,Arkansas,2017
+64.7,Arkansas,2018
+65.3,Arkansas,2019
+68.8,Arkansas,2020
+66.5,Florida,1984
+67.2,Florida,1985
+66.5,Florida,1986
+66.3,Florida,1987
+64.9,Florida,1988
+64.4,Florida,1989
+65.1,Florida,1990
+66.1,Florida,1991
+66,Florida,1992
+65.5,Florida,1993
+65.7,Florida,1994
+66.6,Florida,1995
+67.1,Florida,1996
+66.9,Florida,1997
+66.9,Florida,1998
+67.6,Florida,1999
+68.4,Florida,2000
+69.2,Florida,2001
+68.7,Florida,2002
+69.5,Florida,2003
+72.2,Florida,2004
+72.4,Florida,2005
+72.4,Florida,2006
+71.8,Florida,2007
+71.1,Florida,2008
+70.9,Florida,2009
+69.3,Florida,2010
+69,Florida,2011
+67,Florida,2012
+66.1,Florida,2013
+64.9,Florida,2014
+64.8,Florida,2015
+64.3,Florida,2016
+64.1,Florida,2017
+65.5,Florida,2018
+66,Florida,2019
+68.7,Florida,2020
+72.3,Mississippi,1984
+69.6,Mississippi,1985
+70.4,Mississippi,1986
+72.5,Mississippi,1987
+73.7,Mississippi,1988
+72.2,Mississippi,1989
+69.4,Mississippi,1990
+71.8,Mississippi,1991
+70.4,Mississippi,1992
+69.7,Mississippi,1993
+69.2,Mississippi,1994
+71.1,Mississippi,1995
+73,Mississippi,1996
+73.7,Mississippi,1997
+75.1,Mississippi,1998
+74.9,Mississippi,1999
+75.2,Mississippi,2000
+74.5,Mississippi,2001
+74.9,Mississippi,2002
+73.4,Mississippi,2003
+74,Mississippi,2004
+78.8,Mississippi,2005
+76.2,Mississippi,2006
+74,Mississippi,2007
+75.4,Mississippi,2008
+75.5,Mississippi,2009
+74.8,Mississippi,2010
+74.8,Mississippi,2011
+74.2,Mississippi,2012
+74.2,Mississippi,2013
+73.2,Mississippi,2014
+70.7,Mississippi,2015
+69.7,Mississippi,2016
+71,Mississippi,2017
+72.5,Mississippi,2018
+72.7,Mississippi,2019
+74.2,Mississippi,2020
+69.9,Indiana,1984
+67.6,Indiana,1985
+67.6,Indiana,1986
+69.1,Indiana,1987
+68.3,Indiana,1988
+68.2,Indiana,1989
+67,Indiana,1990
+66.1,Indiana,1991
+67.6,Indiana,1992
+68.7,Indiana,1993
+68.4,Indiana,1994
+71,Indiana,1995
+74.2,Indiana,1996
+74.1,Indiana,1997
+72.6,Indiana,1998
+72.9,Indiana,1999
+74.9,Indiana,2000
+75.3,Indiana,2001
+75.1,Indiana,2002
+74.4,Indiana,2003
+75.8,Indiana,2004
+75,Indiana,2005
+74.2,Indiana,2006
+73.8,Indiana,2007
+74.4,Indiana,2008
+72,Indiana,2009
+71.2,Indiana,2010
+72.1,Indiana,2011
+72.1,Indiana,2012
+71.7,Indiana,2013
+70.1,Indiana,2014
+69.4,Indiana,2015
+70.9,Indiana,2016
+70,Indiana,2017
+69.8,Indiana,2018
+69.5,Indiana,2019
+72.7,Indiana,2020
+37.3,District of Columbia,1984
+37.4,District of Columbia,1985
+34.6,District of Columbia,1986
+35.8,District of Columbia,1987
+37.5,District of Columbia,1988
+38.7,District of Columbia,1989
+36.4,District of Columbia,1990
+35.1,District of Columbia,1991
+35,District of Columbia,1992
+35.7,District of Columbia,1993
+37.8,District of Columbia,1994
+39.2,District of Columbia,1995
+40.4,District of Columbia,1996
+42.5,District of Columbia,1997
+40.3,District of Columbia,1998
+40,District of Columbia,1999
+41.9,District of Columbia,2000
+42.7,District of Columbia,2001
+44.1,District of Columbia,2002
+43,District of Columbia,2003
+45.6,District of Columbia,2004
+45.8,District of Columbia,2005
+45.9,District of Columbia,2006
+47.2,District of Columbia,2007
+44.1,District of Columbia,2008
+44.9,District of Columbia,2009
+45.6,District of Columbia,2010
+44.8,District of Columbia,2011
+45,District of Columbia,2012
+44.6,District of Columbia,2013
+41.5,District of Columbia,2014
+40.4,District of Columbia,2015
+40.8,District of Columbia,2016
+40.3,District of Columbia,2017
+39.9,District of Columbia,2018
+40.2,District of Columbia,2019
+42.5,District of Columbia,2020
+68.8,North Carolina,1984
+68,North Carolina,1985
+68.2,North Carolina,1986
+68.4,North Carolina,1987
+68.3,North Carolina,1988
+69.4,North Carolina,1989
+69,North Carolina,1990
+69.3,North Carolina,1991
+68.6,North Carolina,1992
+68.8,North Carolina,1993
+68.7,North Carolina,1994
+70.1,North Carolina,1995
+70.4,North Carolina,1996
+70.2,North Carolina,1997
+71.3,North Carolina,1998
+71.7,North Carolina,1999
+71.1,North Carolina,2000
+71.3,North Carolina,2001
+70,North Carolina,2002
+70,North Carolina,2003
+69.8,North Carolina,2004
+70.9,North Carolina,2005
+70.2,North Carolina,2006
+70.3,North Carolina,2007
+69.4,North Carolina,2008
+70.1,North Carolina,2009
+69.5,North Carolina,2010
+68.3,North Carolina,2011
+67.2,North Carolina,2012
+67.3,North Carolina,2013
+66.4,North Carolina,2014
+65.2,North Carolina,2015
+65.7,North Carolina,2016
+66.3,North Carolina,2017
+65.2,North Carolina,2018
+65.1,North Carolina,2019
+68.7,North Carolina,2020
