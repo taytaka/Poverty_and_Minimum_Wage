@@ -40,6 +40,7 @@ CREATE TABLE economic_features_full (
 	homeownership_rate DECIMAL,
 	minimum_wage_effective DECIMAL,
 	CPI_Average DECIMAL,
+	inflation_rate DECIMAL,
 	avg_wage_index DECIMAL,
 	poverty_rate DECIMAL,
 	PRIMARY KEY ("year", "state")
@@ -59,6 +60,7 @@ CREATE TABLE economic_features (
 	homeownership_rate DECIMAL,
 	minimum_wage_effective DECIMAL,
 	CPI_Average DECIMAL,
+	inflation_rate DECIMAL,
 	avg_wage_index DECIMAL,
 	poverty_rate DECIMAL,
 	PRIMARY KEY ("year", "state")
