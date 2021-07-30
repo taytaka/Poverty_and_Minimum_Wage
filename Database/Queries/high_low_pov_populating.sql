@@ -722,3 +722,4 @@ WHERE e.state = 'Wyoming'
 ORDER BY e.poverty_rate DESC
 FETCH FIRST ROW ONLY;
 
+
