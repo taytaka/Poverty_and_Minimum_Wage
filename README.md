@@ -90,10 +90,6 @@ For future analysis it is recommended that the target feature be changed to see 
 - decision-making process
 - Explanation of model choice, including limitations and benefits
 
-##### database
-- provide an erd
-- talk about database normalization if done and the join (part of db normalization)
 
 ##### dashboard
 - storyboard on google slides (doing webpage, but slides for now)
-- description of tools that will be used to create final dashboard (GitHub pages, html, css, js, etc)
