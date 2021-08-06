@@ -65,7 +65,7 @@ Data exploration included investigating the relationship between independent var
 
 
 ## Database
-Amazons RDS for PostgreSQL is used to store the database. The database includes tables for each of the features and corresponding data, as well as the final tables containing an aggregate of all features with and without NA values.  These tables were queried to populate two new tables, `lowest_poverty_rates` containing the set of data for that state's lowest poverty rate, and `highest_poverty_rates` containing the set of data for that state's highest poverty rate. These were joined together in a new table, `high_low_poverty`. All tables are connected by primary/foreign key as the combination of the year and state. Using SQLAlchemy, a connection to the database was established to pull data to use for the machine learning portion of the project. 
+Amazons RDS for PostgreSQL is used to store the database. All of our data was combined into one dataset, which was imported into the `economic_features_full` table. This table was used to create two new tables, `features_table` and `target_table`. The `features_table` contains all the information for the features used in the machine learning model to target poverty rates. The `target_table` contained the `year`, `state`, and `poverty_rate` information used as a target for our machine learning model. These two tables were then joined into an `economic_features` table containing all the data, without any rows containing null values. Finally, a `high_low_poverty` table was created and populated using the data from the `economic_features` table. This table contains the data for each state for the year with the highest and lowest poverty rates.
 
 
 ## Machine Learning
