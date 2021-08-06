@@ -7,7 +7,6 @@ This project analyzes if and how major economic indicators: population, educatio
 Looking at the economic situation of the US during and coming out of COVID, it is of interest to evaluate which economic indicators most affect poverty levels and if these economic indicators can be used to predict poverty rates.
 
 ## Data Sources
-We are looking at data pulled from:
 - Population & Education and Welfare Spending, usgovernmentspending.com https://www.usgovernmentspending.com/download_multi_year  
 - Crime Rate, FBI Crime Data Explorer https://crime-dataexplorer.app.cloud.gov/pages/explorer/crime/crime-trend
 - Unemployment Rate, Bureau of Labor Statistics https://www.bls.gov/lau/
