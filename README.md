@@ -24,7 +24,7 @@ We are looking at data pulled from:
 - How does adjusting certain economic indicators affect the poverty rate?
 
 ## Communication Protocols
-We have decided to use Slack as our main communication method. In the event of a technical issue or emergency, we have exchanged emails and phone numbers to stay connected. A Google Doc was created by Jose to outline our project and clarify the roles each team member will take on for each portion of the first segment deliverable.
+We used Slack as our main communication method. In the event of a technical issue or emergency, we exchanged emails and phone numbers to stay connected. A Google Doc was created to outline our project and clarify the roles each team member will take on for each portion of the first segment deliverable.
 
 ## Team Members
 Ha Duong, Kyle Gee, Jose Orellana, Jeanette Perthel, and Taylor Takanishi
@@ -36,7 +36,8 @@ Ha Duong, Kyle Gee, Jose Orellana, Jeanette Perthel, and Taylor Takanishi
 - Ha Duong and Jeanette Perthal collaborated on the web page and visualizations
 - Circle: Kyle Gee established the AWS RDS database and SQL schema
 - X: All members of the team participated in the selection of technologies and tools used in this project. Each role provided input for machine learning, data cleaning and analysis, database storage, web page and dashboards
-- Presentation: All members of the team participated in presentation preparation
+- Project outline: Jose Orellana created the initial outline for the project
+- Presentation: All members of the team participated in presentation preparation 
 
 ## Technologies Used
 The following technologies will be used for this project:
@@ -53,7 +54,7 @@ The following technologies will be used for this project:
 - Machine learning models were used to predict poverty levels
 - A Flask application is used to display data visualizations a webpage. It includes Tableau, JavaScript, HTML, and CSS.
 
-## Data Collection, Processing, and Exploration
+## Data Collection, Exploration, and Processing
 The datasets chosen for this project were inspired by relevant literature and research on poverty in the United States, including articles from the US census, Bureau of Labor Statistics (BLS) and the U.S. Department of Health and Human Services. Data was collected from various reliable sources, specifically from government agencies such as Social Security Administration, US Census Bureau, CDC, BLS, Federal Reserve Bank (FRB), and the FBI. The intention of this project is to evaluate how major economic indicators (independent variables) affect poverty rates (target variable) on a national and state level. 
 
 Data for each feature was collected individually on a state and national level.  A single CSV file was aggregated from data from each state for each feature. Some features were collected from multiple sources, because specific years for certain features needed to be found through various sources. Datasets for each state and feature were considered based on the range of years, data format provided by each source, and general availability.  
@@ -68,10 +69,10 @@ Amazons RDS for PostgreSQL is used to store the database. The database includes 
 ## Machine Learning
 <Explanation of model choice, including limitations and benefits -- Remove later>
 
-### Decision-Making Process
+### Decision Making Process
 Since the objective of this project is to evaluate how various economic factors affect poverty levels where the poverty rate is continuous variable, we chose to use linear regression and decision tree regressor techniques to model the relationship between these variables. The independent variables, or features, were the economic measures used to predict the model: population, education spending, welfare spending, crime rate, unemployment rate, divorce rate, homeownership rate, effective minimum wage, average wage index, consumer price index (CPI), and inflation rate. The dependent variable was the outcome or poverty rate that the models were attempting to predict using the independent variables as inputs.
 
-### Benefits
+### Model Choice & Benefits
 We also evaluated and prototyped the logistics and deep learning models, ultimately selecting linear regression and decision tree regressor as the most applicable models to perform the predictive regression analysis to meet the project objective for the following reasons: 
 
 - Linear regression demonstrates the linear relationship between the dependent variable and independent variables and produces the "line of best fit" that represents the dataset. It also indicates the significant relationships and strength of impacts of the multiple independent variables on a dependent variable.
@@ -81,7 +82,6 @@ We also evaluated and prototyped the logistics and deep learning models, ultimat
 - Linear regression assumes that there is linearity between the dependent and independent variables which is not always reflected in the real world.
 - The datasets sourced were missing data for some states which required additional data sourcing.
 - The number of rows were limited for each state. We addressed this limitation by aggregating the data for all states and national into one dataset.
-
 
 #### Multiple Linear Regression
 For the linear regression model, we used the connection string to the database and loaded in the `economic_features_full` table into a dataframe. From here, the `education_million` and `welfare_million` columns were used to create `education_per_capita` and `welfare_per_capita` columns and then the `education_million` and `welfare_million` columns were dropped to normalize the dataset. The features used are:`population_million`, `crime_rate`, `unemployment_rate`, `divorce_rate_per_1000_people`, `homeownership_rate`, `minimum_wage_effective`, `cpi_average`, `inflation_rate`, `avg_wage_index`, `education_per_capita`, `welfare_per_capita`, and the target variable is `poverty_rate`. A function was created to train a linear regression model for each state. Using scikit-learn's `train_test_split`, the data was split into a 90-10 train/test ratio then trained and tested. The predicted values were then plotted for each state on a line plot containing the actual values and predicted values, with the predicted values for the testing data shown as red dots. Finally, a dataframe was created to display the coefficients, intercept, mean absolute error, mean squared error, model type, R2 score, R2 ridge score, and delta R2 for the models of each state.
@@ -100,7 +100,8 @@ Next, a `DecisionTreeRegressor` was used to create a model for the entire datase
 For future analysis it is recommended that the target feature be changed to see if some features are easier to predict than others. Additionally, a forecasting model can be created based on years where each feature can have a model that can predict the feature's value based on an input year and all of the feature's predictions for that year can be fed into the machine learning model to predict the poverty rate for that year.
 
 ### Analysis
-Becuase of the nature of the data, it is difficult to look at all of the data together and find correlations. Each state has its own laws and regulations concerning most of the features, which was found to greatly impact the correlation between states, economic indicators, and poverty rate. The best way to look at our data is found in `Data_Preprocessing/Exploratory_Analysis/Exploratory_plotting_dataset.ipynb` and `Data_Preprocessing/Exploratory_Analysis/Exploratory_Data_Analysis_Initial.ipynb`. To compare the importance of the features, scatter plots were created with a line of best fit to clearly show correlation between a feature and state. Each state had a different "best" feature (the feature which was most closely related to poverty rate), which meant the machine learning model will need to be trained separately on each state individually so the most accurate prediction is made.
+Because of the nature of the data, it is difficult to look at all of the data together and find correlations. Each state has its own laws and regulations concerning most of the features, which was found to greatly impact the correlation between states, economic indicators, and poverty rate. The best way to look at our data is found in `Data_Preprocessing/Exploratory_Analysis/Exploratory_plotting_dataset.ipynb` and `Data_Preprocessing/Exploratory_Analysis/Exploratory_Data_Analysis_Initial.ipynb`. To compare the importance of the features, scatter plots were created with a line of best fit to clearly show correlation between a feature and state. Each state had a different "best" feature (the feature which was most closely related to poverty rate), which meant the machine learning model will need to be trained separately on each state individually so the most accurate prediction is made.
+
 
 ### Presentation and Visualization
 The results of this project will be displayed in a webpage. The page will include the analysis of the results, interactive and static graphs, interactive tables, and an interactive poverty predictor. For the interactive graphs, the user will be able to select the state(s) and feature(s) they wish to see a historical line plot of. An example of the static graphs is a heatmap of a correlation matrix for the economic features, displaying how strong, or weak, of a relationship there is with each of the other features. For the poverty predictor, the user will pick a state, which will select the saved machine learning model for that state. They will then be able to adjust the values of the features, and these customized features will be fed into the trained machine learning model to predict the poverty rate for the users customized features.
