@@ -67,42 +67,92 @@ Data exploration included investigating the relationship between independent var
 ## Database
 Amazons RDS for PostgreSQL is used to store the database. The database includes tables for each of the features and corresponding data, as well as the final tables containing an aggregate of all features with and without NA values.  These tables were queried to populate two new tables, `lowest_poverty_rates` containing the set of data for that state's lowest poverty rate, and `highest_poverty_rates` containing the set of data for that state's highest poverty rate. These were joined together in a new table, `high_low_poverty`. All tables are connected by primary/foreign key as the combination of the year and state. Using SQLAlchemy, a connection to the database was established to pull data to use for the machine learning portion of the project. 
 
-
 ## Machine Learning
-<Explanation of model choice, including limitations and benefits -- Remove later>
-### Decision Making Process
-Since the objective of this project is to evaluate how various economic factors affect poverty levels where the poverty rate is continuous variable, we chose to use linear regression and decision tree regressor techniques to model the relationship between these variables. The independent variables, or features, were the economic measures used to predict the model: population, education spending, welfare spending, crime rate, unemployment rate, divorce rate, homeownership rate, effective minimum wage, average wage index, consumer price index (CPI), and inflation rate. The dependent variable was the outcome or poverty rate that the models were attempting to predict using the independent variables as inputs.
+
+### Overall Vision
+
+Use ML to forecast poverty rate based on an user entered set of features (input values).
+
+### Approach
+
+We identified four machine models to experiment with and created templates for each - linear regression, ridge linear regression, deep learning and decision tree regressor models. 
+
+Linear regression and decision tree regressor were selected because we want to predict a continuous dependent variable with the help of independent variables.
+Since the objective of this project is to model the relationship between various socio-economic factors and poverty rates,  and all the factors and poverty rate are continuous variable.
+
+The independent variables, or features, included the following socio-economic measures for each state as well as the national level:
+
+- population,
+- education spending,
+- welfare spending, 
+- crime rate, 
+- unemployment rate, 
+- divorce rate, 
+- homeownership rate, 
+- effective minimum wage, 
+- average wage index, 
+- consumer price index (CPI), 
+- and inflation rate.
+
+The dependent variable (target) was the poverty rate.
 
 ### Model Choice & Benefits
-We also evaluated and prototyped the logistics and deep learning models, ultimately selecting linear regression and decision tree regressor as the most applicable models to perform the predictive regression analysis to meet the project objective for the following reasons: 
 
-- Linear regression demonstrates the linear relationship between the dependent variable and independent variables and produces the "line of best fit" that represents the dataset. It also indicates the significant relationships and strength of impacts of the multiple independent variables on a dependent variable.
+We also evaluated and prototyped the regressions and deep learning models, ultimately selecting linear regression, linear ridge regression and decision tree regressor as the most applicable models to perform further analysis to meet the project objective for the following reasons:
+
+- Linear regression demonstrates the numeric relationship between the dependent variable and independent variables and produces the "line of best fit" (or hyperplane as in the case with multi-variable models) that represents the dataset. It also indicates the significant relationships and strength of impact of the multiple independent variables on the dependent variable.
 - Decision tree regressor model supports both classification and regression problems. Decision tree algorithms are particularly useful for complex datasets and has the added advantages of requiring less data cleaning, non-linearity does not affect the model's performance and the number of hyper-parameters to be tuned is minimal.
 
 #### Multiple Linear Regression
-For the linear regression model, we used the connection string to the database and loaded in the `economic_features_full` table into a dataframe. From here, the `education_million` and `welfare_million` columns were used to create `education_per_capita` and `welfare_per_capita` columns and then the `education_million` and `welfare_million` columns were dropped to normalize the dataset. The features used are:`population_million`, `crime_rate`, `unemployment_rate`, `divorce_rate_per_1000_people`, `homeownership_rate`, `minimum_wage_effective`, `cpi_average`, `inflation_rate`, `avg_wage_index`, `education_per_capita`, `welfare_per_capita`, and the target variable is `poverty_rate`. A function was created to train a linear regression model for each state. Using scikit-learn's `train_test_split`, the data was split into a 90-10 train/test ratio then trained and tested. The predicted values were then plotted for each state on a line plot containing the actual values and predicted values, with the predicted values for the testing data shown as red dots. Finally, a dataframe was created to display the coefficients, intercept, mean absolute error, mean squared error, model type, R2 score, R2 ridge score, and delta R2 for the models of each state.
 
-(explain model choice including limitation and benefits)
-(Should save the models to be used for predictive interactive portion of webpage)
-(Do we still have the dataframe with all of the info listed in the last sentence above? If not, that should be deleted)
+We used two linear models from the scikit-learn library:  `LinearRegression` and `Ridge`. They both are ordinary least square regression models, however the Ridge Regression includes a penalty term on the weights of the loss function that reduces the standard error under certain conditions (multicollinearity).
+
+For the linear regression model, we used the connection string to the database and loaded in the `economic_features_full` table into a dataframe. From here, the `education_million` and `welfare_million` columns were used to create `education_per_capita` and `welfare_per_capita` columns. 
+The `population_million`, `education_million` and `welfare_million` columns were dropped. The features used are: `crime_rate`, `unemployment_rate`, `divorce_rate_per_1000_people`, `homeownership_rate`, `minimum_wage_effective`, `cpi_average`, `inflation_rate`, `avg_wage_index`, `education_per_capita`, `welfare_per_capita`, and the target variable is `poverty_rate`. 
+
+A function was created to train a linear regression model for each state. Using scikit-learn's `train_test_split`, the data was split into a 90-10 train/test ratio then trained and tested. The predicted values were then plotted for each state on a line plot containing the actual values and predicted values, with the predicted values for the testing data clearly identified. 
+
+Finally, a dataframe was created to display the coefficients, intercept, mean absolute error, mean squared error, model type, R2 score, R2 ridge score, and delta R2 for the models of each state.
+
+It was determined that the `LinearRegression` model provided higher r2 scores for more states than the `Ridge` model.  We focused on the `LinearRegression` model for the rest of the decision.
 
 #### Decision Tree Regressor
-After connecting to the database via SQLAlchemy, the dataset `economic_features` was loaded. The `state` and `year` columns were dropped, as they would not be used as features in the `DecisionTreeRegressor` model. The `education_million` and `welfare_million` columns were used to create the `education_per_capita` and `welfare_per_capita` columns, then dropped. A function was then created to train a `DecisionTreeRegressor` model for every state, and the r2_score was saved and added to the `state_scores` dataframe which showed the state name and the corresponding r2_score for that state's model. The models were then saved using Pickle. 
+
+After connecting to the database via SQLAlchemy, the dataset `economic_features` was loaded. The `state` and `year` columns were dropped, as they would not be used as features in the `DecisionTreeRegressor` model. The `population_million`, `education_million` and `welfare_million` columns were used to create the `education_per_capita` and `welfare_per_capita` columns, then dropped. A function was then created to train a `DecisionTreeRegressor` model for every state, and the r2_score was saved and added to the `state_scores` dataframe which showed the state name and the corresponding r2_score for that state's model.
 
 Next, a `DecisionTreeRegressor` was used to create a model for the entire dataset, where the score was added to the `state_scores` as `"Entire"`, and the model was saved using Pickle. These models were trained and tested using `train_test_split()`, with a training size of 0.8. A function called `display_metrics` was created to take in a state name and output its R-Squared value and the models ranked feature importance. The `DecisionTreeRegressor` worked very well for most states, but very poorly for others. Dropping column(s) would increase the accuracy for some, while worsening the score for others and a few states would have very poor scores regardless of how the model was adjusted. This led to the conclusion that decision tree regressor would not be as effective model as the linear regression model.
 
+### Benefits
+
+The benefits we observed of using a linear model were:
+
+- provided a continuous variable output
+- used continuous variables as inputs
+- we were able to cross-check correlation values of the features to the target versus the coefficients produced by the model.
+
 ### Limitations
+
+- Some of the data sourced had gaps for some states for some early or late years.  This meant that the final dataset had to be reduced to the years where all features and target were available.
 - Linear regression assumes that there is linearity between the dependent and independent variables which is not always reflected in the real world.
-- The datasets sourced were missing data for some states which required additional data sourcing.
-- The number of rows were limited for each state. We addressed this limitation by aggregating the data for all states and national into one dataset.
+- We discovered that different states have different correlations between the poverty_rates and the feature variables.  This could be due to many factors including state regulations, differences in data gathering as well as the general socio-economic outlook of the state.
+- The above point meant that models had to be created at the state level and that the number of rows (data points) were limited for each state.
 
-### Recommendations For Future Analysis
-For future analysis it is recommended that the target feature be changed to see if some features are easier to predict than others. Additionally, a forecasting model can be created based on years where each feature can have a model that can predict the feature's value based on an input year and all of the feature's predictions for that year can be fed into the machine learning model to predict the poverty rate for that year.
+To overcome some of these limitations, we took the following steps:
 
+- We sourced additional data for the missing years and added it to the database and re-ran our models.
+- We evaluated models and discarded those states that do not have a good relationship between features and target. We used the r2 score as the basis for the selection.
+
+### Recommendations For Future Improvements
+
+For future analysis it is recommended that additional features be obtained and added to the model. For example, median wage was not easily obtained at the state level for the desired timeframe.
+
+Increasing the granularity of some features, such as `divorce_rate` may also improve the model for certain states.
+
+Additionally, a forecasting model can be created based on years where each feature can have a model that can predict the feature's value based on an input year and all of the feature's predictions for that year can be fed into the machine learning model to predict the poverty rate for that year.
 
 ## Analysis
-Because of the nature of the data, it is difficult to look at all of the data together and find correlations. Each state has its own laws and regulations concerning most of the features, which was found to greatly impact the correlation between states, economic indicators, and poverty rate. The best way to look at our data is found in `Data_Preprocessing/Exploratory_Analysis/Exploratory_plotting_dataset.ipynb` and `Data_Preprocessing/Exploratory_Analysis/Exploratory_Data_Analysis_Initial.ipynb`. To compare the importance of the features, scatter plots were created with a line of best fit to clearly show correlation between a feature and state. Each state had a different "best" feature (the feature which was most closely related to poverty rate), which meant the machine learning model will need to be trained separately on each state individually so the most accurate prediction is made.
 
+Because of the nature of the data, it is difficult to look at all of the data together and understand the relationship. Each state has its own laws and regulations concerning most of the features, which was found to greatly impact the correlation between states, economic indicators, and poverty rate. The best way to look at our data is found in `Data_Preprocessing/Exploratory_Analysis/Exploratory_plotting_dataset.ipynb` and `Data_Preprocessing/Exploratory_Analysis/Exploratory_Data_Analysis_Initial.ipynb`. To compare the importance of the features, scatter plots were created with a line of best fit to clearly show correlation between a feature and state. Each state had a different "best" feature (the feature which was most closely related to poverty rate), which meant the machine learning model will need to be trained separately on each state individually so the most accurate prediction is made.
 
 ## Presentation and Visualization
 The results of this project will be displayed in a webpage. The page will include the analysis of the results, interactive and static graphs, interactive tables, and an interactive poverty predictor. For the interactive graphs, the user will be able to select the state(s) and feature(s) they wish to see a historical line plot of. An example of the static graphs is a heatmap of a correlation matrix for the economic features, displaying how strong, or weak, of a relationship there is with each of the other features. For the poverty predictor, the user will pick a state, which will select the saved machine learning model for that state. They will then be able to adjust the values of the features, and these customized features will be fed into the trained machine learning model to predict the poverty rate for the users customized features.
