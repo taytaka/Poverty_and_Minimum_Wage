@@ -1,19 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Historical Trends</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
     integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" />
-  <link rel="stylesheet" href="static/css/style.css">
+  <!-- <link rel="stylesheet" href="static/css/style.css"> -->
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="">
+  <!-- <link rel="stylesheet" href=""> -->
 </head>
 
 <body>
+  <div class="jumbotron">
+    <h2 class="text-center">Historical Trends of Economic Indicators</h2>
+  </div>
+  <!--Navigation Bar-->
+  <ul class="nav justify-content-center">
+    <li class="nav-item">
+      <a class="nav-link active" href="/">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="trends">Historical Trends</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="forecast">Predicting Poverty Rate</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" href="maps">Maps</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" href="about">About Us</a>
+    </li>
+  </ul>
+  <div class="container">
+    <div class="text-right">
+      <select name="chartType" id="chartType">
+        <option value="viz1627948901366">Poverty Rates</option>
+        <option value="viz1628120835791">Crime Rates</option>
+        <option value="viz1628121757142">Minimum Wage</option>
+        <option value="viz1628121231049">Unemployment Rates</option>
+        <option value="viz1628121570123">Homeownership Rates</option>
+        <option value="viz1628129719699">Crime Rate vs. Poverty Rate</option>
+        <option value="viz1628129880623">Avg Wage Index vs. Poverty Rate</option>
+        <option value="viz1628130038227">Homeownership vs. Poverty Rate</option>
+        <option value="viz1628130172163">Divorce Rate vs. Poverty Rate</option>
+      </select>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="chart">
 
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type='text/javascript' src="../static/js/trendsTab.js">
+
+  </script>
 </body>
 
 </html>
