@@ -10,8 +10,6 @@
 <title>Predicting Poverty</title>
 
 <!--Importing Bootstrap-->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-  integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" />
 <link rel="stylesheet" href="static/css/style.css">
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -33,9 +31,7 @@
 <!-- <link href="../static/css/style.css" rel="stylesheet"> -->
 ​
 <style>
-  .jumbotron {
-    color: white;
-    background-color: green;
+  .jumbotron {color: white;
   }
 </style>
 ​
@@ -46,104 +42,111 @@
 <body>
   <nav></nav>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-    </nav>
-    <div class="jumbotron jumbotron-fluid, bg-primary">
-      <div class="container">
-        <h1 class="display-4">Predicting Poverty Rates with Machine
-          Learning </h1>
-        <ul class="nav justify-content-center">
-          <p class="lead">Economic Trends and Poverty Rates in the
-            United States</p>
-      </div>
+  </nav>
+  <div class="jumbotron jumbotron-fluid, bg-primary">
+    <div class="container">
+      <h1 class="display-4">Predicting Poverty Rates with Machine
+        Learning </h1>
+      <ul class="nav justify-content-center">
+        <p class="lead">Economic Trends and Poverty Rates in the
+          United States</p>
     </div>
-    <!--Navigation Bar-->
-    <ul class="nav justify-content-center">
-      <li class="nav-item">
-        <a class="nav-link active" href="/">Home</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="trends">Historical Trends</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="forecast">Predicting Poverty Rate</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link active" href="maps">Maps</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link active" href="about">About Us</a>
-      </li>
-    </ul>
-    <br>
-    <hr style="border: 1px solid #F8F8FF;" />
-    <br>
+  </div>
+  <!--Navigation Bar-->
+  <ul class="nav justify-content-center">
+    <li class="nav-item">
+      <a class="nav-link btn btn-outline-primary active" href="/">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link btn btn-outline-danger" href="trends">Historical Trends</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link btn btn-outline-success" href="forecast">Predicting Poverty Rate</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link btn btn-outline-info" href="maps">Maps</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link btn btn-outline-warning" href="about">About Us</a>
+    </li>
+  </ul>
+  <br>
+  <hr style="border: 1px solid #F8F8FF;" />
+  <br>
 
-    <!-- Start About Section 1-->
-    <div class="container-fluid padding">
-      <div class="row welcome text-center">
-        <hr>
-        <div class="col-12">
-          <h2>Project Overview</h2>
-          <p class="lead"> The intention of this project is to evaluate
-            how major economic indicators (independent variables) affect
-            poverty rates (continuous dependent variable) on the national
-            and state level. This project analyzes if and how major
-            economic factors such as population, education spending,
-            welfare spending, crime rate, unemployment rate, divorce rate,
-            homeownership rate, effective minimum wage, average wage
-            index, consumer price index (CPI), and inflation rate can
-            predict poverty rates in the United States.
-​
-            Multiple linear regression and decision tree regressor machine
-            learning models were used to model the relationship between
-            the multiple economic indicators and poverty level, and
-            forecast the poverty rate based on these factors. Data sourced
-            from numerous CSV files was read into Jupyter Notebook and
-            Google Colaboratory and transformed using Python and Pandas,
-            then loaded into Amazon RDS and a PostgresSQL database on the
-            cloud. A Flask application was used to display the project
-            analysis and data visualizations built using Tableau,
-            JavaScript and CSS on webpages.</p>
+  <!-- Start About Section 1-->
+  <div class="container-fluid padding">
+    <div class="row welcome text-center">
+      <hr>
+      <div class="col-6">
+        <h2>Project Overview</h2>
+        <p class="lead"> The intention of this project is to evaluate
+          how major economic indicators (independent variables) affect
+          poverty rates (continuous dependent variable) on the national
+          and state level. This project analyzes if and how major
+          economic factors such as population, education spending,
+          welfare spending, crime rate, unemployment rate, divorce rate,
+          homeownership rate, effective minimum wage, average wage
+          index, consumer price index (CPI), and inflation rate can
+          predict poverty rates in the United States.
+          ​
+          Multiple linear regression and decision tree regressor machine
+          learning models were used to model the relationship between
+          the multiple economic indicators and poverty level, and
+          forecast the poverty rate based on these factors. Data sourced
+          from numerous CSV files was read into Jupyter Notebook and
+          Google Colaboratory and transformed using Python and Pandas,
+          then loaded into Amazon RDS and a PostgresSQL database on the
+          cloud. A Flask application was used to display the project
+          analysis and data visualizations built using Tableau,
+          JavaScript and CSS on webpages.</p>
+      </div>
+      <div class="col-6">
+        <div style="display: flex; justify-content: center; align-items: center;">
+          SOME IMAGE HERE
+        </div>
+      </div>
 
-          <br>
-          <br>
-          <hr style="border: 1px solid #F8F8FF;" />
-          <br>
-          <br>
+      <br>
+      <hr style="border: 1px solid #F8F8FF;" />
+      <br>
+      <br>
+      <div class="col-12">
 
-          <h2>Questions We Attempted to Answer</h2>
-          <p class="lead">1) Can poverty levels be inferred from
-            historical economic indicators?</p>
-          <p class="lead">2) Which economic indicator has the highest
-            impact on poverty levels?</p>
-          <p class="lead">3) How does adjusting certain economic
-            indicators affect the poverty rate?</p>
+        <h2>Questions We Attempted to Answer</h2>
+        <p class="lead">1) Can poverty levels be inferred from
+          historical economic indicators?</p>
+        <p class="lead">2) Which economic indicator has the highest
+          impact on poverty levels?</p>
+        <p class="lead">3) How does adjusting certain economic
+          indicators affect the poverty rate?</p>
 
-          <br>
-          <br>
-          <hr style="border: 1px solid #F8F8FF;" />
-          <br>
-          <br>
+        <br>
+        <br>
+        <hr style="border: 1px solid #F8F8FF;" />
+        <br>
+        <br>
+      </div>
 
-          <h2>Visualizations</h2>
-          <p class="lead">The results of this project are displayed in a
-            website. The webpages include the analysis of the results,
-            interactive and static graphs, interactive tables, and an
-            interactive poverty predictor. For the interactive graphs, the
-            user will be able to select the state(s) and feature(s) they
-            wish to see a historical line plot of. An example of the
-            static graphs is a heatmap of a correlation matrix for the
-            economic features, displaying how strong, or weak, of a
-            relationship there is with each of the other features. For the
-            poverty predictor, the user will pick a state, which will
-            select the saved machine learning model for that state. They
-            will then be able to adjust the values of the features, and
-            these customized features will be fed into the trained machine
-            learning model to predict the poverty rate for the users
-            customized features.</p>
+      <h2>Visualizations</h2>
+      <p class="lead">The results of this project are displayed in a
+        website. The webpages include the analysis of the results,
+        interactive and static graphs, interactive tables, and an
+        interactive poverty predictor. For the interactive graphs, the
+        user will be able to select the state(s) and feature(s) they
+        wish to see a historical line plot of. An example of the
+        static graphs is a heatmap of a correlation matrix for the
+        economic features, displaying how strong, or weak, of a
+        relationship there is with each of the other features. For the
+        poverty predictor, the user will pick a state, which will
+        select the saved machine learning model for that state. They
+        will then be able to adjust the values of the features, and
+        these customized features will be fed into the trained machine
+        learning model to predict the poverty rate for the users
+        customized features.</p>
 
 
 
 </body>
 
-</html> -->
+</html>
