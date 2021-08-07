@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Predicting Poverty</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" 
+  crossorigin="anonymous" />
+  <link rel="stylesheet" href="static/css/style.css">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="">
+</head>
+
+<body class="bg-dark">
+  <div class="dropdown">
+    <Select name="states"id="states"></Select>
+
+      <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
+        <a class="navbar-brand" href="index.html">Predicting Poverty</a>
+      </nav>
+  </div>
+
+  <div class="jumbotron">
+    <h1 class="display-4">Predicting Poverty Rates with Machine Learning</h1>
+  </div>
+
+  </div>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-4 article-title">
+        <h3> Economic Trends and Poverty Rates In The United States<small>??</small></h3>
+      </div>
+      <div class="col-md-8">
+        <p>
+          This project provides a statistical analysis of the effect of various economic factors on poverty rates in the United States over the past four decades. The poverty measures examined were minimum wage, unemployment rate, welfare and education spending, homeownership, crime rate, and divorce rate at both the state and national levels.
+
+          The poverty measures presented in this project show that x, y, z measures 
+
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-3">
+        <div class="filters">
+          <form class="bg-dark">
+            <p>Filter Search</p>
+          <form>
+            <ul class="list-group bg-dark">
+              <li class="list-group-item bg-dark">
+                <label for="date">Enter Date</label>
+                <input type="text" placeholder="1/10/2010" id="datetime" />
+              </li>
+
+              <li class="list-group-item bg-dark">
+                <label for="city">Enter City</label><br>
+                <input type="text" placeholder="roswell" id="city" />
+              </li>
+              <li class="list-group-item bg-dark">
+                <label for="state">Enter State</label><br>
+                <input type="text" placeholder="ca" id="state" />
+              </li>
+              <li class="list-group-item bg-dark">
+                <label for="country">Enter Country</label><br>
+                <input type="text" placeholder="us" id="country" />
+              </li>
+              <li class="list-group-item bg-dark">
+                <label for="shape">Enter Shape</label><br>
+                <input type="text" placeholder="circle" id="shape" />
+              </li>
+            </ul>
+          </form>
+        </div>
+      </div>
+      <div class="col-md-9">
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>City</th>
+              <th>State</th>
+              <th>Country</th>
+              <th>Shape</th>
+              <th>Duration</th>
+              <th>Comments</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+  
+  <!--placeholder -->
+  <script src="static/js/data.js"></script>
+  <script src="static/js/app.js"></script>
+
+</body>
+
+</html>
