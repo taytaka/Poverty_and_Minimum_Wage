@@ -20,21 +20,15 @@ Base.prepare(engine, reflect = True)
 
 # Save references to each table
 Features = Base.classes.economic_features_full
-## do we want to reference each table (poverty_rate, unemployment_rate, crime_rate etc.)
-## individually? or just reference the table as a whole
-
 
 # Create session link
 session = Session(engine)
 #features_table = session.query(Features.poverty_rate).all()
 
-
 # Create Flask application
 app = Flask(__name__)
 
-
-### Create 1 route to JSON Data and 1 route to js for each page
-
+### Create routes
 @app.route("/")
 def index():
     return render_template("index1.html")
@@ -47,6 +41,10 @@ def trends():
 def forecast():
     return render_template("forecast.html")
 
+@app.route("/tables")
+def tables():
+    return render_template("tables.html")
+
 @app.route("/maps")
 def maps():
     return render_template("maps.html")
@@ -54,8 +52,6 @@ def maps():
 @app.route("/about")
 def about():
     return render_template("about.html")
-
-#app.route("")
 
 
 if __name__ == '__main__':
