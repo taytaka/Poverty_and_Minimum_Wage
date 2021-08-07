@@ -2036,57 +2036,57 @@ year,poverty_rate,state
 2013,11.6,Montana
 2013,14.9,Massachusetts
 2013,14.2,Rhode Island
-2014,11.1,Kansas
-2014,19.8,Louisiana
+2014,14.7,Alabama
+2014,14.3,Alaska
+2014,33.59,Arizona
+2014,14.9,Arkansas
+2014,22.7,California
+2014,12.6,Colorado
+2014,11.7,Connecticut
+2014,12,Delaware
+2014,20,Florida
+2014,16.7,Georgia
 2014,17,Hawaii
-2014,11.9,Maine
-2014,11.8,Pennsylvania
-2014,13.1,Oklahoma
-2014,15.6,Texas
+2014,10.5,Idaho
 2014,15.2,Illinois
+2014,13,Indiana
+2014,9.3,Iowa
+2014,11.1,Kansas
+2014,16.2,Kentucky
+2014,19.8,Louisiana
+2014,11.9,Maine
 2014,14.5,Maryland
 2014,15.2,Massachusetts
-2014,14,Rhode Island
-2014,15.9,New Mexico
-2014,12.3,Ohio
-2014,12,Montana
-2014,16.1,North Carolina
-2014,17.7,New York
-2014,11.4,Wisconsin
-2014,12.6,Colorado
-2014,14,West Virginia
-2014,10.6,Nebraska
-2014,15.9,South Carolina
-2014,14.8,Oregon
-2014,22.7,California
-2014,16.7,Georgia
-2014,10.5,Idaho
-2014,11.7,Connecticut
-2014,13.3,Washington
-2014,15.25,National
-2014,10.2,South Dakota
-2014,10,Minnesota
 2014,14,Michigan
-2014,14.3,Alaska
-2014,10.1,North Dakota
-2014,14.9,Arkansas
-2014,12,Delaware
-2014,33.59,Arizona
-2014,9.8,Utah
-2014,9.7,Wyoming
-2014,20,Florida
+2014,10,Minnesota
 2014,16.9,Mississippi
-2014,13,Indiana
-2014,8.8,Vermont
-2014,16.7,New Jersey
-2014,14.7,Alabama
-2014,9.3,Iowa
-2014,20.5,Nevada
 2014,11.3,Missouri
-2014,14.1,Virginia
-2014,16.2,Kentucky
+2014,12,Montana
+2014,15.25,National
+2014,10.6,Nebraska
+2014,20.5,Nevada
 2014,10.8,New Hampshire
+2014,16.7,New Jersey
+2014,15.9,New Mexico
+2014,17.7,New York
+2014,16.1,North Carolina
+2014,10.1,North Dakota
+2014,12.3,Ohio
+2014,13.1,Oklahoma
+2014,14.8,Oregon
+2014,11.8,Pennsylvania
+2014,14,Rhode Island
+2014,15.9,South Carolina
+2014,10.2,South Dakota
 2014,17,Tennessee
+2014,15.6,Texas
+2014,9.8,Utah
+2014,8.8,Vermont
+2014,14.1,Virginia
+2014,13.3,Washington
+2014,14,West Virginia
+2014,11.4,Wisconsin
+2014,9.7,Wyoming
 2015,14.33,National
 2016,13.94,National
 2017,13.91,National
@@ -2099,7 +2099,6 @@ year,poverty_rate,state
 2019,9.4,Colorado
 2019,9.9,Connecticut
 2019,11.2,Delaware
-2019,14.1,District of Columbia
 2019,12.7,Florida
 2019,13.5,Georgia
 2019,9,Hawaii
@@ -2143,3 +2142,203 @@ year,poverty_rate,state
 2019,16.2,West Virginia
 2019,10.4,Wisconsin
 2019,9.9,Wyoming
+2015,18.5,Alabama
+2015,10.4,Alaska
+2015,17.4,Arizona
+2015,18.7,Arkansas
+2015,15.4,California
+2015,11.5,Colorado
+2015,10.6,Connecticut
+2015,12.6,Delaware
+2015,15.8,Florida
+2015,17.2,Georgia
+2015,10.7,Hawaii
+2015,14.7,Idaho
+2015,13.6,Illinois
+2015,14.4,Indiana
+2015,12.1,Iowa
+2015,12.9,Kansas
+2015,18.3,Kentucky
+2015,19.5,Louisiana
+2015,13.2,Maine
+2015,9.9,Maryland
+2015,11.5,Massachusetts
+2015,15.7,Michigan
+2015,10.2,Minnesota
+2015,22.1,Mississippi
+2015,14.8,Missouri
+2015,14.4,Montana
+2015,12.2,Nebraska
+2015,14.9,Nevada
+2015,8.4,New Hampshire
+2015,10.8,New Jersey
+2015,19.8,New Mexico
+2015,15.5,New York
+2015,16.4,North Carolina
+2015,10.7,North Dakota
+2015,14.8,Ohio
+2015,16,Oklahoma
+2015,15.2,Oregon
+2015,13.1,Pennsylvania
+2015,14.1,Rhode Island
+2015,16.8,South Carolina
+2015,13.5,South Dakota
+2015,16.7,Tennessee
+2015,15.9,Texas
+2015,11.2,Utah
+2015,10.4,Vermont
+2015,11.2,Virginia
+2015,12.2,Washington
+2015,18,West Virginia
+2015,12.1,Wisconsin
+2015,10.6,Wyoming
+2016,17.2,Alabama
+2016,9.9,Alaska
+2016,16.4,Arizona
+2016,17.2,Arkansas
+2016,14.4,California
+2016,11,Colorado
+2016,9.9,Connecticut
+2016,11.8,Delaware
+2016,14.8,Florida
+2016,16.1,Georgia
+2016,9.5,Hawaii
+2016,13.8,Idaho
+2016,13,Illinois
+2016,14,Indiana
+2016,11.7,Iowa
+2016,12.2,Kansas
+2016,18.2,Kentucky
+2016,20.1,Louisiana
+2016,12.3,Maine
+2016,9.7,Maryland
+2016,10.5,Massachusetts
+2016,14.9,Michigan
+2016,9.9,Minnesota
+2016,21,Mississippi
+2016,14,Missouri
+2016,13.4,Montana
+2016,11.3,Nebraska
+2016,14.1,Nevada
+2016,7.6,New Hampshire
+2016,10.4,New Jersey
+2016,19.1,New Mexico
+2016,14.8,New York
+2016,15.4,North Carolina
+2016,10.5,North Dakota
+2016,14.5,Ohio
+2016,16.1,Oklahoma
+2016,13.4,Oregon
+2016,12.9,Pennsylvania
+2016,13.3,Rhode Island
+2016,15.3,South Carolina
+2016,12.9,South Dakota
+2016,15.8,Tennessee
+2016,15.6,Texas
+2016,10.2,Utah
+2016,11.3,Vermont
+2016,11,Virginia
+2016,11.3,Washington
+2016,17.9,West Virginia
+2016,11.8,Wisconsin
+2016,10.9,Wyoming
+2017,16.9,Alabama
+2017,11,Alaska
+2017,14.9,Arizona
+2017,16.3,Arkansas
+2017,13.3,California
+2017,10.3,Colorado
+2017,9.7,Connecticut
+2017,13,Delaware
+2017,14.1,Florida
+2017,15.1,Georgia
+2017,9.5,Hawaii
+2017,12.6,Idaho
+2017,12.5,Illinois
+2017,13.3,Indiana
+2017,10.8,Iowa
+2017,11.9,Kansas
+2017,17.1,Kentucky
+2017,19.6,Louisiana
+2017,11.3,Maine
+2017,9.4,Maryland
+2017,10.5,Massachusetts
+2017,14.1,Michigan
+2017,9.5,Minnesota
+2017,19.9,Mississippi
+2017,13.4,Missouri
+2017,12.7,Montana
+2017,10.7,Nebraska
+2017,13.3,Nevada
+2017,7.7,New Hampshire
+2017,10,New Jersey
+2017,19,New Mexico
+2017,14.1,New York
+2017,14.7,North Carolina
+2017,10.2,North Dakota
+2017,13.9,Ohio
+2017,15.8,Oklahoma
+2017,13.2,Oregon
+2017,12.5,Pennsylvania
+2017,12.3,Rhode Island
+2017,15.4,South Carolina
+2017,12.8,South Dakota
+2017,15,Tennessee
+2017,14.7,Texas
+2017,9.7,Utah
+2017,10.8,Vermont
+2017,10.7,Virginia
+2017,11,Washington
+2017,18.5,West Virginia
+2017,11.3,Wisconsin
+2017,10.8,Wyoming
+2018,16.8,Alabama
+2018,11.1,Alaska
+2018,14.1,Arizona
+2018,16.8,Arkansas
+2018,12.8,California
+2018,9.7,Colorado
+2018,10.3,Connecticut
+2018,12.2,Delaware
+2018,13.7,Florida
+2018,14.5,Georgia
+2018,9,Hawaii
+2018,11.7,Idaho
+2018,12.1,Illinois
+2018,13,Indiana
+2018,11.2,Iowa
+2018,11.9,Kansas
+2018,16.7,Kentucky
+2018,18.7,Louisiana
+2018,11.6,Maine
+2018,9.1,Maryland
+2018,10,Massachusetts
+2018,14,Michigan
+2018,9.6,Minnesota
+2018,19.8,Mississippi
+2018,13.2,Missouri
+2018,12.9,Montana
+2018,11,Nebraska
+2018,13.1,Nevada
+2018,7.6,New Hampshire
+2018,9.5,New Jersey
+2018,18.8,New Mexico
+2018,13.7,New York
+2018,14.1,North Carolina
+2018,10.6,North Dakota
+2018,13.8,Ohio
+2018,15.5,Oklahoma
+2018,12.5,Oregon
+2018,12.2,Pennsylvania
+2018,12.8,Rhode Island
+2018,15.2,South Carolina
+2018,12.9,South Dakota
+2018,15.2,Tennessee
+2018,14.9,Texas
+2018,9.1,Utah
+2018,10.7,Vermont
+2018,10.7,Virginia
+2018,10.3,Washington
+2018,17.4,West Virginia
+2018,11.1,Wisconsin
+2018,10.7,Wyoming
