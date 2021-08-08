@@ -80,7 +80,7 @@ for (var i = 0; i < stateChoices.length; i++) {
 stateSelectTag.innerHTML = options;
 stateSelectTag.addEventListener("change", function (e) {
   var value = e.target.value;
-  d3.select("body table").remove();
+  d3.select("#tbody table").remove();
   document.querySelector("#spinner").style.display = "flex";
   // document.querySelector("#jsondata");
   d3.json(jsondata, function (error, data) {
@@ -89,10 +89,18 @@ stateSelectTag.addEventListener("change", function (e) {
 });
 
 function initalFetch() {
-  d3.select("body table").remove();
+  d3.select("#tbody table").remove();
   document.querySelector("#spinner").style.display = "flex";
+<<<<<<< HEAD
   d3.json(jsondata, function (error, data) {
     console.log("error", error);
+=======
+  document.querySelector("#jsondata");
+  d3.json("static/js/data.json", function (error, data) {
+    if(error)
+      console.log("error", error);
+
+>>>>>>> d35a2aeee5365e152ff167d25082d182e4ff8663
     console.log("Data", data);
     // render the table(s)
     //filterByState("California", data)
@@ -113,7 +121,12 @@ function filterByState(state, data) {
 function tabulate(data, columns) {
   console.log("data", data);
   document.querySelector("#spinner").style.display = "none";
+<<<<<<< HEAD
   var table = d3.select("#table").append("table").attr("class", "table table-striped table-responsive");
+=======
+  var table = d3.select("#tbody").append("table");
+  table.attr('class', 'table table-striped');
+>>>>>>> d35a2aeee5365e152ff167d25082d182e4ff8663
   var thead = table.append("thead");
   var tbody = table.append("tbody");
 
