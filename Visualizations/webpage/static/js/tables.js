@@ -74,7 +74,7 @@ var stateSelectTag = document.querySelector("#stateChoice");
 var options = "";
 for (var i = 0; i < stateChoices.length; i++) {
   var choice = stateChoices[i];
-  var option = `<option value=${choice}>${choice}</option>`;
+  var option = `<option value="${choice}">${choice}</option>`;
   options += option;
 }
 stateSelectTag.innerHTML = options;
@@ -82,8 +82,8 @@ stateSelectTag.addEventListener("change", function (e) {
   var value = e.target.value;
   d3.select("body table").remove();
   document.querySelector("#spinner").style.display = "flex";
-  document.querySelector("#jsondata");
-  d3.json("static/js/data.json", function (error, data) {
+  // document.querySelector("#jsondata");
+  d3.json(jsondata, function (error, data) {
     filterByState(value, data);
   });
 });
@@ -91,8 +91,7 @@ stateSelectTag.addEventListener("change", function (e) {
 function initalFetch() {
   d3.select("body table").remove();
   document.querySelector("#spinner").style.display = "flex";
-  document.querySelector("#jsondata");
-  d3.json("static/js/data.json", function (error, data) {
+  d3.json(jsondata, function (error, data) {
     console.log("error", error);
     console.log("Data", data);
     // render the table(s)
@@ -114,7 +113,7 @@ function filterByState(state, data) {
 function tabulate(data, columns) {
   console.log("data", data);
   document.querySelector("#spinner").style.display = "none";
-  var table = d3.select("body").append("table");
+  var table = d3.select("#table").append("table").attr("class", "table table-striped table-responsive");
   var thead = table.append("thead");
   var tbody = table.append("tbody");
 
