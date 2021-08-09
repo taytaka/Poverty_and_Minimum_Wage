@@ -1,0 +1,32 @@
+model_name,r2_score,state
+Alabama.sav,0.9543378577198666,Alabama
+Arkansas.sav,0.9080198192854265,Arkansas
+Colorado.sav,0.9391721090135544,Colorado
+Florida.sav,0.9488926227122592,Florida
+Georgia.sav,0.9417646651089878,Georgia
+Idaho.sav,0.9672838311911601,Idaho
+Illinois.sav,0.9571141393918456,Illinois
+Maine.sav,0.9312263004321576,Maine
+Maryland.sav,0.8817872163570322,Maryland
+Massachusetts.sav,0.9289596706400379,Massachusetts
+Michigan.sav,0.8885422175531426,Michigan
+Mississippi.sav,0.9380628126374608,Mississippi
+Montana.sav,0.9737205974427972,Montana
+New Hampshire.sav,0.7913373896165932,New Hampshire
+New Jersey.sav,0.8423933155200658,New Jersey
+New Mexico.sav,0.9743041794809155,New Mexico
+New York.sav,0.9764481898374374,New York
+North Carolina.sav,0.915413817547113,North Carolina
+North Dakota.sav,0.9693254588563995,North Dakota
+Ohio.sav,0.9562095558271685,Ohio
+Oregon.sav,0.9395693760519702,Oregon
+Pennsylvania.sav,0.9447269934150339,Pennsylvania
+South Carolina.sav,0.9336445000107407,South Carolina
+South Dakota.sav,0.9648940119610286,South Dakota
+Tennessee.sav,0.9646996122734508,Tennessee
+Texas.sav,0.9868276688010447,Texas
+Vermont.sav,0.9239943651149816,Vermont
+Virginia.sav,0.9322302881297284,Virginia
+West Virginia.sav,0.9426686894605947,West Virginia
+Wyoming.sav,0.8902173157398952,Wyoming
+National.sav,0.8328703048437818,National
