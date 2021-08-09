@@ -41,6 +41,30 @@ def trends():
 def forecast():
     return render_template("forecast.html")
 
+# # working with just one saved model
+# @app.route("/predict", methods = ['GET', 'POST'])
+# def predict():
+
+#     model = pickle.load(open("../../../Machine_Learning/Saved_DTR_Models/EntireRegressor.sav", 'rb'))
+#     ml_features = [int(x) for x in request.form.values()]
+#     input_features = [np.array(ml_features)]
+#     prediction = model.predict(input_features)
+
+#     return render_template('forecast.html', prediction_text = f'The predicted poverty rate is {prediction}')
+
+# to be used for individual models
+@app.route("/predict", methods = ['GET', 'POST'])
+def predict():
+    form_values = [x for x in request.form.values()]
+    state = form_values.pop(0)
+    ml_features = [int(x) for x in form_values]
+    file_path = f"../../../Machine_Learning/Best_Models/{state}.sav"
+    model = pickle.load(open(file_path, 'rb'))
+    input_features = [np.array(ml_features)]
+    prediction = model.predict(input_features)
+
+    return render_template('forecast.html', prediction_text = f'The predicted poverty rate is {prediction}')
+
 @app.route("/tables")
 def tables():
     return render_template("tables.html")

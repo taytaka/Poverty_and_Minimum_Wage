@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <<<<<<< HEAD <!-- Meta Tags -->
+   <!-- Meta Tags -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -37,8 +37,10 @@
     </style>
 
 </head>
-=======
->>>>>>> 6a05e87835fa07941c9a425632b13e1e5f6ba427
+
+
+
+
 
 <!-- Meta Tags -->
 <meta charset="UTF-8">
@@ -113,5 +115,110 @@
   <hr style="border: 1px solid #F8F8FF;" />
   <br>
 </body>
+
+<div class= "form-group">
+  <form class="form-horizontal" action = "/predict" method = "POST">
+
+    <div class = "row col-lg-8">{{ prediction_text }}</div>
+
+    <div class="form-container-fluid">
+      <div class="text-left">
+        <div class="row">
+          <div class="col-md-12" style="overflow-x: scroll;">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <label class="input-group-text" for="stateChoice">Select the state you wish to predict poverty for</label>
+                </div>
+              <select name="stateChoice" id="stateChoice">
+              </select>
+            </div>
+            <div id="tbody">
+  
+            </div>
+  
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="static/js/tables.js"></script>
+
+
+    <div class = "row col-lg-8">Pre-populated with 2019 National data</div>
+
+    <div class = "form-group row">
+      <label class = "control-label col-sm-2" for="crime_rate">Crime Rate</label>
+      <div class = "col-sm-4">
+        <input type = "text" class = "form-control" id = "crime_rate" name = "crime_rate" placeholder="379.4">
+      <label class = "control-label col-sm-2" for="crime_rate">{{dictionary.}}</label> 
+      </div>
+    </div>
+
+    <div class = "form-group row">
+      <label class = "control-label col-sm-2" for="unemployment_rate">Unemployment Rate</label>
+      <div class = "col-sm-4">
+        <input type = "text" class = "form-control" id = "unemployment_rate" name = "unemployment_rate" placeholder="3.7">
+      </div>
+    </div>
+
+    <div class = "form-group row">
+      <label class = "control-label col-sm-2" for="divorce_rate_per_1000_people">Divorce Rate (Per 1000 people)</label>
+      <div class = "col-sm-4">
+        <input type = "text" class = "form-control" id = "divorce_rate_per_1000_people" name = "divorce_rate_per_1000_people" placeholder="2.7">
+      </div>
+    </div>
+
+    <div class = "form-group row">
+      <label class = "control-label col-sm-2" for="homeownership_rate">Homeownership Rate</label>
+      <div class = "col-sm-4">
+        <input type = "text" class = "form-control" id = "homeownership_rate" name = "homeownership_rate" placeholder="3.72">
+      </div>
+    </div>
+
+    <div class = "form-group row">
+      <label class = "control-label col-sm-2" for="minimum_wage_effective">Minimim Wage</label>
+      <div class = "col-sm-4">
+        <input type = "text" class = "form-control" id = "minimum_wage_effective" name = "minimum_wage_effective" placeholder="9.1">
+      </div>
+    </div>
+
+    <div class = "form-group row">
+      <label class = "control-label col-sm-2" for="CPI_Average">CPI Average</label>
+      <div class = "col-sm-4">
+        <input type = "text" class = "form-control" id = "CPI_Average" name = "CPI_Average" placeholder="255.66">
+      </div>
+    </div>
+
+    <div class = "form-group row">
+      <label class = "control-label col-sm-2" for="inflation_rate">Inflation Rate</label>
+      <div class = "col-sm-4">
+        <input type = "text" class = "form-control" id = "inflation_rate" name = "inflation_rate" placeholder="1.8">
+      </div>
+    </div>
+
+    <div class = "form-group row">
+      <label class = "control-label col-sm-2" for="avg_wage_index">Average Wage Index</label>
+      <div class = "col-sm-4">
+        <input type = "text" class = "form-control" id = "avg_wage_index" name = "avg_wage_index" placeholder="54099.9">
+      </div>
+    </div>
+
+    <div class = "form-group row">
+      <label class = "control-label col-sm-2" for="education_per_capita">Education Spending per Capita</label>
+      <div class = "col-sm-4">
+        <input type = "text" class = "form-control" id = "education_per_capita" name = "education_per_capita" placeholder="3602.8">
+      </div>
+    </div>
+
+    <div class = "form-group row">
+      <label class = "control-label col-sm-2" for="welfare_per_capita">Welfare Spending per Capita</label>
+      <div class = "col-sm-4">
+        <input type = "text" class = "form-control" id = "welfare_per_capita" name = "welfare_per_capita" placeholder="1413.6">
+      </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary btn-block btn-large">Predict Poverty Rate</button>
+  </form>
+
+</div>
 
 </html>
