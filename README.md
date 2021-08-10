@@ -156,6 +156,7 @@ Because of the nature of the data, it is difficult to look at all of the data to
 
 ## Presentation and Visualization
 The results of this project will be displayed in a webpage. The page will include the analysis of the results, interactive and static graphs, interactive tables, and an interactive poverty predictor. For the interactive graphs, the user will be able to select the state(s) and feature(s) they wish to see a historical line plot of. An example of the static graphs is a heatmap of a correlation matrix for the economic features, displaying how strong, or weak, of a relationship there is with each of the other features. For the poverty predictor, the user will pick a state, which will select the saved machine learning model for that state. They will then be able to adjust the values of the features, and these customized features will be fed into the trained machine learning model to predict the poverty rate for the users customized features.
+For further detail, please see the presentation slides at: https://docs.google.com/presentation/d/1NLt1smV6o_XQYnkSUbI9vALHA7O8xi9Xx7wRWB2JqQM/edit?usp=sharing
 
 
 ## Dashboard
