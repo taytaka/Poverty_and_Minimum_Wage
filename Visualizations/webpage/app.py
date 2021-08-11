@@ -114,9 +114,9 @@ def ranges():
 def tables():
     return render_template("tables.html")
 
-@app.route("/maps")
-def maps():
-    return render_template("maps.html")
+@app.route("/analysis")
+def analysis():
+    return render_template("analysis.html")
 
 @app.route("/about")
 def about():
