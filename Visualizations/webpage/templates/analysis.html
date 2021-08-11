@@ -83,7 +83,7 @@
       <h1 class="display-4">Predicting Poverty Rates With Machine
         Learning </h1>
       <ul class="nav justify-content-center">
-        <p class="lead">Maps</p>
+        <p class="lead">Analysis</p>
     </div>
   </div>
 
@@ -102,7 +102,7 @@
       <a class="nav-link btn btn-outline-secondary" href="tables">Tables</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link btn btn-outline-info" href="maps">Maps</a>
+      <a class="nav-link btn btn-outline-info" href="analysis">Analysis</a>
     </li>
     <li class="nav-item">
       <a class="nav-link btn btn-outline-warning" href="about">About Us</a>
@@ -111,6 +111,44 @@
   <br>
   <hr style="border: 1px solid #F8F8FF;" />
   <br>
+  <!-- Analysis -->
+  <div class="container-fluid padding">
+    <div class="row welcome text-center">
+      <hr>
+      <div class="col-12">
+        <h4>Can poverty levels be extrapolated from historical economic indicators?
+        </h4>
+        <p class="lead">Overall, extrapolating poverty rates from historical economic indicators is possible however,
+          instances vary by state. Because of the nature of the data, it is difficult to look at all of the data
+          together and understand the relationship. Each state has its own laws and regulations concerning most of the
+          features, which was found to greatly impact the correlation between states, economic indicators, and poverty
+          rate. As a result, the machine learning model is not effective on the dataset as a whole. Each state had a
+          different "best" feature (the feature which was most closely related to poverty rate), which meant the machine
+          learning model is trained separately on each state individually so the most accurate prediction is made. The
+          machine learning model is used on the “Predicting Poverty Rates” tab of this webpage, where a user can input
+          the same number for each economic indicator for two different states and come up with a different poverty rate
+          for each state.</p>
+
+        <h4>Which economic indicators have the highest correlation with poverty rates?</h4>
+        <p class="lead">Unemployment rate and homeownership rate are the two economic indicators that most closely
+          correlate to poverty rates.
+          The chart “Unemployment Rate vs. Poverty Rate” illustrates that as unemployment rates increase so does poverty
+          rates.
+          The chart “Homeownership Rate vs. Poverty Rate” also demonstrates that as homeownership rates increase poverty
+          rates also increase.
+        </p>
+
+        <h4> How does adjusting certain economic indicators affect the poverty rate?</h4>
+        <p class="lead">To view how adjusting economic indicators affects the poverty rate, use the machine learning
+          model on the “Predicting Poverty Rates” tab of this webpage. Once there, the user can input a desired level
+          for each economic indicator and see how changing those indicators impacts poverty rate per state.</p>
+
+
+
+
+      </div>
+    </div>
+  </div>
 
 
 </body>
