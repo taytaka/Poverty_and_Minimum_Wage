@@ -1,0 +1,52 @@
+State,Model,R2 Score
+National,LinearRegression,0.6032158920046945
+Alabama,LinearRegression,0.9564419948711772
+Arizona,LinearRegression,0.882847539022275
+Arkansas,LinearRegression,0.961129871056804
+California,LinearRegression,0.6519701501516999
+Colorado,LinearRegression,0.9257664304762826
+Connecticut,LinearRegression,0.4274814008387071
+Delaware,LinearRegression,0.7876092575527205
+Nebraska,LinearRegression,0.9656337326476638
+Florida,LinearRegression,0.9383173015246954
+Georgia,LinearRegression,0.8598875578222233
+Hawaii,LinearRegression,0.7566292697340864
+Idaho,LinearRegression,0.9687460427585054
+Illinois,LinearRegression,0.9453224705987874
+Kansas,LinearRegression,0.8701265138297314
+Kentucky,LinearRegression,0.9241755619840539
+Maine,LinearRegression,0.7708770393260271
+Massachusetts,LinearRegression,-1.523912378716922
+Wisconsin,LinearRegression,0.9364842470016657
+Minnesota,LinearRegression,0.9428781244149438
+Mississippi,LinearRegression,0.9534540104611419
+Montana,LinearRegression,0.9694649693847827
+Nevada,LinearRegression,0.9105428620348327
+New Mexico,LinearRegression,0.9690359120730615
+New York,LinearRegression,0.9857439579973383
+North Carolina,LinearRegression,0.7745759238994319
+Ohio,LinearRegression,0.8020416246189584
+Oklahoma,LinearRegression,0.873067107389425
+Oregon,LinearRegression,0.754732842028148
+Pennsylvania,LinearRegression,0.8317564272405809
+South Carolina,LinearRegression,0.5547126758460205
+South Dakota,LinearRegression,0.963493796521218
+Tennessee,LinearRegression,0.9853008354245537
+Texas,LinearRegression,0.9059459302053107
+Vermont,LinearRegression,0.9621856583702356
+Virginia,LinearRegression,0.9481153296808198
+Washington,LinearRegression,0.00719926794591641
+West Virginia,LinearRegression,0.8491282792769221
+Alaska,DecissionTreeRegressor,0.5755025712949968
+Indiana,DecissionTreeRegressor,0.9447366075407791
+Iowa,DecissionTreeRegressor,0.9184424344626705
+Louisiana,DecissionTreeRegressor,0.9394111306518409
+Maryland,DecissionTreeRegressor,0.9498920086393088
+Michigan,DecissionTreeRegressor,0.45978391356542625
+Missouri,DecissionTreeRegressor,0.8692170818505338
+New Hampshire,DecissionTreeRegressor,0.8180152671755724
+New Jersey,DecissionTreeRegressor,0.7092054917848297
+North Dakota,DecissionTreeRegressor,0.4682539682539675
+Rhode Island,DecissionTreeRegressor,0.4684210526315786
+Utah,DecissionTreeRegressor,-0.14218566392479426
+Wyoming,DecissionTreeRegressor,0.717538550223375
