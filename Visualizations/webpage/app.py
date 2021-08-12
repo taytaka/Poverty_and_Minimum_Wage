@@ -47,43 +47,59 @@ selected_state = []
 @app.route("/predict", methods = ['GET', 'POST'])
 
 def predict():
+    # Get ml feature values from form
     form_values = [x for x in request.form.values()]
+    # Get state
     state = selected_state.pop()
-    ml_features = [int(x) for x in form_values]
+    # aggregate features
+    ml_features = [float(x) for x in form_values]
+    # Retrieve/load model and predict
     file_path = f"../../Machine_Learning/Best_Models/{state}.sav"
     model = pickle.load(open(file_path, 'rb'))
     input_features = [np.array(ml_features)]
-    prediction = model.predict(input_features)
+    prediction = model.predict(input_features)[0]
+    # Get information regarding the model used
+    model_info = pd.read_csv("../../Machine_Learning/Model_summary.csv")
+    model_used = model_info.loc[model_info['State'] == state]
+    model_type = model_used["Model"].item()
+    model_score = round(model_used["R2 Score"].item(), 2)
 
-    return render_template('forecast.html', prediction_text = f'The predicted poverty rate is {prediction}')
+    return render_template('forecast.html', prediction_text = f'The predicted poverty rate is {prediction} percent.',
+                            selected_state = f'State Selected: {state}.',
+                            model_type = f'Model Type: {model_type}.',
+                            r2_value = f'Model R-Squared Score: {model_score}.')
 
 @app.route("/ranges", methods = ['GET', 'POST'])
 
 def ranges():
+    # Get state from dropdown and append to selected_state to be used in /predict
     state = request.form.get('stateChoice')
     selected_state.append(state)
+    # Read in min and max value csv for ranges of each feature
     data = pd.read_csv("static/min_max_values.csv")
+    # Narrow down df to selected state
     data = data.loc[data['state'] == state]
-    crime_rate_min = data.loc[data['feature'] == 'crime_rate']['min'].item()
-    crime_rate_max = data.loc[data['feature'] == 'crime_rate']['max'].item()
-    unemployment_rate_min = data.loc[data['feature'] == 'unemployment_rate']['min'].item()
-    unemployment_rate_max = data.loc[data['feature'] == 'unemployment_rate']['max'].item()
-    divorce_rate_per_1000_people_min = data.loc[data['feature'] == 'divorce_rate_per_1000_people']['min'].item()
-    divorce_rate_per_1000_people_max = data.loc[data['feature'] == 'divorce_rate_per_1000_people']['max'].item()
-    homeownership_rate_min = data.loc[data['feature'] == 'homeownership_rate']['min'].item()
-    homeownership_rate_max = data.loc[data['feature'] == 'homeownership_rate']['max'].item()
-    minimum_wage_effective_min = data.loc[data['feature'] == 'minimum_wage_effective']['min'].item()
-    minimum_wage_effective_max = data.loc[data['feature'] == 'minimum_wage_effective']['max'].item()
-    CPI_Average_min = data.loc[data['feature'] == 'cpi_average']['min'].item()
-    CPI_Average_max = data.loc[data['feature'] == 'cpi_average']['max'].item()
-    inflation_rate_min = data.loc[data['feature'] == 'inflation_rate']['min'].item()
-    inflation_rate_max = data.loc[data['feature'] == 'inflation_rate']['max'].item()
-    avg_wage_index_min = data.loc[data['feature'] == 'avg_wage_index']['min'].item()
-    avg_wage_index_max = data.loc[data['feature'] == 'avg_wage_index']['max'].item()
-    education_per_capita_min = data.loc[data['feature'] == 'education_per_capita']['min'].item()
-    education_per_capita_max = data.loc[data['feature'] == 'education_per_capita']['max'].item()
-    welfare_per_capita_min = data.loc[data['feature'] == 'welfare_per_capita']['min'].item()
-    welfare_per_capita_max = data.loc[data['feature'] == 'welfare_per_capita']['max'].item()
+    # Gather min and max values for each feature
+    crime_rate_min = round(data.loc[data['feature'] == 'crime_rate']['min'].item(), 2)
+    crime_rate_max = round(data.loc[data['feature'] == 'crime_rate']['max'].item(), 2)
+    unemployment_rate_min = round(data.loc[data['feature'] == 'unemployment_rate']['min'].item(), 2)
+    unemployment_rate_max = round(data.loc[data['feature'] == 'unemployment_rate']['max'].item(), 2)
+    divorce_rate_per_1000_people_min = round(data.loc[data['feature'] == 'divorce_rate_per_1000_people']['min'].item(), 2)
+    divorce_rate_per_1000_people_max = round(data.loc[data['feature'] == 'divorce_rate_per_1000_people']['max'].item(), 2)
+    homeownership_rate_min = round(data.loc[data['feature'] == 'homeownership_rate']['min'].item(), 2)
+    homeownership_rate_max = round(data.loc[data['feature'] == 'homeownership_rate']['max'].item(), 2)
+    minimum_wage_effective_min = round(data.loc[data['feature'] == 'minimum_wage_effective']['min'].item(), 2)
+    minimum_wage_effective_max = round(data.loc[data['feature'] == 'minimum_wage_effective']['max'].item(), 2)
+    CPI_Average_min = round(data.loc[data['feature'] == 'cpi_average']['min'].item(), 2)
+    CPI_Average_max = round(data.loc[data['feature'] == 'cpi_average']['max'].item(), 2)
+    inflation_rate_min = round(data.loc[data['feature'] == 'inflation_rate']['min'].item(), 2)
+    inflation_rate_max = round(data.loc[data['feature'] == 'inflation_rate']['max'].item(), 2)
+    avg_wage_index_min = round(data.loc[data['feature'] == 'avg_wage_index']['min'].item(), 2)
+    avg_wage_index_max = round(data.loc[data['feature'] == 'avg_wage_index']['max'].item(), 2)
+    education_per_capita_min = round(data.loc[data['feature'] == 'education_per_capita']['min'].item(), 2)
+    education_per_capita_max = round(data.loc[data['feature'] == 'education_per_capita']['max'].item(), 2)
+    welfare_per_capita_min = round(data.loc[data['feature'] == 'welfare_per_capita']['min'].item(), 2)
+    welfare_per_capita_max = round(data.loc[data['feature'] == 'welfare_per_capita']['max'].item(), 2)
 
     return render_template('forecast.html', crime_rate_min = crime_rate_min, crime_rate_max = crime_rate_max,
     unemployment_rate_min = unemployment_rate_min, unemployment_rate_max = unemployment_rate_max,
@@ -105,9 +121,9 @@ def tables():
 def maps():
     return render_template("maps.html")
 
-@app.route("/about")
-def about():
-    return render_template("about.html")
+@app.route("/analysis")
+def analysis():
+    return render_template("analysis.html")
 
 
 if __name__ == '__main__':
