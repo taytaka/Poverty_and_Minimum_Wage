@@ -1,7 +1,6 @@
 absl-py==0.13.0
 alabaster==0.7.12
 anaconda-client
-anaconda-project 
 anyio 
 appdirs==1.4.4
 argh==0.26.2
