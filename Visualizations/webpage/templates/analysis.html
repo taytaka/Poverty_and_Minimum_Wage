@@ -23,13 +23,13 @@
   <!-- Importing the other links -->
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
     integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
-  </script>
+    </script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
     integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
-  </script>
+    </script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
     integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
-  </script>
+    </script>
   ​
   <style>
     .jumbotron {
@@ -83,7 +83,7 @@
       <h1 class="display-4">Predicting Poverty Rates With Machine
         Learning </h1>
       <ul class="nav justify-content-center">
-        <p class="lead">Analysis</p>
+        <h2 class="lead">Analysis</h2>
     </div>
   </div>
 
@@ -111,14 +111,16 @@
   <br>
   <hr style="border: 1px solid #F8F8FF;" />
   <br>
+  <br>
+
   <!-- Analysis -->
-  <div class="container-fluid padding">
+  <div class="container padding">
     <div class="row welcome text-center">
       <hr>
       <div class="col-12">
-        <h4>Can poverty levels be extrapolated from historical economic indicators?
-        </h4>
-        <p class="lead">Overall, extrapolating poverty rates from historical economic indicators is possible however,
+        <h2>Can poverty levels be extrapolated from historical economic indicators?</h2>
+        <p class="lead text-left text-break">
+          Overall, extrapolating poverty rates from historical economic indicators is possible however,
           instances vary by state. Because of the nature of the data, it is difficult to look at all of the data
           together and understand the relationship. Each state has its own laws and regulations concerning most of the
           features, which was found to greatly impact the correlation between states, economic indicators, and poverty
@@ -127,10 +129,15 @@
           learning model is trained separately on each state individually so the most accurate prediction is made. The
           machine learning model is used on the “Predicting Poverty Rates” tab of this webpage, where a user can input
           the same number for each economic indicator for two different states and come up with a different poverty rate
-          for each state.</p>
+          for each state.
+        </p>
 
-        <h4>Which economic indicators have the highest correlation with poverty rates?</h4>
-        <p class="lead">Unemployment rate and homeownership rate are the two economic indicators that most closely
+        <br>
+        <br>
+
+        <h2>Which economic indicators have the highest correlation with poverty rates?</h2>
+        <p class="lead text-left text-break">
+          Unemployment rate and homeownership rate are the two economic indicators that most closely
           correlate to poverty rates.
           The chart “Unemployment Rate vs. Poverty Rate” illustrates that as unemployment rates increase so does poverty
           rates.
@@ -138,10 +145,15 @@
           rates also increase.
         </p>
 
-        <h4> How does adjusting certain economic indicators affect the poverty rate?</h4>
-        <p class="lead">To view how adjusting economic indicators affects the poverty rate, use the machine learning
+        <br>
+        <br>
+
+        <h2> How does adjusting certain economic indicators affect the poverty rate?</h2>
+        <p class="lead text-left text-break">
+          To view how adjusting economic indicators affects the poverty rate, use the machine learning
           model on the “Predicting Poverty Rates” tab of this webpage. Once there, the user can input a desired level
-          for each economic indicator and see how changing those indicators impacts poverty rate per state.</p>
+          for each economic indicator and see how changing those indicators impacts poverty rate per state.
+        </p>
 
 
 

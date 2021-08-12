@@ -2,52 +2,46 @@
 <html lang="en">
 
 <head>
-   <!-- Meta Tags -->
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Meta Tags -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Predicting Poverty With Machine Learning</title>
+  <title>Predicting Poverty With Machine Learning</title>
 
-    <!--Importing Bootstrap-->
-    <link rel="stylesheet" href="static/css/style.css">
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="">
+  <!--Importing Bootstrap-->
+  <link rel="stylesheet" href="static/css/style.css">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="">
 
-    <!-- Importing Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <!-- Importing Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-    <!-- Importing the other links -->
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
-      integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
-      crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-      integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
-      crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
-      integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
-      crossorigin="anonymous"></script>
-    ​
-    <style>
-      .jumbotron {
-        color: white;
-      }
-    </style>
+  <!-- Importing the other links -->
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+  ​
+  <style>
+    .jumbotron {
+      color: white;
+    }
+  </style>
 
 </head>
-
-
-
-
 
 <!-- Meta Tags -->
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>Predicting Poverty With Machine Learning</title>
 
 <!--Importing Bootstrap-->
 <link rel="stylesheet" href="static/css/style.css">
@@ -66,6 +60,7 @@
   integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
   integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 ​
 <style>
   .jumbotron {
@@ -114,123 +109,149 @@
   <br>
   <hr style="border: 1px solid #F8F8FF;" />
   <br>
-</body>
 
 
-<form class="form-horizontal" action = "/ranges" method = "POST">
-  <div class="form-container-fluid">
-    <div class="text-left">
-      <div class="row">
-        <div class="col-md-12" style="overflow-x: scroll;">
-          <div class="input-group">
-            <div class="input-group-prepend">
-              <label class="input-group-text" for="stateChoice">Select the state you wish to predict poverty for</label>
+
+  <form class="form-horizontal" action="/ranges" method="POST">
+    <div class="form-container-fluid">
+      <div class="text-left">
+        <div class="row">
+          <div class="col-md-12" style="overflow-x: scroll;">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <label class="input-group-text" for="stateChoice">Select the state you wish to predict poverty
+                  for</label>
               </div>
-            <select name="stateChoice" id="stateChoice">
-            </select>
-          </div>
-          <div id="tbody">
-          </div>
-          <button type="submit" class="btn btn-default">Select State</button>
+              <select name="stateChoice" id="stateChoice">
+              </select>
+            </div>
+            <div id="tbody">
+            </div>
+            <button type="submit" class="w3-btn w3-blue">Select State</button>
 
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</form>
-<script src="static/js/tables.js"></script>
-
-
-<div class= "form-group">
-  <form class="form-horizontal" action = "/predict" method = "POST">
-
-    <div class = "row col-lg-8">{{ prediction_text }}</div>
-
-    <div class = "row col-lg-8">Pre-populated with 2019 National data</div>
-
-    <div class = "form-group row">
-      <label class = "control-label col-sm-2" for="crime_rate">Crime Rate</label>
-      <div class = "col-sm-4">
-        <input type = "text" class = "form-control" id = "crime_rate" name = "crime_rate" placeholder="379.4">
-        <label>Enter values from {{crime_rate_min}} to {{crime_rate_max}}</label>
-      </div>
-    </div>
-
-    <div class = "form-group row">
-      <label class = "control-label col-sm-2" for="unemployment_rate">Unemployment Rate</label>
-      <div class = "col-sm-4">
-        <input type = "text" class = "form-control" id = "unemployment_rate" name = "unemployment_rate" placeholder="3.7">
-        <label>Enter values from {{unemployment_rate_min}} to {{unemployment_rate_max}}</label>
-      </div>
-    </div>
-
-    <div class = "form-group row">
-      <label class = "control-label col-sm-2" for="divorce_rate_per_1000_people">Divorce Rate (Per 1000 people)</label>
-      <div class = "col-sm-4">
-        <input type = "text" class = "form-control" id = "divorce_rate_per_1000_people" name = "divorce_rate_per_1000_people" placeholder="2.7">
-        <label>Enter values from {{divorce_rate_per_1000_people_min}} to {{divorce_rate_per_1000_people_max}}</label>
-      </div>
-    </div>
-
-    <div class = "form-group row">
-      <label class = "control-label col-sm-2" for="homeownership_rate">Homeownership Rate</label>
-      <div class = "col-sm-4">
-        <input type = "text" class = "form-control" id = "homeownership_rate" name = "homeownership_rate" placeholder="3.72">
-        <label>Enter values from {{homeownership_rate_min}} to {{homeownership_rate_max}}</label>
-      </div>
-    </div>
-
-    <div class = "form-group row">
-      <label class = "control-label col-sm-2" for="minimum_wage_effective">Minimim Wage</label>
-      <div class = "col-sm-4">
-        <input type = "text" class = "form-control" id = "minimum_wage_effective" name = "minimum_wage_effective" placeholder="9.1">
-        <label>Enter values from {{minimum_wage_effective_min}} to {{minimum_wage_effective_max}}</label>
-      </div>
-    </div>
-
-    <div class = "form-group row">
-      <label class = "control-label col-sm-2" for="CPI_Average">CPI Average</label>
-      <div class = "col-sm-4">
-        <input type = "text" class = "form-control" id = "CPI_Average" name = "CPI_Average" placeholder="255.66">
-        <label>Enter values from {{CPI_Average_min}} to {{CPI_Average_max}}</label>
-      </div>
-    </div>
-
-    <div class = "form-group row">
-      <label class = "control-label col-sm-2" for="inflation_rate">Inflation Rate</label>
-      <div class = "col-sm-4">
-        <input type = "text" class = "form-control" id = "inflation_rate" name = "inflation_rate" placeholder="1.8">
-        <label>Enter values from {{inflation_rate_min}} to {{inflation_rate_max}}</label>
-      </div>
-    </div>
-
-    <div class = "form-group row">
-      <label class = "control-label col-sm-2" for="avg_wage_index">Average Wage Index</label>
-      <div class = "col-sm-4">
-        <input type = "text" class = "form-control" id = "avg_wage_index" name = "avg_wage_index" placeholder="54099.9">
-        <label>Enter values from {{avg_wage_index_min}} to {{avg_wage_index_max}}</label>
-      </div>
-    </div>
-
-    <div class = "form-group row">
-      <label class = "control-label col-sm-2" for="education_per_capita">Education Spending per Capita</label>
-      <div class = "col-sm-4">
-        <input type = "text" class = "form-control" id = "education_per_capita" name = "education_per_capita" placeholder="3602.8">
-        <label>Enter values from {{education_per_capita_min}} to {{education_per_capita_max}}</label>
-      </div>
-    </div>
-
-    <div class = "form-group row">
-      <label class = "control-label col-sm-2" for="welfare_per_capita">Welfare Spending per Capita</label>
-      <div class = "col-sm-4">
-        <input type = "text" class = "form-control" id = "welfare_per_capita" name = "welfare_per_capita" placeholder="1413.6">
-        <label>Enter values from {{welfare_per_capita_min}} to {{welfare_per_capita_max}}</label>
-      </div>
-    </div>
-
-    <button type="submit" class="btn btn-primary btn-block btn-large">Predict Poverty Rate</button>
   </form>
+  <script src="static/js/tables.js"></script>
+  <br>
+  <div class="row col-lg-8">{{ range_text }}</div>
 
-</div>
+  <div class="row">
+    <div class="col-md-8">
+      <div class="form-group">
+        <form class="form-horizontal" action="/predict" method="POST">
+          <div class="text-left">
+
+
+            <div class="form-group row">
+              <label class="control-label col-sm-4" for="crime_rate">Crime Rate</label>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="crime_rate" name="crime_rate" placeholder="379.4">
+                <label>Enter values from {{crime_rate_min}} to {{crime_rate_max}}</label>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <label class="control-label col-sm-4" for="unemployment_rate">Unemployment Rate</label>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="unemployment_rate" name="unemployment_rate"
+                  placeholder="3.7">
+                <label>Enter values from {{unemployment_rate_min}} to {{unemployment_rate_max}}</label>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <label class="control-label col-sm-4" for="divorce_rate_per_1000_people">Divorce Rate (Per 1000
+                people)</label>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="divorce_rate_per_1000_people"
+                  name="divorce_rate_per_1000_people" placeholder="2.7">
+                <label>Enter values from {{divorce_rate_per_1000_people_min}} to
+                  {{divorce_rate_per_1000_people_max}}</label>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <label class="control-label col-sm-4" for="homeownership_rate">Homeownership Rate</label>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="homeownership_rate" name="homeownership_rate"
+                  placeholder="3.72">
+                <label>Enter values from {{homeownership_rate_min}} to {{homeownership_rate_max}}</label>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <label class="control-label col-sm-4" for="minimum_wage_effective">Minimim Wage</label>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="minimum_wage_effective" name="minimum_wage_effective"
+                  placeholder="9.1">
+                <label>Enter values from {{minimum_wage_effective_min}} to {{minimum_wage_effective_max}}</label>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <label class="control-label col-sm-4" for="CPI_Average">CPI Average</label>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="CPI_Average" name="CPI_Average" placeholder="255.66">
+                <label>Enter values from {{CPI_Average_min}} to {{CPI_Average_max}}</label>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <label class="control-label col-sm-4" for="inflation_rate">Inflation Rate</label>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="inflation_rate" name="inflation_rate" placeholder="1.8">
+                <label>Enter values from {{inflation_rate_min}} to {{inflation_rate_max}}</label>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <label class="control-label col-sm-4" for="avg_wage_index">Average Wage Index</label>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="avg_wage_index" name="avg_wage_index" placeholder="54099.9">
+                <label>Enter values from {{avg_wage_index_min}} to {{avg_wage_index_max}}</label>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <label class="control-label col-sm-4" for="education_per_capita">Education Spending per Capita</label>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="education_per_capita" name="education_per_capita"
+                  placeholder="3602.8">
+                <label>Enter values from {{education_per_capita_min}} to {{education_per_capita_max}}</label>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <label class="control-label col-sm-4" for="welfare_per_capita">Welfare Spending per Capita</label>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="welfare_per_capita" name="welfare_per_capita"
+                  placeholder="1413.6">
+                <label>Enter values from {{welfare_per_capita_min}} to {{welfare_per_capita_max}}</label>
+              </div>
+            </div>
+
+
+
+            <button type="submit" class="btn btn-primary btn-block btn-large">Predict Poverty Rate</button>
+          </div>
+
+        </form>
+      </div>
+
+    </div>
+    <div class="col-md-4">
+      <h1>
+        <div>{{ prediction_text }}</div>
+      </h1>
+
+    </div>
+
+
+  </div>
+
+</body>
 
 </html>
