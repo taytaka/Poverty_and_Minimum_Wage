@@ -50,7 +50,7 @@ def predict():
     form_values = [x for x in request.form.values()]
     state = selected_state.pop()
     ml_features = [int(x) for x in form_values]
-    file_path = f"../../../Machine_Learning/Best_Models/{state}.sav"
+    file_path = f"../../Machine_Learning/Best_Models/{state}.sav"
     model = pickle.load(open(file_path, 'rb'))
     input_features = [np.array(ml_features)]
     prediction = model.predict(input_features)
@@ -62,7 +62,7 @@ def predict():
 def ranges():
     state = request.form.get('stateChoice')
     selected_state.append(state)
-    data = pd.read_csv("static/js/min_max_values.csv")
+    data = pd.read_csv("static/min_max_values.csv")
     data = data.loc[data['state'] == state]
     crime_rate_min = data.loc[data['feature'] == 'crime_rate']['min'].item()
     crime_rate_max = data.loc[data['feature'] == 'crime_rate']['max'].item()

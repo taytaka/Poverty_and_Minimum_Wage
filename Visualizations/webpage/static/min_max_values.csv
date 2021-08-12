@@ -1,0 +1,562 @@
+state,feature,min,max
+National,crime_rate,372.0,758.1
+National,unemployment_rate,3.71836707699005,9.86085724560746
+National,divorce_rate_per_1000_people,2.7,5.3
+National,homeownership_rate,3.72,9.86
+National,minimum_wage_effective,2.226666666666668,9.068823529411764
+National,cpi_average,56.900000000000055,255.65699999999978
+National,inflation_rate,-0.4,13.5
+National,avg_wage_index,9226.48,54099.99
+National,poverty_rate,12.3,16.79
+National,education_per_capita,494.5493097328816,3602.8157646270524
+National,welfare_per_capita,332.59674110949777,2168.2455783038663
+Alabama,crime_rate,383.7,871.7
+Alabama,unemployment_rate,3.0,11.3
+Alabama,divorce_rate_per_1000_people,2.7,4.9778
+Alabama,homeownership_rate,66.5,78.0
+Alabama,minimum_wage_effective,3.35,7.25
+Alabama,cpi_average,103.9,255.657
+Alabama,inflation_rate,-0.4,5.4
+Alabama,avg_wage_index,16135.07,54099.99
+Alabama,poverty_rate,13.5,26.3
+Alabama,education_per_capita,664.0688259109312,3061.7766911165445
+Alabama,welfare_per_capita,219.3825910931174,726.0120406892256
+Alaska,crime_rate,455.4,891.7
+Alaska,unemployment_rate,5.4,11.1
+Alaska,divorce_rate_per_1000_people,2.7,4.9778
+Alaska,homeownership_rate,55.4,70.0
+Alaska,minimum_wage_effective,3.85,10.19
+Alaska,cpi_average,103.9,255.657
+Alaska,inflation_rate,-0.4,5.4
+Alaska,avg_wage_index,16135.07,54099.99
+Alaska,poverty_rate,9.9,19.6
+Alaska,education_per_capita,2242.3597678916826,5032.926829268293
+Alaska,welfare_per_capita,835.090909090909,1636.842105263158
+Arizona,crime_rate,392.7,715.0
+Arizona,unemployment_rate,3.8,10.3
+Arizona,divorce_rate_per_1000_people,2.7,4.9778
+Arizona,homeownership_rate,61.7,71.6
+Arizona,minimum_wage_effective,3.35,12.0
+Arizona,cpi_average,103.9,255.657
+Arizona,inflation_rate,-0.4,5.4
+Arizona,avg_wage_index,16135.07,54099.99
+Arizona,poverty_rate,13.5,33.59
+Arizona,education_per_capita,810.7084557623244,2264.4883410069806
+Arizona,welfare_per_capita,222.13263454948597,655.7827376307165
+Arkansas,crime_rate,321.4,595.1
+Arkansas,unemployment_rate,3.5,8.5
+Arkansas,divorce_rate_per_1000_people,2.7,4.9778
+Arkansas,homeownership_rate,64.7,71.2
+Arkansas,minimum_wage_effective,3.35,9.25
+Arkansas,cpi_average,103.9,255.657
+Arkansas,inflation_rate,-0.4,5.4
+Arkansas,avg_wage_index,16135.07,54099.99
+Arkansas,poverty_rate,12.6,28.2
+Arkansas,education_per_capita,604.9307958477509,2916.600265604249
+Arkansas,welfare_per_capita,265.0497512437811,657.1184120465434
+California,crime_rate,396.4,1119.7
+California,unemployment_rate,4.2,12.5
+California,divorce_rate_per_1000_people,2.7,4.9778
+California,homeownership_rate,53.6,60.2
+California,minimum_wage_effective,3.35,12.0
+California,cpi_average,103.9,255.657
+California,inflation_rate,-0.4,5.4
+California,avg_wage_index,16135.07,54099.99
+California,poverty_rate,11.8,26.6
+California,education_per_capita,761.8990708971048,3825.4348597799076
+California,welfare_per_capita,517.132503180539,1477.6809437772345
+Colorado,crime_rate,305.4,578.8
+Colorado,unemployment_rate,2.6,9.2
+Colorado,divorce_rate_per_1000_people,2.7,4.9778
+Colorado,homeownership_rate,58.6,71.3
+Colorado,minimum_wage_effective,3.35,12.0
+Colorado,cpi_average,103.9,255.657
+Colorado,inflation_rate,-0.4,5.4
+Colorado,avg_wage_index,16135.07,54099.99
+Colorado,poverty_rate,9.4,19.3
+Colorado,education_per_capita,891.7898193760263,3336.8088467614534
+Colorado,welfare_per_capita,309.81294964028774,852.6545166402535
+Connecticut,crime_rate,183.6,553.7
+Connecticut,unemployment_rate,2.1,9.6
+Connecticut,divorce_rate_per_1000_people,2.7,4.9778
+Connecticut,homeownership_rate,63.8,73.0
+Connecticut,minimum_wage_effective,3.37,11.0
+Connecticut,cpi_average,103.9,255.657
+Connecticut,inflation_rate,-0.4,5.4
+Connecticut,avg_wage_index,16135.07,54099.99
+Connecticut,poverty_rate,8.7,13.9
+Connecticut,education_per_capita,695.4373820012586,4275.771172181716
+Connecticut,welfare_per_capita,420.2013845185652,1322.54819782062
+Delaware,crime_rate,422.5,785.9
+Delaware,unemployment_rate,3.0,8.7
+Delaware,divorce_rate_per_1000_people,2.7,4.9778
+Delaware,homeownership_rate,67.7,77.3
+Delaware,minimum_wage_effective,3.35,9.25
+Delaware,cpi_average,103.9,255.657
+Delaware,inflation_rate,-0.4,5.4
+Delaware,avg_wage_index,16135.07,54099.99
+Delaware,poverty_rate,10.0,16.8
+Delaware,education_per_capita,944.5337620578778,4294.268167860799
+Delaware,welfare_per_capita,283.147853736089,992.1111111111111
+Florida,crime_rate,378.4,1244.3
+Florida,unemployment_rate,2.5,10.8
+Florida,divorce_rate_per_1000_people,2.7,4.9778
+Florida,homeownership_rate,64.1,72.4
+Florida,minimum_wage_effective,3.35,8.56
+Florida,cpi_average,103.9,255.657
+Florida,inflation_rate,-0.4,5.4
+Florida,avg_wage_index,16135.07,54099.99
+Florida,poverty_rate,12.7,22.5
+Florida,education_per_capita,630.130084279956,2278.8156752062528
+Florida,welfare_per_capita,173.11286185415904,687.7799002440836
+Georgia,crime_rate,338.9,756.3
+Georgia,unemployment_rate,3.5,10.7
+Georgia,divorce_rate_per_1000_people,2.7,4.9778
+Georgia,homeownership_rate,62.3,71.8
+Georgia,minimum_wage_effective,3.35,7.25
+Georgia,cpi_average,103.9,255.657
+Georgia,inflation_rate,-0.4,5.4
+Georgia,avg_wage_index,16135.07,54099.99
+Georgia,poverty_rate,13.5,23.0
+Georgia,education_per_capita,615.438536501966,2829.262325931502
+Georgia,welfare_per_capita,245.8900655572365,656.322075782537
+Hawaii,crime_rate,219.4,295.6
+Hawaii,unemployment_rate,2.2,6.8
+Hawaii,divorce_rate_per_1000_people,2.7,4.9778
+Hawaii,homeownership_rate,50.2,60.6
+Hawaii,minimum_wage_effective,3.35,10.1
+Hawaii,cpi_average,103.9,255.657
+Hawaii,inflation_rate,-0.4,5.4
+Hawaii,avg_wage_index,16135.07,54099.99
+Hawaii,poverty_rate,9.0,24.1
+Hawaii,education_per_capita,707.3529411764706,2772.972972972973
+Hawaii,welfare_per_capita,404.86641221374043,1060.190615835777
+Idaho,crime_rate,202.2,322.0
+Idaho,unemployment_rate,2.8,8.8
+Idaho,divorce_rate_per_1000_people,2.7,4.9778
+Idaho,homeownership_rate,68.4,75.5
+Idaho,minimum_wage_effective,3.35,7.25
+Idaho,cpi_average,103.9,255.657
+Idaho,inflation_rate,-0.4,5.4
+Idaho,avg_wage_index,16135.07,54099.99
+Idaho,poverty_rate,9.2,22.8
+Idaho,education_per_capita,665.015479876161,2231.906392694064
+Idaho,welfare_per_capita,235.60371517027866,707.511139401655
+Illinois,crime_rate,370.9,1039.2
+Illinois,unemployment_rate,4.0,10.5
+Illinois,divorce_rate_per_1000_people,2.7,4.9778
+Illinois,homeownership_rate,60.6,72.7
+Illinois,minimum_wage_effective,3.35,9.25
+Illinois,cpi_average,103.9,255.657
+Illinois,inflation_rate,-0.4,5.4
+Illinois,avg_wage_index,16135.07,54099.99
+Illinois,poverty_rate,11.4,20.7
+Illinois,education_per_capita,699.2387119355967,3105.7996070726917
+Illinois,welfare_per_capita,428.3076653832691,1080.7958881707032
+Indiana,crime_rate,305.2,537.0
+Indiana,unemployment_rate,2.9,10.5
+Indiana,divorce_rate_per_1000_people,2.7,4.9778
+Indiana,homeownership_rate,66.1,75.8
+Indiana,minimum_wage_effective,3.35,7.25
+Indiana,cpi_average,103.9,255.657
+Indiana,inflation_rate,-0.4,5.4
+Indiana,avg_wage_index,16135.07,54099.99
+Indiana,poverty_rate,8.4,18.3
+Indiana,education_per_capita,715.9470246734398,2801.896088384592
+Indiana,welfare_per_capita,211.34915014164307,885.3027268525651
+Iowa,crime_rate,198.7,354.4
+Iowa,unemployment_rate,2.6,7.4
+Iowa,divorce_rate_per_1000_people,2.7,4.9778
+Iowa,homeownership_rate,66.3,76.6
+Iowa,minimum_wage_effective,3.35,7.25
+Iowa,cpi_average,103.9,255.657
+Iowa,inflation_rate,-0.4,5.4
+Iowa,avg_wage_index,16135.07,54099.99
+Iowa,poverty_rate,7.7,19.4
+Iowa,education_per_capita,870.7487753673897,3595.1428571428573
+Iowa,welfare_per_capita,337.2288313505948,752.7040314650934
+Kansas,crime_rate,334.2,510.8
+Kansas,unemployment_rate,3.2,7.0
+Kansas,divorce_rate_per_1000_people,2.7,4.9778
+Kansas,homeownership_rate,63.2,72.7
+Kansas,minimum_wage_effective,3.35,7.25
+Kansas,cpi_average,103.9,255.657
+Kansas,inflation_rate,-0.4,5.4
+Kansas,avg_wage_index,16135.07,54099.99
+Kansas,poverty_rate,10.2,16.3
+Kansas,education_per_capita,832.835201328352,3465.8771026433233
+Kansas,welfare_per_capita,220.15122873345933,722.21833449965
+Kentucky,crime_rate,210.9,535.5
+Kentucky,unemployment_rate,4.1,10.8
+Kentucky,divorce_rate_per_1000_people,2.7,4.9778
+Kentucky,homeownership_rate,64.9,75.1
+Kentucky,minimum_wage_effective,3.35,7.25
+Kentucky,cpi_average,103.9,255.657
+Kentucky,inflation_rate,-0.4,5.4
+Kentucky,avg_wage_index,16135.07,54099.99
+Kentucky,poverty_rate,13.3,24.5
+Kentucky,education_per_capita,623.0727322255517,2938.77688172043
+Kentucky,welfare_per_capita,304.3410041841004,781.2557497700093
+Louisiana,crime_rate,496.3,1061.7
+Louisiana,unemployment_rate,4.1,12.5
+Louisiana,divorce_rate_per_1000_people,2.7,4.9778
+Louisiana,homeownership_rate,63.3,73.5
+Louisiana,minimum_wage_effective,3.35,7.25
+Louisiana,cpi_average,103.9,255.657
+Louisiana,inflation_rate,-0.4,5.4
+Louisiana,avg_wage_index,16135.07,54099.99
+Louisiana,poverty_rate,16.3,27.3
+Louisiana,education_per_capita,765.693257359924,2860.863031343924
+Louisiana,welfare_per_capita,240.87608339189504,1512.3090745732256
+Maine,crime_rate,103.7,167.5
+Maine,unemployment_rate,2.7,8.4
+Maine,divorce_rate_per_1000_people,2.7,4.9778
+Maine,homeownership_rate,69.9,77.4
+Maine,minimum_wage_effective,3.35,12.0
+Maine,cpi_average,103.9,255.657
+Maine,inflation_rate,-0.4,5.4
+Maine,avg_wage_index,16135.07,54099.99
+Maine,poverty_rate,9.4,18.0
+Maine,education_per_capita,671.6738197424893,2790.8208955223877
+Maine,welfare_per_capita,421.6309012875536,1370.8489857250188
+Maryland,crime_rate,448.0,1000.1
+Maryland,unemployment_rate,3.5,7.8
+Maryland,divorce_rate_per_1000_people,2.7,4.9778
+Maryland,homeownership_rate,62.7,72.6
+Maryland,minimum_wage_effective,3.35,11.0
+Maryland,cpi_average,103.9,255.657
+Maryland,inflation_rate,-0.4,5.4
+Maryland,avg_wage_index,16135.07,54099.99
+Maryland,poverty_rate,9.1,15.6
+Maryland,education_per_capita,812.9003157419937,3557.5968222442903
+Maryland,welfare_per_capita,348.7595850248083,997.7198134392814
+Massachusetts,crime_rate,327.6,804.9
+Massachusetts,unemployment_rate,2.8,8.8
+Massachusetts,divorce_rate_per_1000_people,2.7,4.9778
+Massachusetts,homeownership_rate,58.6,65.8
+Massachusetts,minimum_wage_effective,3.35,12.75
+Massachusetts,cpi_average,103.9,255.657
+Massachusetts,inflation_rate,-0.4,5.4
+Massachusetts,avg_wage_index,16135.07,54099.99
+Massachusetts,poverty_rate,9.5,17.4
+Massachusetts,education_per_capita,653.1896699161963,3584.191443074692
+Massachusetts,welfare_per_capita,537.1643577903199,1572.0225403594272
+Michigan,crime_rate,420.6,803.9
+Michigan,unemployment_rate,3.6,13.1
+Michigan,divorce_rate_per_1000_people,2.7,4.9778
+Michigan,homeownership_rate,70.6,77.4
+Michigan,minimum_wage_effective,3.35,9.65
+Michigan,cpi_average,103.9,255.657
+Michigan,inflation_rate,-0.4,5.4
+Michigan,avg_wage_index,16135.07,54099.99
+Michigan,poverty_rate,11.6,20.0
+Michigan,education_per_capita,847.3423180592991,3299.5393089634454
+Michigan,welfare_per_capita,459.1678564144402,1080.805831139907
+Minnesota,crime_rate,211.5,359.0
+Minnesota,unemployment_rate,2.7,7.9
+Minnesota,divorce_rate_per_1000_people,2.7,4.9778
+Minnesota,homeownership_rate,65.8,77.3
+Minnesota,minimum_wage_effective,3.35,8.15
+Minnesota,cpi_average,103.9,255.657
+Minnesota,inflation_rate,-0.4,5.4
+Minnesota,avg_wage_index,16135.07,54099.99
+Minnesota,poverty_rate,7.6,17.9
+Minnesota,education_per_capita,897.9966611018365,3620.9841326439646
+Minnesota,welfare_per_capita,510.4221321249702,1165.9762756543023
+Mississippi,crime_rate,256.2,502.8
+Mississippi,unemployment_rate,5.0,11.4
+Mississippi,divorce_rate_per_1000_people,2.7,4.9778
+Mississippi,homeownership_rate,69.2,78.8
+Mississippi,minimum_wage_effective,3.35,7.25
+Mississippi,cpi_average,103.9,255.657
+Mississippi,inflation_rate,-0.4,5.4
+Mississippi,avg_wage_index,16135.07,54099.99
+Mississippi,poverty_rate,15.7,30.0
+Mississippi,education_per_capita,610.8182533438238,2794.4257891202146
+Mississippi,welfare_per_capita,213.5653409090909,562.7061595422416
+Missouri,crime_rate,433.7,763.0
+Missouri,unemployment_rate,3.2,9.5
+Missouri,divorce_rate_per_1000_people,2.7,4.9778
+Missouri,homeownership_rate,63.7,74.8
+Missouri,minimum_wage_effective,3.35,9.45
+Missouri,cpi_average,103.9,255.657
+Missouri,inflation_rate,-0.4,5.4
+Missouri,avg_wage_index,16135.07,54099.99
+Missouri,poverty_rate,10.1,19.6
+Missouri,education_per_capita,612.2097678142513,2609.2508143322475
+Missouri,welfare_per_capita,239.13130504403523,670.4969979986657
+Montana,crime_rate,116.0,404.9
+Montana,unemployment_rate,3.3,7.9
+Montana,divorce_rate_per_1000_people,2.7,4.9778
+Montana,homeownership_rate,64.4,72.4
+Montana,minimum_wage_effective,3.35,8.65
+Montana,cpi_average,103.9,255.657
+Montana,inflation_rate,-0.4,5.4
+Montana,avg_wage_index,16135.07,54099.99
+Montana,poverty_rate,11.3,22.4
+Montana,education_per_capita,960.9848484848485,2935.0282485875705
+Montana,welfare_per_capita,295.2380952380953,858.8294651866802
+Nebraska,crime_rate,225.8,451.4
+Nebraska,unemployment_rate,2.4,5.1
+Nebraska,divorce_rate_per_1000_people,2.7,4.9778
+Nebraska,homeownership_rate,66.1,71.2
+Nebraska,minimum_wage_effective,3.35,9.0
+Nebraska,cpi_average,103.9,255.657
+Nebraska,inflation_rate,-0.4,5.4
+Nebraska,avg_wage_index,16135.07,54099.99
+Nebraska,poverty_rate,8.8,20.3
+Nebraska,education_per_capita,840.1780038143675,3859.154929577465
+Nebraska,welfare_per_capita,253.90972663699935,769.0163934426229
+Nevada,crime_rate,493.8,1001.9
+Nevada,unemployment_rate,3.9,13.8
+Nevada,divorce_rate_per_1000_people,2.7,4.9778
+Nevada,homeownership_rate,54.1,65.7
+Nevada,minimum_wage_effective,3.35,7.25
+Nevada,cpi_average,103.9,255.657
+Nevada,inflation_rate,-0.4,5.4
+Nevada,avg_wage_index,16135.07,54099.99
+Nevada,poverty_rate,12.6,20.5
+Nevada,education_per_capita,598.619957537155,2638.4988676803623
+Nevada,welfare_per_capita,273.4072022160665,1132.9755736491488
+New Hampshire,crime_rate,96.5,223.2
+New Hampshire,unemployment_rate,2.2,7.3
+New Hampshire,divorce_rate_per_1000_people,2.7,4.9778
+New Hampshire,homeownership_rate,64.8,76.0
+New Hampshire,minimum_wage_effective,3.35,7.25
+New Hampshire,cpi_average,103.9,255.657
+New Hampshire,inflation_rate,-0.4,5.4
+New Hampshire,avg_wage_index,16135.07,54099.99
+New Hampshire,poverty_rate,7.3,13.9
+New Hampshire,education_per_capita,597.0766129032257,3167.158671586716
+New Hampshire,welfare_per_capita,265.7258064516129,1105.433962264151
+New Jersey,crime_rate,206.9,647.6
+New Jersey,unemployment_rate,3.4,9.7
+New Jersey,divorce_rate_per_1000_people,2.7,4.9778
+New Jersey,homeownership_rate,62.2,70.1
+New Jersey,minimum_wage_effective,3.35,11.0
+New Jersey,cpi_average,103.9,255.657
+New Jersey,inflation_rate,-0.4,5.4
+New Jersey,avg_wage_index,16135.07,54099.99
+New Jersey,poverty_rate,9.1,16.7
+New Jersey,education_per_capita,789.998668264749,4281.848852901485
+New Jersey,welfare_per_capita,421.0813690238381,1439.69769291965
+New Mexico,crime_rate,559.6,961.4
+New Mexico,unemployment_rate,3.6,9.2
+New Mexico,divorce_rate_per_1000_people,2.7,4.9778
+New Mexico,homeownership_rate,65.4,73.7
+New Mexico,minimum_wage_effective,3.35,9.0
+New Mexico,cpi_average,103.9,255.657
+New Mexico,inflation_rate,-0.4,5.4
+New Mexico,avg_wage_index,16135.07,54099.99
+New Mexico,poverty_rate,15.1,26.9
+New Mexico,education_per_capita,975.650289017341,3330.796019900498
+New Mexico,welfare_per_capita,241.97976878612718,656.3680387409202
+New York,crime_rate,350.8,1180.9
+New York,unemployment_rate,3.8,8.7
+New York,divorce_rate_per_1000_people,2.7,4.9778
+New York,homeownership_rate,50.3,55.9
+New York,minimum_wage_effective,3.35,11.8
+New York,cpi_average,103.9,255.657
+New York,inflation_rate,-0.4,5.4
+New York,avg_wage_index,16135.07,54099.99
+New York,poverty_rate,13.1,22.9
+New York,education_per_capita,900.2594472645234,4567.253376995497
+New York,welfare_per_capita,699.8195149464184,1439.8814432989693
+North Carolina,crime_rate,329.1,681.0
+North Carolina,unemployment_rate,3.3,11.0
+North Carolina,divorce_rate_per_1000_people,2.7,4.9778
+North Carolina,homeownership_rate,65.1,71.7
+North Carolina,minimum_wage_effective,3.35,7.25
+North Carolina,cpi_average,103.9,255.657
+North Carolina,inflation_rate,-0.4,5.4
+North Carolina,avg_wage_index,16135.07,54099.99
+North Carolina,poverty_rate,13.6,21.3
+North Carolina,education_per_capita,687.7795786061589,2875.145224264356
+North Carolina,welfare_per_capita,225.81847649918961,869.5039164490862
+North Dakota,crime_rate,47.0,284.6
+North Dakota,unemployment_rate,2.3,5.6
+North Dakota,divorce_rate_per_1000_people,2.7,4.9778
+North Dakota,homeownership_rate,61.4,71.0
+North Dakota,minimum_wage_effective,3.35,7.25
+North Dakota,cpi_average,103.9,255.657
+North Dakota,inflation_rate,-0.4,5.4
+North Dakota,avg_wage_index,16135.07,54099.99
+North Dakota,poverty_rate,8.8,18.4
+North Dakota,education_per_capita,990.8809891808346,4284.78835978836
+North Dakota,welfare_per_capita,379.1862284820031,849.2063492063492
+Ohio,crime_rate,285.7,561.8
+Ohio,unemployment_rate,4.1,10.3
+Ohio,divorce_rate_per_1000_people,2.7,4.9778
+Ohio,homeownership_rate,66.0,73.3
+Ohio,minimum_wage_effective,3.35,8.7
+Ohio,cpi_average,103.9,255.657
+Ohio,inflation_rate,-0.4,5.4
+Ohio,avg_wage_index,16135.07,54099.99
+Ohio,poverty_rate,11.0,17.1
+Ohio,education_per_capita,718.6835536655265,3174.822361099221
+Ohio,welfare_per_capita,403.42309046110523,1148.0977554380795
+Oklahoma,crime_rate,407.5,664.1
+Oklahoma,unemployment_rate,3.0,8.3
+Oklahoma,divorce_rate_per_1000_people,2.7,4.9778
+Oklahoma,homeownership_rate,66.8,72.9
+Oklahoma,minimum_wage_effective,3.35,7.25
+Oklahoma,cpi_average,103.9,255.657
+Oklahoma,inflation_rate,-0.4,5.4
+Oklahoma,avg_wage_index,16135.07,54099.99
+Oklahoma,poverty_rate,12.0,21.0
+Oklahoma,education_per_capita,829.9381711682396,2722.3268839103866
+Oklahoma,welfare_per_capita,233.9828757012105,656.1968085106383
+Oregon,crime_rate,242.8,551.1
+Oregon,unemployment_rate,3.7,10.8
+Oregon,divorce_rate_per_1000_people,2.7,4.9778
+Oregon,homeownership_rate,61.0,69.0
+Oregon,minimum_wage_effective,3.35,11.25
+Oregon,cpi_average,103.9,255.657
+Oregon,inflation_rate,-0.4,5.4
+Oregon,avg_wage_index,16135.07,54099.99
+Oregon,poverty_rate,11.5,19.8
+Oregon,education_per_capita,897.1639042357275,3606.4516129032254
+Oregon,welfare_per_capita,378.7450126949583,1446.5607210626185
+Pennsylvania,crime_rate,305.4,480.3
+Pennsylvania,unemployment_rate,4.2,8.9
+Pennsylvania,divorce_rate_per_1000_people,2.7,4.9778
+Pennsylvania,homeownership_rate,68.5,75.2
+Pennsylvania,minimum_wage_effective,3.35,7.25
+Pennsylvania,cpi_average,103.9,255.657
+Pennsylvania,inflation_rate,-0.4,5.4
+Pennsylvania,avg_wage_index,16135.07,54099.99
+Pennsylvania,poverty_rate,10.8,18.0
+Pennsylvania,education_per_capita,638.8425574930502,3576.5606688022503
+Pennsylvania,welfare_per_capita,452.4724117597506,1300.0078672016364
+Rhode Island,crime_rate,219.8,462.0
+Rhode Island,unemployment_rate,2.9,11.6
+Rhode Island,divorce_rate_per_1000_people,2.7,4.9778
+Rhode Island,homeownership_rate,56.3,64.9
+Rhode Island,minimum_wage_effective,3.35,10.5
+Rhode Island,cpi_average,103.9,255.657
+Rhode Island,inflation_rate,-0.4,5.4
+Rhode Island,avg_wage_index,16135.07,54099.99
+Rhode Island,poverty_rate,11.6,17.7
+Rhode Island,education_per_capita,753.044375644995,3533.2703213610584
+Rhode Island,welfare_per_capita,563.4674922600619,1276.0910815939278
+South Carolina,crime_rate,497.8,1030.5
+South Carolina,unemployment_rate,2.8,11.4
+South Carolina,divorce_rate_per_1000_people,2.7,4.9778
+South Carolina,homeownership_rate,67.1,77.5
+South Carolina,minimum_wage_effective,3.35,7.25
+South Carolina,cpi_average,103.9,255.657
+South Carolina,inflation_rate,-0.4,5.4
+South Carolina,avg_wage_index,16135.07,54099.99
+South Carolina,poverty_rate,12.9,23.8
+South Carolina,education_per_capita,654.183266932271,3083.071484681854
+South Carolina,welfare_per_capita,193.1045050566963,669.3054357204487
+South Dakota,crime_rate,113.7,429.8
+South Dakota,unemployment_rate,2.5,4.9
+South Dakota,divorce_rate_per_1000_people,2.7,4.9778
+South Dakota,homeownership_rate,65.6,71.5
+South Dakota,minimum_wage_effective,3.35,9.3
+South Dakota,cpi_average,103.9,255.657
+South Dakota,inflation_rate,-0.4,5.4
+South Dakota,avg_wage_index,16135.07,54099.99
+South Dakota,poverty_rate,9.8,22.1
+South Dakota,education_per_capita,654.183266932271,3083.071484681854
+South Dakota,welfare_per_capita,193.1045050566963,669.3054357204487
+Tennessee,crime_rate,445.4,789.7
+Tennessee,unemployment_rate,3.4,10.1
+Tennessee,divorce_rate_per_1000_people,2.7,4.9778
+Tennessee,homeownership_rate,64.1,72.4
+Tennessee,minimum_wage_effective,3.35,7.25
+Tennessee,cpi_average,103.9,255.657
+Tennessee,inflation_rate,-0.4,5.4
+Tennessee,avg_wage_index,16135.07,54099.99
+Tennessee,poverty_rate,13.7,23.9
+Tennessee,education_per_capita,547.2039123963427,2221.584538211862
+Tennessee,welfare_per_capita,255.6240697427174,692.546875
+Texas,crime_rate,406.7,840.1
+Texas,unemployment_rate,3.5,8.8
+Texas,divorce_rate_per_1000_people,2.7,4.9778
+Texas,homeownership_rate,58.3,66.0
+Texas,minimum_wage_effective,3.35,7.25
+Texas,cpi_average,103.9,255.657
+Texas,inflation_rate,-0.4,5.4
+Texas,avg_wage_index,16135.07,54099.99
+Texas,poverty_rate,13.6,22.7
+Texas,education_per_capita,841.8947230587928,3483.1614171870146
+Texas,welfare_per_capita,201.83972764174416,548.4747642817526
+Utah,crime_rate,197.1,334.0
+Utah,unemployment_rate,2.5,7.9
+Utah,divorce_rate_per_1000_people,2.7,4.9778
+Utah,homeownership_rate,68.0,76.2
+Utah,minimum_wage_effective,3.35,7.25
+Utah,cpi_average,103.9,255.657
+Utah,inflation_rate,-0.4,5.4
+Utah,avg_wage_index,16135.07,54099.99
+Utah,poverty_rate,8.8,18.2
+Utah,education_per_capita,929.0839205637412,3366.6244057052304
+Utah,welfare_per_capita,260.75353218210364,718.3063063063063
+Vermont,crime_rate,96.9,202.2
+Vermont,unemployment_rate,2.3,6.3
+Vermont,divorce_rate_per_1000_people,2.7,4.9778
+Vermont,homeownership_rate,66.9,74.6
+Vermont,minimum_wage_effective,3.35,10.96
+Vermont,cpi_average,103.9,255.657
+Vermont,inflation_rate,-0.4,5.4
+Vermont,avg_wage_index,16135.07,54099.99
+Vermont,poverty_rate,8.8,17.7
+Vermont,education_per_capita,848.3992467043314,4933.12
+Vermont,welfare_per_capita,382.2975517890772,1518.0511182108626
+Virginia,crime_rate,191.5,374.9
+Virginia,unemployment_rate,2.3,7.3
+Virginia,divorce_rate_per_1000_people,2.7,4.9778
+Virginia,homeownership_rate,66.0,75.1
+Virginia,minimum_wage_effective,3.35,7.25
+Virginia,cpi_average,103.9,255.657
+Virginia,inflation_rate,-0.4,5.4
+Virginia,avg_wage_index,16135.07,54099.99
+Virginia,poverty_rate,9.9,15.9
+Virginia,education_per_capita,740.8080451658433,3290.3003389038213
+Virginia,welfare_per_capita,215.80804516584334,706.3434695912264
+Washington,crime_rate,285.8,534.5
+Washington,unemployment_rate,4.1,9.3
+Washington,divorce_rate_per_1000_people,2.7,4.9778
+Washington,homeownership_rate,61.6,67.6
+Washington,minimum_wage_effective,3.35,13.5
+Washington,cpi_average,103.9,255.657
+Washington,inflation_rate,-0.4,5.4
+Washington,avg_wage_index,16135.07,54099.99
+Washington,poverty_rate,9.8,17.2
+Washington,education_per_capita,842.3617407071623,3623.1167795934634
+Washington,welfare_per_capita,456.18766999093384,1236.0077117010233
+West Virginia,crime_rate,131.4,362.7
+West Virginia,unemployment_rate,4.7,14.1
+West Virginia,divorce_rate_per_1000_people,2.7,4.9778
+West Virginia,homeownership_rate,72.0,81.3
+West Virginia,minimum_wage_effective,3.35,8.75
+West Virginia,cpi_average,103.9,255.657
+West Virginia,inflation_rate,-0.4,5.4
+West Virginia,avg_wage_index,16135.07,54099.99
+West Virginia,poverty_rate,11.6,27.9
+West Virginia,education_per_capita,729.1092258748674,3037.102854065697
+West Virginia,welfare_per_capita,281.62700608743774,744.4075304540421
+Wisconsin,crime_rate,196.5,321.8
+Wisconsin,unemployment_rate,3.0,9.0
+Wisconsin,divorce_rate_per_1000_people,2.7,4.9778
+Wisconsin,homeownership_rate,63.8,73.3
+Wisconsin,minimum_wage_effective,3.35,7.25
+Wisconsin,cpi_average,103.9,255.657
+Wisconsin,inflation_rate,-0.4,5.4
+Wisconsin,avg_wage_index,16135.07,54099.99
+Wisconsin,poverty_rate,8.5,16.2
+Wisconsin,education_per_capita,913.622096672944,3452.2403433476393
+Wisconsin,welfare_per_capita,457.60619376438586,1118.6259005447198
+Wyoming,crime_rate,195.4,319.5
+Wyoming,unemployment_rate,2.6,8.6
+Wyoming,divorce_rate_per_1000_people,2.7,4.9778
+Wyoming,homeownership_rate,65.8,73.8
+Wyoming,minimum_wage_effective,3.35,7.25
+Wyoming,cpi_average,103.9,255.657
+Wyoming,inflation_rate,-0.4,5.4
+Wyoming,avg_wage_index,16135.07,54099.99
+Wyoming,poverty_rate,8.6,17.1
+Wyoming,education_per_capita,1666.3736263736264,5437.606837606838
+Wyoming,welfare_per_capita,250.0,856.637168141593
