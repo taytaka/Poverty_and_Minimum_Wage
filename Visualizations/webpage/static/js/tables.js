@@ -74,7 +74,7 @@ var stateSelectTag = document.querySelector("#stateChoice");
 var options = "";
 for (var i = 0; i < stateChoices.length; i++) {
   var choice = stateChoices[i];
-  var option = `<option value=${choice}>${choice}</option>`;
+  var option = `<option value="${choice}">${choice}</option>`;
   options += option;
 }
 stateSelectTag.innerHTML = options;
