@@ -1,1 +1,1 @@
-web: gunicorn Visualizations\webpage.app:app
+web: gunicorn app:app
