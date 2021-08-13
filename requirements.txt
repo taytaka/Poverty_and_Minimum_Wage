@@ -8,7 +8,7 @@ jsonschema
 matplotlib 
 numpy==1.19.5
 numpydoc 
-pandas 
+pandas==1.1.3
 path 
 pathlib2 
 pathspec==0.7.0
