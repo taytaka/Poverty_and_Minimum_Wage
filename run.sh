@@ -1,0 +1,1 @@
+FLASK_APP=Visualizations/webpage/app.py flask run

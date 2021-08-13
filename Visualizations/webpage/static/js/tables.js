@@ -106,7 +106,7 @@ function initalFetch() {
 initalFetch();
 
 function filterByState(state, data) {
-  console.log("COmparing: ", state);
+  console.log("Comparing: ", state);
   var data = data.filter(function (row) {
     return row.state == state;
   });
