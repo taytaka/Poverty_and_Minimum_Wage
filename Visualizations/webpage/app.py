@@ -55,11 +55,11 @@ def predict():
     # aggregate features
     ml_features = [float(x) for x in form_values]
     # Retrieve/load model and predict
-    # file_path = f"../../Machine_Learning/Best_Models/{state}.sav"
-    script_dir = os.path.dirname(__file__)
-    rel_path = f"{state}.sav"
-    rel_to_cwd_path = os.path.join(script_dir, rel_path)
-    model = pickle.load(open(rel_to_cwd_path, 'rb'))
+    file_path = f"../../Machine_Learning/Best_Models/{state}.sav"
+    # script_dir = os.path.dirname(__file__)
+    # rel_path = f"{state}.sav"
+    # rel_to_cwd_path = os.path.join(script_dir, rel_path)
+    model = pickle.load(open(file_path, 'rb'))
     input_features = [np.array(ml_features)]
     prediction = model.predict(input_features)[0]
     # Get information regarding the model used
