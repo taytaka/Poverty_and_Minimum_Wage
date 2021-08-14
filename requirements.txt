@@ -12,7 +12,8 @@ pandas==1.1.3
 path 
 pathlib2 
 pathspec==0.7.0
-pickleshare 
+pickleshare
+pickle
 Pillow 
 pkginfo==1.7.0
 plotly 
