@@ -6,3 +6,11 @@ a.nav-link.btn {
 a.navbar {
     font-size: 20px;
 }
+
+table {
+    font-size: 10px;
+
+}
+th{
+    width: 10px;
+}

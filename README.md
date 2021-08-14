@@ -137,7 +137,7 @@ After connecting to the database via SQLAlchemy, the dataset `economic_features`
 
 Next, a `DecisionTreeRegressor` was used to create a model for the entire dataset, where the score was added to the `state_scores` as `"Entire"`, and the model was saved using Pickle. These models were trained and tested using `train_test_split()`, with a training size of 0.8. A function called `display_metrics` was created to take in a state name and output its R-Squared value and the models ranked feature importance. The `DecisionTreeRegressor` worked very well for most states, but very poorly for others. Dropping column(s) would increase the accuracy for some, while worsening the score for others and a few states would have very poor scores regardless of how the model was adjusted. 
 
-### Model Selection, training
+### Model Training and storage
 
 After in depth evaluation of both `LinearRegressor` and `DecissionTreeRegressor` models, the following decisions were reached:
 
