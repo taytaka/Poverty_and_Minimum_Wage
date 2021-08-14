@@ -10,6 +10,7 @@ from sqlalchemy import create_engine, func
 from flask import Flask, json, jsonify
 from flask import Flask, render_template, request
 import pickle
+import os
 
 
 #Set up database engine to access postgres database file
@@ -76,7 +77,7 @@ def ranges():
     state = request.form.get('stateChoice')
     selected_state.append(state)
     # Read in min and max value csv for ranges of each feature
-    data = pd.read_csv("./static/min_max_values.csv")
+    data = pd.read_csv(f"{os.getcwd()}" + "/static/min_max_values.csv")
     # Narrow down df to selected state
     data = data.loc[data['state'] == state]
     # Gather min and max values for each feature
