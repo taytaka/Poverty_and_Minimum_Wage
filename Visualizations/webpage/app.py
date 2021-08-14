@@ -51,16 +51,20 @@ def predict():
     # Get ml feature values from form
     form_values = [x for x in request.form.values()]
     # Get state
-    state = selected_state.pop()
+    # state = selected_state.pop()
+    state = request.form.get('stateChoice')
     # aggregate features
     ml_features = [float(x) for x in form_values]
     # Retrieve/load model and predict
-    file_path = f"../../Machine_Learning/Best_Models/{state}.sav"
+    file_path = f"/app/Visualizations/webpage/Best_Models/{state}.sav"
+    # script_dir = os.path.dirname(__file__)
+    # rel_path = f"{state}.sav"
+    # rel_to_cwd_path = os.path.join(script_dir, rel_path)
     model = pickle.load(open(file_path, 'rb'))
     input_features = [np.array(ml_features)]
     prediction = model.predict(input_features)[0]
     # Get information regarding the model used
-    model_info = pd.read_csv("../../Machine_Learning/Model_summary.csv")
+    model_info = pd.read_csv("https://raw.githubusercontent.com/taytaka/Poverty_and_Minimum_Wage/main/Machine_Learning/Model_summary.csv", sep=",")
     model_used = model_info.loc[model_info['State'] == state]
     model_type = model_used["Model"].item()
     model_score = round(model_used["R2 Score"].item(), 2)
@@ -77,7 +81,7 @@ def ranges():
     state = request.form.get('stateChoice')
     selected_state.append(state)
     # Read in min and max value csv for ranges of each feature
-    data = pd.read_csv("https://raw.githubusercontent.com/taytaka/Poverty_and_Minimum_Wage/main/Visualizations/webpage/min_max_values.csv", sep=",")
+    data = pd.read_csv("https://raw.githubusercontent.com/taytaka/Poverty_and_Minimum_Wage/main/Visualizations/webpage/static/min_max_values.csv", sep=",")
     # Narrow down df to selected state
     data = data.loc[data['state'] == state]
     # Gather min and max values for each feature
