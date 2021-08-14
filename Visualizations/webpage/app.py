@@ -86,7 +86,9 @@ def ranges():
     inflation_rate_min = inflation_rate_min, inflation_rate_max = inflation_rate_max,
     avg_wage_index_min = avg_wage_index_min, avg_wage_index_max = avg_wage_index_max,
     education_per_capita_min = education_per_capita_min, education_per_capita_max = education_per_capita_max,
-    welfare_per_capita_min = welfare_per_capita_min, welfare_per_capita_max = welfare_per_capita_max, range_text = f'Please enter values within the given ranges for the selected state: {state}.')@app.route("/predict", methods = ['GET', 'POST'])
+    welfare_per_capita_min = welfare_per_capita_min, welfare_per_capita_max = welfare_per_capita_max, range_text = f'Please enter values within the given ranges for the selected state: {state}.')
+    
+@app.route("/predict", methods = ['GET', 'POST'])
 
 def predict():
     # Get ml feature values from form
