@@ -93,8 +93,7 @@ function initalFetch() {
   document.querySelector("#spinner").style.display = "flex";
   document.querySelector("#jsondata");
   d3.json("static/js/data.json", function (error, data) {
-    if(error)
-      console.log("error", error);
+    if (error) console.log("error", error);
 
     console.log("Data", data);
     // render the table(s)
@@ -117,7 +116,7 @@ function tabulate(data, columns) {
   console.log("data", data);
   document.querySelector("#spinner").style.display = "none";
   var table = d3.select("#tbody").append("table");
-  table.attr('class', 'table table-striped');
+  table.attr("class", "table table-striped");
   var thead = table.append("thead");
   var tbody = table.append("tbody");
 
