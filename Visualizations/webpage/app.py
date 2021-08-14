@@ -55,7 +55,7 @@ def predict():
     # aggregate features
     ml_features = [float(x) for x in form_values]
     # Retrieve/load model and predict
-    file_path = f"Best_Models/{state}.sav"
+    file_path = f"/app/Visualizations/webpage/Best_Models/{state}.sav"
     # script_dir = os.path.dirname(__file__)
     # rel_path = f"{state}.sav"
     # rel_to_cwd_path = os.path.join(script_dir, rel_path)
