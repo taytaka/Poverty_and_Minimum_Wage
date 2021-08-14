@@ -8,7 +8,7 @@ Looking at the economic situation of the US during and coming out of COVID, it i
 
 ## Data Sources
 - Population & Education and Welfare Spending, usgovernmentspending.com https://www.usgovernmentspending.com/download_multi_year  
-- Crime Rate, FBI Crime Data Explorer https://crime-dataexplorer.app.cloud.gov/pages/explorer/crime/crime-trend
+- Crime Rate, FBI Crime Data Explorer https://crime-data-explorer.app.cloud.gov/pages/explorer/crime/crime-trend
 - Unemployment Rate, Bureau of Labor Statistics https://www.bls.gov/lau/
 - Divorce Rate, CDC, https://www.cdc.gov/nchs/nvss/marriage-divorce.htm
 - Homeownership Rate FRED.gov (Federal Reserve Bank) https://fred.stlouisfed.org/series/USHOWN 
