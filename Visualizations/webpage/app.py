@@ -52,8 +52,9 @@ state_dict = {}
 def ranges():
     # Get state from dropdown and append to selected_state to be used in /predict
     state = request.form.get('stateChoice')
-    state_dict['state'] = state
-    # selected_state.add(state)
+    state_file = 'selectedState.txt'
+    with open(state_file, 'w') as file_to_write:
+        file_to_write.write(f'{state}')
     # Read in min and max value csv for ranges of each feature
     data = pd.read_csv("https://raw.githubusercontent.com/taytaka/Poverty_and_Minimum_Wage/main/Visualizations/webpage/static/min_max_values.csv", sep=",")
     # Narrow down df to selected state
@@ -98,29 +99,27 @@ def predict():
     # Get ml feature values from form
     form_values = [x for x in request.form.values()]
     # Get state
-    if state_dict['state']:
-        state = state_dict['state']
-        # aggregate features
-        ml_features = [float(x) for x in form_values]
-        # Retrieve/load model and predict
-        file_path = f"/app/Visualizations/webpage/Best_Models/{state}.sav"
-        model = pickle.load(open(file_path, 'rb'))
-        input_features = [np.array(ml_features)]
-        prediction = model.predict(input_features)[0]
-        # Get information regarding the model used
-        model_info = pd.read_csv("https://raw.githubusercontent.com/taytaka/Poverty_and_Minimum_Wage/main/Machine_Learning/Model_summary.csv", sep=",")
-        model_used = model_info.loc[model_info['State'] == state]
-        model_type = model_used["Model"].item()
-        model_score = round(model_used["R2 Score"].item(), 2)
-        error_message= ''
-    else:
-        error_message = 'Please select a state'
+    state_file_info = open('selectedState.txt', 'r')
+    state = state_file_info.read()
+    # aggregate features
+    ml_features = [float(x) for x in form_values]
+    # Retrieve/load model and predict
+    file_path = f"/app/Visualizations/webpage/Best_Models/{state}.sav"
+    model = pickle.load(open(file_path, 'rb'))
+    input_features = [np.array(ml_features)]
+    prediction = model.predict(input_features)[0]
+    # Get information regarding the model used
+    model_info = pd.read_csv("https://raw.githubusercontent.com/taytaka/Poverty_and_Minimum_Wage/main/Machine_Learning/Model_summary.csv", sep=",")
+    model_used = model_info.loc[model_info['State'] == state]
+    model_type = model_used["Model"].item()
+    model_score = round(model_used["R2 Score"].item(), 2)
+    
+
 
     return render_template('forecast.html', prediction_text = f'The predicted poverty rate is {prediction} percent.',
                             selected_state = f'State Selected: {state}.',
                             model_type = f'Model Type: {model_type}.',
-                            r2_value = f'Model R-Squared Score: {model_score}.',
-                            error_message = error_message)
+                            r2_value = f'Model R-Squared Score: {model_score}.')
 
 
 
