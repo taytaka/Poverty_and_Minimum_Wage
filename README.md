@@ -26,24 +26,9 @@ Looking at the economic situation of the US during and coming out of COVID, it i
 - Which economic indicator has the highest impact on poverty levels?
 - How does adjusting certain economic indicators affect the poverty rate?
 
-## Communication Protocols
-
-We used Slack as our main communication method. In the event of a technical issue or emergency, we exchanged emails and phone numbers to stay connected. A Google Doc was created to outline our project and clarify the roles each team member will take on for each portion of the first segment deliverable.
-
 ## Team Members
 
 Ha Duong, Kyle Gee, Jose Orellana, Jeanette Perthel, and Taylor Takanishi
-
-### Roles
-
-- Square: Taylor Takanishi created the GitHub repository and its branches
-- Triangle: Ha Duong spear-headed the machine learning model with Taylor Takanishi assistance
-- Jeanette Perthel and Jose Orellana collected, processed, explored the data 
-- Ha Duong and Jeanette Perthal collaborated on the web page and visualizations
-- Circle: Kyle Gee established the AWS RDS database and SQL schema
-- X: All members of the team participated in the selection of technologies and tools used in this project. Each role provided input for machine learning, data cleaning and analysis, database storage, web page and dashboards
-- Project outline: Jose Orellana created the initial outline for the project
-- Presentation: All members of the team participated in presentation preparation 
 
 ## Technologies Used
 
