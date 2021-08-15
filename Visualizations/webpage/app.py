@@ -44,14 +44,13 @@ def forecast():
     return render_template("forecast.html")
     
 
-selected_state = []
+selected_state = set()
 @app.route("/ranges", methods = ['GET', 'POST'])
 
 def ranges():
     # Get state from dropdown and append to selected_state to be used in /predict
-    global state 
     state = request.form.get('stateChoice')
-    selected_state.append(state)
+    selected_state.add(state)
     # Read in min and max value csv for ranges of each feature
     data = pd.read_csv("https://raw.githubusercontent.com/taytaka/Poverty_and_Minimum_Wage/main/Visualizations/webpage/static/min_max_values.csv", sep=",")
     # Narrow down df to selected state
@@ -95,7 +94,7 @@ def predict():
     # Get ml feature values from form
     form_values = [x for x in request.form.values()]
     # Get state
-    # state = selected_state.pop()
+    state = selected_state.pop()
     # aggregate features
     ml_features = [float(x) for x in form_values]
     # Retrieve/load model and predict
