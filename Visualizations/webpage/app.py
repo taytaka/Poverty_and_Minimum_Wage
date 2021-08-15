@@ -8,11 +8,10 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 from flask import Flask, json, jsonify
-from flask import Flask, render_template, request, session
+from flask import Flask, render_template, request
 import pickle
 import os
 
-app.secret_key = 'secretKey'
 
 
 #Set up database engine to access postgres database file
@@ -45,6 +44,7 @@ def trends():
 def forecast():
     return render_template("forecast.html")
     
+state_dict = {}
 
 # selected_state = set()
 @app.route("/ranges", methods = ['GET', 'POST'])
@@ -52,7 +52,7 @@ def forecast():
 def ranges():
     # Get state from dropdown and append to selected_state to be used in /predict
     state = request.form.get('stateChoice')
-    session['selectedState'] = state
+    state_dict['state'] = state
     # selected_state.add(state)
     # Read in min and max value csv for ranges of each feature
     data = pd.read_csv("https://raw.githubusercontent.com/taytaka/Poverty_and_Minimum_Wage/main/Visualizations/webpage/static/min_max_values.csv", sep=",")
@@ -98,28 +98,31 @@ def predict():
     # Get ml feature values from form
     form_values = [x for x in request.form.values()]
     # Get state
-    # state = selected_state.pop()
-    state = session['selectedState']
-    # aggregate features
-    ml_features = [float(x) for x in form_values]
-    # Retrieve/load model and predict
-    file_path = f"/app/Visualizations/webpage/Best_Models/{state}.sav"
-    # script_dir = os.path.dirname(__file__)
-    # rel_path = f"{state}.sav"
-    # rel_to_cwd_path = os.path.join(script_dir, rel_path)
-    model = pickle.load(open(file_path, 'rb'))
-    input_features = [np.array(ml_features)]
-    prediction = model.predict(input_features)[0]
-    # Get information regarding the model used
-    model_info = pd.read_csv("https://raw.githubusercontent.com/taytaka/Poverty_and_Minimum_Wage/main/Machine_Learning/Model_summary.csv", sep=",")
-    model_used = model_info.loc[model_info['State'] == state]
-    model_type = model_used["Model"].item()
-    model_score = round(model_used["R2 Score"].item(), 2)
+    if state_dict['state']:
+        state = state_dict['state']
+        # aggregate features
+        ml_features = [float(x) for x in form_values]
+        # Retrieve/load model and predict
+        file_path = f"/app/Visualizations/webpage/Best_Models/{state}.sav"
+        # script_dir = os.path.dirname(__file__)
+        # rel_path = f"{state}.sav"
+        # rel_to_cwd_path = os.path.join(script_dir, rel_path)
+        model = pickle.load(open(file_path, 'rb'))
+        input_features = [np.array(ml_features)]
+        prediction = model.predict(input_features)[0]
+        # Get information regarding the model used
+        model_info = pd.read_csv("https://raw.githubusercontent.com/taytaka/Poverty_and_Minimum_Wage/main/Machine_Learning/Model_summary.csv", sep=",")
+        model_used = model_info.loc[model_info['State'] == state]
+        model_type = model_used["Model"].item()
+        model_score = round(model_used["R2 Score"].item(), 2)
+    else:
+        error_message = 'Please select a state'
 
     return render_template('forecast.html', prediction_text = f'The predicted poverty rate is {prediction} percent.',
                             selected_state = f'State Selected: {state}.',
                             model_type = f'Model Type: {model_type}.',
-                            r2_value = f'Model R-Squared Score: {model_score}.')
+                            r2_value = f'Model R-Squared Score: {model_score}.',
+                            error_message = error_message)
 
 
 
