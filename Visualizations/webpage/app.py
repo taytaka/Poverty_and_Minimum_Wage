@@ -99,7 +99,7 @@ def predict():
     form_values = [x for x in request.form.values()]
     # Get state
     # state = selected_state.pop()
-    state = session.get('selectedState', '')
+    state = session['selectedState']
     # aggregate features
     ml_features = [float(x) for x in form_values]
     # Retrieve/load model and predict
