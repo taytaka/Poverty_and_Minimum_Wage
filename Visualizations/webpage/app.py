@@ -104,9 +104,6 @@ def predict():
         ml_features = [float(x) for x in form_values]
         # Retrieve/load model and predict
         file_path = f"/app/Visualizations/webpage/Best_Models/{state}.sav"
-        # script_dir = os.path.dirname(__file__)
-        # rel_path = f"{state}.sav"
-        # rel_to_cwd_path = os.path.join(script_dir, rel_path)
         model = pickle.load(open(file_path, 'rb'))
         input_features = [np.array(ml_features)]
         prediction = model.predict(input_features)[0]
@@ -115,6 +112,7 @@ def predict():
         model_used = model_info.loc[model_info['State'] == state]
         model_type = model_used["Model"].item()
         model_score = round(model_used["R2 Score"].item(), 2)
+        error_message= ''
     else:
         error_message = 'Please select a state'
 
