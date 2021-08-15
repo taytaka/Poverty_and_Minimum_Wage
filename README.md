@@ -1,5 +1,7 @@
 # Poverty and Minimum Wage
 
+This project can be viewed at: https://predicting-poverty-rates.herokuapp.com/
+
 ## Topic
 
 This project analyzes if and how major economic indicators: population, education spending, welfare spending, crime rate, unemployment rate, divorce rate, homeownership rate, effective minimum wage, average wage index, consumer price index (CPI), and inflation rate, can predict poverty rates in the United States on both the state and national level.
@@ -26,24 +28,9 @@ Looking at the economic situation of the US during and coming out of COVID, it i
 - Which economic indicator has the highest impact on poverty levels?
 - How does adjusting certain economic indicators affect the poverty rate?
 
-## Communication Protocols
-
-We used Slack as our main communication method. In the event of a technical issue or emergency, we exchanged emails and phone numbers to stay connected. A Google Doc was created to outline our project and clarify the roles each team member will take on for each portion of the first segment deliverable.
-
 ## Team Members
 
 Ha Duong, Kyle Gee, Jose Orellana, Jeanette Perthel, and Taylor Takanishi
-
-### Roles
-
-- Square: Taylor Takanishi created the GitHub repository and its branches
-- Triangle: Ha Duong spear-headed the machine learning model with Taylor Takanishi assistance
-- Jeanette Perthel and Jose Orellana collected, processed, explored the data 
-- Ha Duong and Jeanette Perthal collaborated on the web page and visualizations
-- Circle: Kyle Gee established the AWS RDS database and SQL schema
-- X: All members of the team participated in the selection of technologies and tools used in this project. Each role provided input for machine learning, data cleaning and analysis, database storage, web page and dashboards
-- Project outline: Jose Orellana created the initial outline for the project
-- Presentation: All members of the team participated in presentation preparation 
 
 ## Technologies Used
 
@@ -78,11 +65,15 @@ Data exploration included investigating the relationship between independent var
 
 Amazons RDS for PostgreSQL is used to store the database. All of our data was combined into one dataset, which was imported into the `economic_features_full` table. This table was used to create two new tables, `features_table` and `target_table`. The `features_table` contains all the information for the features used in the machine learning model to target poverty rates. The `target_table` contained the `year`, `state`, and `poverty_rate` information used as a target for our machine learning model. These two tables were then joined into an `economic_features` table containing all the data, without any rows containing null values. Finally, a `high_low_poverty` table was created and populated using the data from the `economic_features` table. This table contains the data for each state for the year with the highest and lowest poverty rates.
 
+Below is the ERD for the database.
+
+![ERD.png](Database/ERD.png)
+
 ## Machine Learning
 
 ### Overall Vision
 
-Use ML to forecast poverty rate based on an user entered set of features (input values).
+Use machine learning to forecast poverty rate based on an user entered set of features (input values).
 
 ### Approach
 
@@ -107,7 +98,11 @@ The independent variables, or features, included the following socio-economic me
 
 The dependent variable (target) was the poverty rate.
 
-### Additional pre-processing
+Below is a heatmap of how each feature correlates to poverty rate.
+
+![heatmap.png](Resources/Images/heatmap.png)
+
+### Additional Pre-Processing
 
 During analysis of the data, it was discovered that education and welfare spending per capita had a better correlation to poverty rate than the total expenditure amount.  So, after loading the data, the features `education_spending_per_capital` and `welfare_spending_per_capita` were calculate and the total spending and population numbers dropped from the dataset.
 
@@ -145,6 +140,10 @@ After in depth evaluation of both `LinearRegressor` and `DecissionTreeRegressor`
 - `LinearRegressor` and `DecissionTreeRegressor` models were trained for each state using a 90:10 train-test split their R2 scores tallied  and reviewed. The split at this point ensured that new points were used for the R2 score calculation.
 - The model with the highest R2 Score was used, retrained using all the available data points for the state and saved using `Pickle` for later use.
 
+The below image shows how for each state the importance of each feature varies. 
+
+![feature_importance.png](Resources/Images/feature_importance.png)
+
 ### Accurary Score
 
 Due to the nature of the poverty rate and its complex relationship with social and economic factors, it was expected that some states would have better scores than others.
@@ -154,6 +153,10 @@ In practice, 67% (34) of the models have an R2 score higher than 0.75, and 80% (
 A few models (7) have negative R2 scores.  This indicates that the model is unreliable and should be used with attention.
 
 A decision was made to include all states in the forecasting interface and present the user with the R2 score together with the model type and the forecasted `poverty_rate` when using the tool.
+
+Below is a snapshot of part of our model summary of each state's most accurate model and its R2 score. For the full model summary, please see `Machine_Learning/Model_summary.csv`
+
+![model_summary.png](Resources/Images/model_summary.png)
 
 ### Benefits
 
