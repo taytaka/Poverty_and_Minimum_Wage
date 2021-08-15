@@ -8,9 +8,11 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 from flask import Flask, json, jsonify
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, session
 import pickle
 import os
+
+app.secret_key = 'secretKey'
 
 
 #Set up database engine to access postgres database file
@@ -44,13 +46,14 @@ def forecast():
     return render_template("forecast.html")
     
 
-selected_state = set()
+# selected_state = set()
 @app.route("/ranges", methods = ['GET', 'POST'])
 
 def ranges():
     # Get state from dropdown and append to selected_state to be used in /predict
     state = request.form.get('stateChoice')
-    selected_state.add(state)
+    session['selectedState'] = state
+    # selected_state.add(state)
     # Read in min and max value csv for ranges of each feature
     data = pd.read_csv("https://raw.githubusercontent.com/taytaka/Poverty_and_Minimum_Wage/main/Visualizations/webpage/static/min_max_values.csv", sep=",")
     # Narrow down df to selected state
@@ -87,6 +90,7 @@ def ranges():
     avg_wage_index_min = avg_wage_index_min, avg_wage_index_max = avg_wage_index_max,
     education_per_capita_min = education_per_capita_min, education_per_capita_max = education_per_capita_max,
     welfare_per_capita_min = welfare_per_capita_min, welfare_per_capita_max = welfare_per_capita_max, range_text = f'Please enter values within the given ranges for the selected state: {state}.')
+
     
 @app.route("/predict", methods = ['GET', 'POST'])
 
@@ -94,7 +98,8 @@ def predict():
     # Get ml feature values from form
     form_values = [x for x in request.form.values()]
     # Get state
-    state = selected_state.pop()
+    # state = selected_state.pop()
+    state = session.get('selectedState', '')
     # aggregate features
     ml_features = [float(x) for x in form_values]
     # Retrieve/load model and predict
