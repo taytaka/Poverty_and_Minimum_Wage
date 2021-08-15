@@ -49,7 +49,7 @@ selected_state = []
 
 def ranges():
     # Get state from dropdown and append to selected_state to be used in /predict
-    state = request.form.get('stateChoice')
+    global state = request.form.get('stateChoice')
     selected_state.append(state)
     # Read in min and max value csv for ranges of each feature
     data = pd.read_csv("https://raw.githubusercontent.com/taytaka/Poverty_and_Minimum_Wage/main/Visualizations/webpage/static/min_max_values.csv", sep=",")
@@ -94,7 +94,7 @@ def predict():
     # Get ml feature values from form
     form_values = [x for x in request.form.values()]
     # Get state
-    state = selected_state.pop()
+    # state = selected_state.pop()
     # aggregate features
     ml_features = [float(x) for x in form_values]
     # Retrieve/load model and predict
