@@ -44,9 +44,8 @@ def trends():
 def forecast():
     return render_template("forecast.html")
     
-state_dict = {}
 
-# selected_state = set()
+
 @app.route("/ranges", methods = ['GET', 'POST'])
 
 def ranges():
