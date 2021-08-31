@@ -14,19 +14,19 @@ import os
 
 
 
-#Set up database engine to access postgres database file
-engine = create_engine('postgresql://postgres:finalproject@database-1.czpjmlarn3xk.us-east-2.rds.amazonaws.com/finaldb')
-# Create the auto_map base
-Base = automap_base()
-# Reflect the tables
-Base.prepare(engine, reflect = True)
+# #Set up database engine to access postgres database file
+# engine = create_engine('postgresql://postgres:finalproject@database-1.czpjmlarn3xk.us-east-2.rds.amazonaws.com/finaldb')
+# # Create the auto_map base
+# Base = automap_base()
+# # Reflect the tables
+# Base.prepare(engine, reflect = True)
 
-# Save references to each table
-Features = Base.classes.economic_features_full
+# # Save references to each table
+# Features = Base.classes.economic_features_full
 
-# Create session link
-session = Session(engine)
-#features_table = session.query(Features.poverty_rate).all()
+# # Create session link
+# session = Session(engine)
+# #features_table = session.query(Features.poverty_rate).all()
 
 # Create Flask application
 app = Flask(__name__)
